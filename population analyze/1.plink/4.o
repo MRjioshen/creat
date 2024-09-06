@@ -1,0 +1,58 @@
+Sender: jhscheduler System <jhadmin@node52>
+Subject: Job 5336505: <P> Done
+
+Job <P> was submitted from host <node119> by user <2015010869>.
+Job was executed on host(s) <6*node52>, in queue <jynodequeue>, as user <2015010869>.
+</stor9000/apps/users/NWSUAF/2015010869> was used as the home directory.
+</stor9000/apps/users/NWSUAF/2015010869/zhaojiahao/analyze/2.population/1.plink> was used as the working directory.
+Started at Fri Oct  6 15:11:39 2023
+Results reported at Fri Oct  6 15:12:27 2023
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+bash 4_plink.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :     46.26 sec.
+    Max Memory :      2863 MB
+    Max Swap   :     64434 MB
+
+    Max Processes  :         4
+
+The output (if any) follows:
+
+PLINK v1.90b3.40 64-bit (16 Aug 2016)      https://www.cog-genomics.org/plink2
+(C) 2005-2016 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to cattle.snp.prune.log.
+Options in effect:
+  --bfile cattle.snp
+  --chr-set 29
+  --extract cattle.snp.prune.in
+  --make-bed
+  --out cattle.snp.prune
+
+128380 MB RAM detected; reserving 64190 MB for main workspace.
+64594155 variants loaded from .bim file.
+198 samples (0 males, 0 females, 198 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to cattle.snp.prune.nosex .
+--extract: 8214529 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 198 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is 0.993833.
+8214529 variants and 198 samples pass filters and QC.
+Note: No phenotypes present.
+--make-bed to cattle.snp.prune.bed + cattle.snp.prune.bim +
+cattle.snp.prune.fam ... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99%done.
+
+
+PS:
+
+Read file <4.e> for stderr output of this job.
+

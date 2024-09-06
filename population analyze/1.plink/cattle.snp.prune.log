@@ -1,0 +1,28 @@
+PLINK v1.90b3.40 64-bit (16 Aug 2016)
+Options in effect:
+  --bfile cattle.snp
+  --chr-set 29
+  --extract cattle.snp.prune.in
+  --make-bed
+  --out cattle.snp.prune
+
+Hostname: node52
+Working directory: /stor9000/apps/users/NWSUAF/2015010869/zhaojiahao/analyze/2.population/1.plink
+Start time: Fri Oct  6 15:11:40 2023
+
+Random number seed: 1696576300
+128380 MB RAM detected; reserving 64190 MB for main workspace.
+64594155 variants loaded from .bim file.
+198 samples (0 males, 0 females, 198 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to cattle.snp.prune.nosex .
+--extract: 8214529 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 198 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.993833.
+8214529 variants and 198 samples pass filters and QC.
+Note: No phenotypes present.
+--make-bed to cattle.snp.prune.bed + cattle.snp.prune.bim +
+cattle.snp.prune.fam ... done.
+
+End time: Fri Oct  6 15:12:27 2023

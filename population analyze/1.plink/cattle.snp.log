@@ -1,0 +1,55 @@
+PLINK v1.90b3.40 64-bit (16 Aug 2016)
+Options in effect:
+  --bfile cattle.snp
+  --chr-set 29
+  --indep-pairwise 50 5 0.2
+  --out cattle.snp
+
+Hostname: node52
+Working directory: /stor9000/apps/users/NWSUAF/2015010869/zhaojiahao/analyze/2.population/1.plink
+Start time: Fri Oct  6 15:01:16 2023
+
+Random number seed: 1696575676
+128380 MB RAM detected; reserving 64190 MB for main workspace.
+64594155 variants loaded from .bim file.
+198 samples (0 males, 0 females, 198 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to cattle.snp.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 198 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.994415.
+64594155 variants and 198 samples pass filters and QC.
+Note: No phenotypes present.
+Pruned 3522580 variants from chromosome 1, leaving 510247.
+Pruned 2965934 variants from chromosome 2, leaving 421102.
+Pruned 2517662 variants from chromosome 3, leaving 370870.
+Pruned 2876065 variants from chromosome 4, leaving 417702.
+Pruned 2634024 variants from chromosome 5, leaving 381096.
+Pruned 2814607 variants from chromosome 6, leaving 397724.
+Pruned 2291839 variants from chromosome 7, leaving 330065.
+Pruned 2447541 variants from chromosome 8, leaving 352253.
+Pruned 2503736 variants from chromosome 9, leaving 353081.
+Pruned 2248316 variants from chromosome 10, leaving 350118.
+Pruned 2345689 variants from chromosome 11, leaving 340960.
+Pruned 2142317 variants from chromosome 12, leaving 332292.
+Pruned 1806331 variants from chromosome 13, leaving 261814.
+Pruned 1839630 variants from chromosome 14, leaving 264552.
+Pruned 2017825 variants from chromosome 15, leaving 294128.
+Pruned 1724626 variants from chromosome 16, leaving 242407.
+Pruned 1716694 variants from chromosome 17, leaving 247601.
+Pruned 1362118 variants from chromosome 18, leaving 207255.
+Pruned 1324085 variants from chromosome 19, leaving 197230.
+Pruned 1610382 variants from chromosome 20, leaving 233640.
+Pruned 1626630 variants from chromosome 21, leaving 230294.
+Pruned 1350473 variants from chromosome 22, leaving 193537.
+Pruned 1346165 variants from chromosome 23, leaving 229509.
+Pruned 1588901 variants from chromosome 24, leaving 225216.
+Pruned 951535 variants from chromosome 25, leaving 138973.
+Pruned 1241145 variants from chromosome 26, leaving 179820.
+Pruned 1212249 variants from chromosome 27, leaving 169786.
+Pruned 1113815 variants from chromosome 28, leaving 157597.
+Pruned 1236712 variants from chromosome 29, leaving 183660.
+Pruning complete.  56379626 of 64594155 variants removed.
+Marker lists written to cattle.snp.prune.in and cattle.snp.prune.out .
+
+End time: Fri Oct  6 15:04:40 2023

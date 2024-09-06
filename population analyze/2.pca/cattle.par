@@ -1,0 +1,7 @@
+genotypename:   /stor9000/apps/users/NWSUAF/2015010869/zhaojiahao/analyze/2.population/1.plink/cattle.snp.bed
+snpname:    /stor9000/apps/users/NWSUAF/2015010869/zhaojiahao/analyze/2.population/1.plink/cattle.snp.bim
+indivname:  /stor9000/apps/users/NWSUAF/2015010869/zhaojiahao/analyze/2.population/1.plink/cattle.snp.fam
+evecountname:   dncattle.evec
+evaloutname:    dncattle.evel
+numoutevec: 10
+numoutlieriter: 0
