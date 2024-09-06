@@ -1,0 +1,1904 @@
+/stor9000/apps/users/NWSUAF/2013110098/bin/selscan-master/src/selscan --xpehh --vcf Gelbvieh.chr10.vcf --vcf-ref DN.chr10.vcf --map chr10.map --cutoff 0.01 --out DN_Gelbvieh.10.xpehh --threads 6 
+v1.1.0b
+Calculating XP-EHH.
+Input filename: Gelbvieh.chr10.vcf
+Reference input filename: DN.chr10.vcf
+Map filename: chr10.map
+Output file: DN_Gelbvieh.10.xpehh.xpehh.out
+Threads: 6
+Scale parameter: 20000
+Max gap parameter: 200000
+EHH cutoff value: 0.01
+Alt flag set: no
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:10974
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20467
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:10956
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20481
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20484
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20491
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20507
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20537
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20583
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20607
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20609
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20618
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20623
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20627
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20680
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20681
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20695
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20698
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20719
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20760
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20799
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20821
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20862
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20906
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20938
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20941
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20964
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20970
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20975
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20989
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20992
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:20997
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21011
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21116
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21171
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21204
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21219
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21281
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21295
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21296
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21302
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21305
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21321
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21342
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21345
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21362
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21366
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21516
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21521
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21523
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21524
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21526
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21530
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21534
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21536
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21554
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21556
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21563
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21564
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21602
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21610
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21613
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21616
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21619
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21653
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21655
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21659
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21660
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21672
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21678
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21683
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21687
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21691
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21692
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21709
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21739
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21744
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21747
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21758
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21760
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21767
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21774
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21783
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21898
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21790
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21900
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21902
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21903
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21974
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21996
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:21988
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22008
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22016
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22031
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22038
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22059
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22053
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22087
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22088
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22123
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22132
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22134
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22141
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22154
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22195
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22205
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22206
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22214
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22219
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22260
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22309
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22310
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22312
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22313
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22355
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22358
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22378
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22384
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22393
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22403
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22422
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22429
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22431
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22448
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22450
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22460
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22463
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22465
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22468
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22480
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22509
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22523
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22521
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22569
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22584
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22608
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22633
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22660
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22647
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22682
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22676
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22739
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22759
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22770
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22767
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22815
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22785
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22818
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22822
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22935
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22836
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22949
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22942
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22966
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22967
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:23022
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:22973
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:23042
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:23038
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:23063
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:23143
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:23174
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:23172
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:23240
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:23217
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23772852
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23772902
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23772978
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773072
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773135
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773177
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773303
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773551
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773878
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774124
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774347
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774449
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774515
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774592
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774598
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774652
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774797
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774976
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23775217
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24782568
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24782787
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24782997
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24783325
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24783922
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24784416
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24785066
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24785426
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24786548
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24786969
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24787712
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24788126
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24788742
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24788951
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789144
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789521
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789738
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789852
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790049
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790413
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790560
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24791057
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24791541
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24791972
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24792510
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24792808
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793054
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793334
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793628
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793988
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24794501
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24794836
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795183
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795415
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795706
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795900
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24796195
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24796732
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797106
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797262
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797591
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797949
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798531
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798776
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798940
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799193
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799549
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800110
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800255
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800817
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801038
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801200
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801401
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801796
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801966
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802202
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802470
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802966
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24803203
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24803765
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804093
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804200
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804480
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804761
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804996
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805270
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805369
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805670
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805976
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806329
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806519
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806780
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806956
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24807586
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24807809
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808121
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808378
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808385
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24809031
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24809745
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24810102
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24810722
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811274
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811412
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811516
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811721
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811905
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812086
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812126
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812518
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812612
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812885
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813212
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813537
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813919
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814082
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814457
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814792
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814998
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815065
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815464
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815857
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24816228
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24816591
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817277
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817459
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817671
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817915
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818335
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818631
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818894
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24819145
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24819290
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24832236
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24843698
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24843961
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844031
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844138
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844192
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845358
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845465
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845504
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845545
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23772856
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23772911
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773031
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773094
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773140
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773224
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773305
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773583
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773881
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774150
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774350
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774452
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774587
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774593
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774599
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774726
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774820
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23775087
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23775405
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24782582
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24782828
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24782998
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24783401
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24783946
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24784426
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24785094
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24785541
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24786578
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24786971
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24787827
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24788129
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24788884
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789037
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789150
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789528
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789776
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789881
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790058
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790466
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790740
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24791192
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24791756
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24792055
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24792574
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24792909
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793136
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793422
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793654
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24794107
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24794544
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24794892
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795271
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795434
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795731
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24796087
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24796374
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24796763
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797117
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797326
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797620
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797973
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798611
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798798
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799011
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799194
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799619
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800138
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800272
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800857
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801071
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801227
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801410
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801842
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801992
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802223
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802529
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802993
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24803271
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24803836
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804109
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804232
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804504
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804854
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805011
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805318
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805454
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805737
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805994
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806430
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806600
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806781
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24807051
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24807685
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24807823
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808188
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808380
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808434
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24809318
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24809785
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24810196
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24810987
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811304
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811415
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811538
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811766
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811910
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812097
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812153
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812524
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812615
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812979
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813213
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813580
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813942
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814157
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814590
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814828
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815034
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815082
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815559
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815893
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24816315
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24816927
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817278
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817538
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817719
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817917
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818352
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818740
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818929
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24819167
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24819358
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24832304
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24843916
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24843989
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844041
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844140
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844204
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845375
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845473
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845522
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845550
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23772850
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23772885
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23772976
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773054
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773133
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773170
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773300
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773412
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773849
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774064
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774266
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774445
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774485
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774591
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774597
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774647
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774775
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774902
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23775215
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24782526
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24782732
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24782991
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24783264
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24783881
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24784244
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24785062
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24785408
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24786497
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24786850
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24787709
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24788020
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24788603
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24788950
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789143
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789499
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789736
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789846
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790035
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790376
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790551
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24791049
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24791493
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24791959
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24792452
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24792789
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793000
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793324
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793569
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793966
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24794464
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24794735
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795148
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795414
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795703
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795869
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24796174
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24796622
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797094
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797246
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797587
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797937
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798362
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798734
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798934
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799147
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799417
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799913
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800248
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800762
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801003
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801196
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801335
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801776
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801949
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802137
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802462
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802591
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24803165
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24803668
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804069
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804199
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804437
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804714
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804972
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805148
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805350
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805645
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805953
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806266
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806462
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806737
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806938
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24807461
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24807807
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808021
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808377
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808384
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808974
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24809570
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24810072
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24810312
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811144
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811390
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811501
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811718
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811879
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811982
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812125
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812514
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812609
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812859
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813192
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813513
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813893
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814079
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814408
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814697
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814988
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815060
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815378
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815846
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24816201
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24816530
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817117
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817454
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817621
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817913
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818258
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818622
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818826
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818945
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24819271
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24819685
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24843683
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24843955
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844030
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844137
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844184
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844322
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845413
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845503
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845544
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23772846
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23772869
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23772964
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773046
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773127
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773165
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773286
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773403
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773615
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774063
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774198
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774406
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774481
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774590
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774596
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774622
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774729
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774841
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23775214
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24782511
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24782722
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24782968
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24783263
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24783681
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24784109
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24784918
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24785329
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24786359
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24786786
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24787571
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24787906
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24788473
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24788932
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789142
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789477
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789726
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789839
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789913
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790348
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790538
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24791042
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24791278
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24791916
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24792161
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24792759
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24792986
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793319
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793554
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793918
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24794438
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24794732
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795109
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795365
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795549
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795859
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24796173
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24796458
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797068
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797232
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797564
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797909
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798229
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798725
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798893
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799123
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799403
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799822
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800247
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800686
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800977
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801122
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801298
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801695
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801867
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802104
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802450
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802562
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24803144
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24803508
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804047
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804198
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804386
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804698
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804953
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805129
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805347
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805614
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805901
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806239
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806449
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806716
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806921
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24807193
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24807799
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24807969
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808347
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808383
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808649
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24809415
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24810069
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24810308
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811081
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811376
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811496
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811712
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811863
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811964
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812124
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812465
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812553
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812780
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813160
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813437
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813793
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814062
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814306
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814683
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814975
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815059
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815350
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815829
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24816096
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24816486
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817084
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817411
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817590
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817866
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818146
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818589
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818825
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818936
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24819251
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24819581
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24843661
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24843936
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844011
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844118
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844170
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844278
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845398
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845488
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845540
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23772861
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23772949
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773032
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773111
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773158
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773254
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773332
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773587
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773950
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774152
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774370
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774467
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774588
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774594
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774600
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774727
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774827
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23775114
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23775467
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24782658
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24782876
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24783017
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24783553
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24784018
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24784915
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24785148
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24785656
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24786733
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24787287
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24787856
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24788239
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24788898
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789050
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789257
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789589
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789816
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789899
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790222
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790489
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790835
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24791213
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24791758
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24792090
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24792577
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24792944
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793219
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793453
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793659
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24794263
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24794570
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24794915
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795334
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795438
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795751
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24796171
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24796381
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24796810
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797141
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797424
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797792
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798033
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798668
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798828
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799026
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799314
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799694
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800141
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800319
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800880
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801075
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801259
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801494
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801845
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802010
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802245
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802549
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24803001
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24803412
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24803840
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804141
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804268
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804602
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804943
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805024
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805329
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805574
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805796
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806026
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806436
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806616
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806897
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24807081
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24807757
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24807867
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808190
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808381
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808454
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24809347
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24809810
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24810241
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811029
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811312
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811456
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811539
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811851
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811912
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812113
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812185
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812545
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812685
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813086
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813313
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813614
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813991
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814198
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814627
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814882
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815037
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815122
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815782
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815954
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24816336
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24816969
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817279
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817553
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817751
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817920
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818514
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818747
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818930
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24819198
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24819545
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24843615
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24843921
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24843995
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844058
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844157
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844242
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845386
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845475
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845529
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845569
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23772827
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23772865
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23772962
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773039
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773115
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773161
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773284
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773375
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773606
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23773951
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774167
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774393
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774472
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774589
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774595
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774601
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774728
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23774840
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23775209
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:23775487
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24782667
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24782953
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24783061
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24783574
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24784064
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24784917
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24785195
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24786354
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24786781
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24787530
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24787896
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24788407
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24788902
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789093
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789260
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789592
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789821
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24789906
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790335
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790533
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24790977
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24791229
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24791886
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24792140
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24792617
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24792978
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793231
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793489
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24793661
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24794350
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24794619
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24794918
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795357
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795460
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24795794
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24796172
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24796395
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24796820
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797201
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797449
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24797869
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798221
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798690
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24798838
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799052
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799364
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24799737
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800225
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800575
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24800900
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801089
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801292
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801681
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24801866
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802053
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802366
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24802561
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24803124
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24803417
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804035
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804197
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804377
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804662
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24804952
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805066
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805346
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805589
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24805880
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806229
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806437
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806636
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24806912
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24807138
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24807779
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24807911
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808194
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808382
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24808641
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24809394
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24809876
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24810301
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811060
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811372
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811478
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811665
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811852
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24811940
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812121
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812199
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812549
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24812690
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813123
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813359
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24813666
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814037
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814259
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814664
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24814963
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815041
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815299
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24815800
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24816052
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24816387
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817059
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817337
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817579
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817789
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24817945
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818531
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818756
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24818932
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24819207
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24819561
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24843630
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24843925
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24843997
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844108
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844161
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24844243
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845388
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845477
+WARNING: Reached a gap of 1007024bp > 200000bp. Skipping calculation at 10:24845537
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103257885
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258289
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258344
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258406
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258488
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258688
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258858
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259029
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259266
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259578
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259749
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259973
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260136
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260348
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260522
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260589
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260634
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260836
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261092
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261316
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261495
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261615
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261714
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261867
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262059
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262359
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262649
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262879
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263067
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263073
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263079
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263086
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263092
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263098
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263104
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263110
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263415
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263713
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263904
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264285
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264498
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264909
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265016
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265080
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265271
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265288
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265683
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266043
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266153
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266328
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266496
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266842
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266937
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267254
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267429
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267498
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267637
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267765
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267906
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268260
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268278
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268285
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268533
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268616
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268851
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269202
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269560
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269814
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269892
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269925
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269937
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270003
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270045
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270120
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270268
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270274
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270472
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270569
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270931
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271248
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271665
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271833
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272130
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272668
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272818
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273087
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273265
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273366
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273565
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273884
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274077
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274380
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274692
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274956
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275149
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275426
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275597
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275777
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276006
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276200
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276379
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276481
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276907
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277174
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277205
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277480
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277557
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277669
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277788
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278034
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278237
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278726
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278732
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278738
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278837
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279123
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279212
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279274
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279570
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279664
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279853
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280121
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280288
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280380
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280437
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280582
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280637
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280691
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280762
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280806
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280818
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280858
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280905
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281004
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281083
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281151
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281208
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281245
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281496
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281729
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281882
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282096
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282146
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282208
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282283
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282384
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103257877
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258218
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258340
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258403
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258479
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258631
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258845
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258954
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259141
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259571
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259727
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259948
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260106
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260344
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260503
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260562
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260620
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260797
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261071
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261298
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261463
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261603
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261713
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261858
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262055
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262281
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262521
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262861
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263066
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263072
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263078
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263085
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263091
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263097
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263103
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263109
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263393
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263621
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263872
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264090
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264460
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264886
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265011
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265062
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265270
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265287
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265618
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266014
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266142
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266311
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266439
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266759
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266936
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267234
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267390
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267497
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267623
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267753
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267840
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268137
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268277
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268284
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268450
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268574
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268772
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269149
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269442
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269791
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269886
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269924
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269933
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269998
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270044
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270090
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270242
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270273
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270441
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270555
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270921
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271125
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271588
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271829
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272123
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272446
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272802
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273000
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273250
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273352
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273556
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273844
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273979
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274368
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274594
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274952
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275134
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275377
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275491
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275744
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276005
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276085
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276325
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276472
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276890
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277173
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277180
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277447
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277516
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277649
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277758
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278019
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278218
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278724
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278731
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278737
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278799
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279084
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279191
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279261
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279557
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279629
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279799
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280059
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280283
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280375
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280427
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280581
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280590
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280674
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280761
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280805
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280817
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280844
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280901
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280974
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281082
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281150
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281203
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281240
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281391
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281686
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281871
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282064
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282135
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282207
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282269
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282358
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258140
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258338
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258374
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258468
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258548
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258829
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258953
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259090
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259540
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259689
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259936
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260088
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260316
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260494
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260561
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260598
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260740
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260999
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261293
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261407
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261578
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261683
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261837
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262016
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262236
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262513
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262828
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263040
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263071
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263077
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263083
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263090
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263096
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263102
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263108
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263384
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263606
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263822
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264062
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264436
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264845
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258028
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265004
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258335
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265051
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258354
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265253
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265286
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258467
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265570
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258535
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265995
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258754
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266133
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258907
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266246
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266434
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259075
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266755
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259535
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266916
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259653
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267170
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259934
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267356
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267496
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260018
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267573
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260299
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267670
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260392
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267839
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260560
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268062
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268275
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260597
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268283
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260739
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268449
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260977
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268565
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261289
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268692
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269132
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261406
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269438
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261566
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269787
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261657
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269885
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261821
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269923
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261982
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269932
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269996
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262172
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270040
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262420
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270080
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262751
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270174
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263006
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270272
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263070
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270392
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270554
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263076
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270867
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263082
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270974
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271511
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263089
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271822
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263095
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272048
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263101
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272442
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272797
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263107
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272942
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263331
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273216
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263529
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273344
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273490
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263784
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273780
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263967
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273929
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264349
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274205
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264808
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274542
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264997
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274949
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275103
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265030
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275376
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265223
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275481
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265285
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275681
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265568
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276004
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265979
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276035
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266105
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276324
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266221
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276445
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266430
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276825
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266633
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277172
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266915
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277179
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267168
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277407
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267317
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277486
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267495
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277613
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267503
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277702
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267669
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277889
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267809
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278194
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268005
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278699
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268274
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278730
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268282
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278736
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268356
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278798
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268563
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279024
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268691
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279184
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268938
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279246
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269422
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279504
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269779
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279628
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269882
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279779
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269921
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280042
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280272
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269928
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280370
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269993
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270033
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280417
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280580
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270057
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280586
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280669
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270171
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280749
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280798
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270271
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280815
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280822
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270310
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280889
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270517
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280952
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281078
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270837
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281138
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281192
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270962
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281229
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281315
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271413
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281658
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281815
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271787
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282026
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282115
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271970
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282195
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282258
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272373
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282353
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272784
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272875
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273184
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273331
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273480
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273771
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273926
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274161
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274529
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274862
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275063
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275212
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275448
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275671
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275936
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276027
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276295
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276436
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276697
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277105
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277178
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277404
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277485
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277599
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277696
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277887
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278186
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278517
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278729
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278735
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278781
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278902
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279161
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279230
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279328
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279627
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279713
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280024
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280239
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280356
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280413
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280577
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280585
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280662
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280748
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280796
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280814
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280821
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280888
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280951
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281049
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281133
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281176
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281227
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281283
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281626
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281788
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281986
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282103
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282185
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282257
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282352
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282639
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103257962
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258301
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258345
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258441
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258519
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258699
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258861
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259064
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259409
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259621
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259835
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260002
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260177
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260379
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260558
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260593
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260667
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260840
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261153
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261384
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261513
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261616
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261739
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261868
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262065
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262386
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262668
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262919
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263068
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263074
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263080
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263087
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263093
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263099
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263105
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263113
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263455
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263750
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263908
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264307
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264545
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264925
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265026
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265126
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265278
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265360
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265692
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266046
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266190
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266353
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266565
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266893
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267132
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267304
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267447
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267499
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267648
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267769
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267907
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268266
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268280
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268286
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268540
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268631
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268867
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269369
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269568
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269838
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269894
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269926
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269938
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270013
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270052
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270166
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270269
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270275
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270489
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270762
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270938
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271249
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271722
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271883
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272165
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272734
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272830
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273126
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273274
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273396
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273597
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273887
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274090
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274527
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274771
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275027
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275153
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275441
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275628
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275834
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276012
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276203
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276384
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276520
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276991
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277176
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277251
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277483
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277564
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277674
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277822
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278061
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278384
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278727
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278733
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278740
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278838
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279134
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279219
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279276
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279583
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279669
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279864
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280145
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280324
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280400
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280443
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280583
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280643
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280718
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280767
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280812
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280819
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280862
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280909
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281031
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281099
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281166
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281211
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281263
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281531
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281747
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281959
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282098
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282147
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282218
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282294
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282400
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103257986
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258314
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258352
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258444
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258527
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258741
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103258902
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259074
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259494
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259645
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103259854
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260005
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260285
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260382
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260559
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260594
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260735
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103260953
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261192
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261397
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261539
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261640
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261762
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103261914
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262162
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262399
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262669
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103262941
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263069
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263075
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263081
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263088
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263094
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263100
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263106
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263121
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263479
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263751
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103263925
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264331
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264745
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103264965
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265029
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265149
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265284
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265393
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103265730
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266097
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266209
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266429
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266575
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103266914
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267149
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267305
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267482
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267500
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267668
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267774
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103267984
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268273
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268281
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268325
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268542
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268677
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103268935
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269418
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269707
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269865
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269916
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269927
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103269942
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270014
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270053
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270168
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270270
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270276
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270491
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270809
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103270946
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271306
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271760
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103271966
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272372
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272783
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103272854
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273171
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273293
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273426
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273749
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103273891
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274156
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274528
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103274858
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275041
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275160
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275444
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275640
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103275921
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276013
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276227
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276408
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103276633
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277094
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277177
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277401
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277484
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277579
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277695
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103277884
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278095
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278475
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278728
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278734
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278754
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103278862
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279145
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279220
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279293
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279626
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279684
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103279910
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280225
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280339
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280412
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280554
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280584
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280645
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280739
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280789
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280813
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280820
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280863
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103280911
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281041
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281105
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281173
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281222
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281269
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281538
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281787
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103281960
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282102
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282153
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282254
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282306
+WARNING: Reached chromosome edge before EHH decayed below 0.01. Skipping calculation at 10:103282525

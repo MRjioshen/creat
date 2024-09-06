@@ -1,0 +1,1448 @@
+1	6840001	6890000	249.13501000000002	BACH1	531350	BTB domain and CNC homolog 1%2C transcript variant X2
+1	45700001	45750000	247.640991	IMPG2	517845	interphotoreceptor matrix proteoglycan 2%2C transcript variant X1
+1	45720001	45770000	300.386945	IMPG2	517845	interphotoreceptor matrix proteoglycan 2%2C transcript variant X1
+1	45740001	45790000	440.81532599999997	IMPG2	517845	interphotoreceptor matrix proteoglycan 2%2C transcript variant X1
+1	45760001	45810000	440.81532599999997	IMPG2	517845	interphotoreceptor matrix proteoglycan 2%2C transcript variant X1
+1	45780001	45830000	466.21328200000005	IMPG2|SENP7	517845|507820	interphotoreceptor matrix proteoglycan 2%2C transcript variant X1|SUMO specific peptidase 7
+1	45800001	45850000	466.21328200000005	IMPG2|SENP7	517845|507820	interphotoreceptor matrix proteoglycan 2%2C transcript variant X1|SUMO specific peptidase 7
+1	45820001	45870000	452.325702	SENP7	507820	SUMO specific peptidase 7
+1	46100001	46150000	243.500375	CEP97|NXPE3	540395|532838	centrosomal protein 97|neurexophilin and PC-esterase domain family member 3%2C transcript variant X4
+1	46120001	46170000	297.312113	NXPE3	532838	neurexophilin and PC-esterase domain family member 3%2C transcript variant X4
+1	46140001	46190000	297.312113	NXPE3	532838	neurexophilin and PC-esterase domain family member 3%2C transcript variant X4
+1	98180001	98230000	246.56381000000002	MECOM	532209	MDS1 and EVI1 complex locus%2C transcript variant X9
+1	98200001	98250000	246.56381000000002	MECOM	532209	MDS1 and EVI1 complex locus%2C transcript variant X9
+1	110880001	110930000	602.549707	TIPARP	540975	TCDD inducible poly(ADP-ribose) polymerase
+1	110900001	110950000	492.452807	TIPARP	540975	TCDD inducible poly(ADP-ribose) polymerase
+1	110920001	110970000	256.633039	TIPARP	540975	TCDD inducible poly(ADP-ribose) polymerase
+1	111080001	111130000	394.304553	SSR3|KCNAB1	767980|526133	signal sequence receptor subunit 3%2C transcript variant X1|potassium voltage-gated channel subfamily A member regulatory beta subunit 1
+1	111100001	111150000	603.299947	SSR3|KCNAB1	767980|526133	signal sequence receptor subunit 3%2C transcript variant X1|potassium voltage-gated channel subfamily A member regulatory beta subunit 1
+1	111120001	111170000	603.299947	KCNAB1	526133	potassium voltage-gated channel subfamily A member regulatory beta subunit 1
+1	111140001	111190000	603.299947	KCNAB1	526133	potassium voltage-gated channel subfamily A member regulatory beta subunit 1
+1	111160001	111210000	599.362897	KCNAB1	526133	potassium voltage-gated channel subfamily A member regulatory beta subunit 1
+1	111180001	111230000	419.733791	KCNAB1	526133	potassium voltage-gated channel subfamily A member regulatory beta subunit 1
+1	111200001	111250000	239.817821	KCNAB1	526133	potassium voltage-gated channel subfamily A member regulatory beta subunit 1
+1	119260001	119310000	480.39156900000006	CPA3	528454	carboxypeptidase A3%2C transcript variant X3
+1	119280001	119330000	480.39156900000006	CPA3	528454	carboxypeptidase A3%2C transcript variant X3
+1	134660001	134710000	609.198685	KY	101903894	kyphoscoliosis peptidase
+1	134680001	134730000	738.992694	KY	101903894	kyphoscoliosis peptidase
+1	134700001	134750000	740.90417	KY	101903894	kyphoscoliosis peptidase
+1	134720001	134770000	740.90417	CEP63|KY	521932|101903894	centrosomal protein 63%2C transcript variant X10|kyphoscoliosis peptidase
+1	134740001	134790000	723.086185	CEP63|KY	521932|101903894	centrosomal protein 63%2C transcript variant X10|kyphoscoliosis peptidase
+1	134760001	134810000	661.332813	CEP63	521932	centrosomal protein 63%2C transcript variant X10
+1	134780001	134830000	523.371758	CEP63	521932	centrosomal protein 63%2C transcript variant X10
+1	134800001	134850000	485.148887	CEP63|ANAPC13	521932|614347	centrosomal protein 63%2C transcript variant X10|anaphase promoting complex subunit 13%2C transcript variant X1
+2	20680001	20730000	309.63114	HOXD1	100295780	homeobox D1
+2	20700001	20750000	309.63114	HOXD1|HOXD3	100295780|100295744	homeobox D1|homeobox D3%2C transcript variant X1
+2	24720001	24770000	257.260703	SLC25A12|DYNC1I2	539494|526329	solute carrier family 25 member 12%2C transcript variant X2|dynein cytoplasmic 1 intermediate chain 2%2C transcript variant X4
+2	24740001	24790000	257.260703	DYNC1I2	526329	dynein cytoplasmic 1 intermediate chain 2%2C transcript variant X4
+2	24760001	24810000	257.260703	DYNC1I2	526329	dynein cytoplasmic 1 intermediate chain 2%2C transcript variant X4
+2	24940001	24990000	282.051519	CYBRD1	534257	cytochrome b reductase 1
+2	24960001	25010000	447.503171	DCAF17	614170	DDB1 and CUL4 associated factor 17
+2	24980001	25030000	447.503171	DCAF17|METTL8	614170|506947	DDB1 and CUL4 associated factor 17|methyltransferase like 8%2C transcript variant X3
+2	25000001	25050000	447.503171	DCAF17|METTL8	614170|506947	DDB1 and CUL4 associated factor 17|methyltransferase like 8%2C transcript variant X3
+2	25020001	25070000	226.56714399999998	DCAF17|METTL8	614170|506947	DDB1 and CUL4 associated factor 17|methyltransferase like 8%2C transcript variant X3
+2	31720001	31770000	859.8827650000001	GRB14	497029	growth factor receptor bound protein 14%2C transcript variant X4
+2	31740001	31790000	859.8827650000001	GRB14	497029	growth factor receptor bound protein 14%2C transcript variant X4
+2	31760001	31810000	859.8827650000001	GRB14	497029	growth factor receptor bound protein 14%2C transcript variant X4
+2	31780001	31830000	1084.223078	GRB14	497029	growth factor receptor bound protein 14%2C transcript variant X4
+2	31800001	31850000	1084.223078	GRB14	497029	growth factor receptor bound protein 14%2C transcript variant X4
+2	33980001	34030000	231.98838199999997	KCNH7	534542	potassium voltage-gated channel subfamily H member 7
+2	34000001	34050000	324.439562	KCNH7	534542	potassium voltage-gated channel subfamily H member 7
+2	34020001	34070000	324.439562	LOC112442562|KCNH7|GCA	112442562|534542|507139	potassium voltage-gated channel subfamily H member 7-like|potassium voltage-gated channel subfamily H member 7|grancalcin%2C transcript variant X2
+2	34040001	34090000	229.00050299999998	LOC112442562|KCNH7|GCA	112442562|534542|507139	potassium voltage-gated channel subfamily H member 7-like|potassium voltage-gated channel subfamily H member 7|grancalcin%2C transcript variant X2
+2	56700001	56750000	414.050077	LRP1B	100336528	LDL receptor related protein 1B
+2	56720001	56770000	414.050077	LRP1B	100336528	LDL receptor related protein 1B
+2	56740001	56790000	414.050077	LRP1B	100336528	LDL receptor related protein 1B
+2	56760001	56810000	630.325413	LRP1B	100336528	LDL receptor related protein 1B
+2	56780001	56830000	630.325413	LRP1B	100336528	LDL receptor related protein 1B
+2	69580001	69630000	1059.729738	CCDC93	616839	coiled-coil domain containing 93%2C transcript variant X1
+2	69600001	69650000	1059.729738	CCDC93	616839	coiled-coil domain containing 93%2C transcript variant X1
+2	69620001	69670000	1059.729738	CCDC93	616839	coiled-coil domain containing 93%2C transcript variant X1
+2	69660001	69710000	1389.061476	CCDC93	616839	coiled-coil domain containing 93%2C transcript variant X1
+2	71820001	71870000	237.72265499999997	EPB41L5	530941	erythrocyte membrane protein band 4.1 like 5
+2	71840001	71890000	237.72265499999997	EPB41L5	530941	erythrocyte membrane protein band 4.1 like 5
+2	71860001	71910000	241.66124	EPB41L5	530941	erythrocyte membrane protein band 4.1 like 5
+2	71880001	71930000	241.66124	EPB41L5	530941	erythrocyte membrane protein band 4.1 like 5
+2	71900001	71950000	241.66124	TMEM185B|EPB41L5|RALB	526189|530941|505238	transmembrane protein 185B|erythrocyte membrane protein band 4.1 like 5|RAS like proto-oncogene B%2C transcript variant X7
+2	84180001	84230000	344.80013199999996	SLC39A10	521004	solute carrier family 39 member 10
+2	84200001	84250000	344.80013199999996	SLC39A10	521004	solute carrier family 39 member 10
+2	84220001	84270000	239.35111600000002	SLC39A10	521004	solute carrier family 39 member 10
+2	117780001	117830000	483.813125	TRIP12	514387	thyroid hormone receptor interactor 12
+2	117800001	117850000	565.0391400000001	TRIP12	514387	thyroid hormone receptor interactor 12
+2	117820001	117870000	565.9491230000001	TRIP12	514387	thyroid hormone receptor interactor 12
+2	117840001	117890000	658.761529	TRIP12	514387	thyroid hormone receptor interactor 12
+2	117860001	117910000	693.725917	TRIP12	514387	thyroid hormone receptor interactor 12
+2	117880001	117930000	693.725917	TRIP12	514387	thyroid hormone receptor interactor 12
+2	117900001	117950000	619.2648519999999	TRIP12	514387	thyroid hormone receptor interactor 12
+2	117920001	117970000	525.197308	TRIP12|FBXO36	514387|617339	thyroid hormone receptor interactor 12|F-box protein 36
+2	117940001	117990000	334.361212	TRIP12|FBXO36	514387|617339	thyroid hormone receptor interactor 12|F-box protein 36
+2	117960001	118010000	365.58321800000004	TRIP12|FBXO36	514387|617339	thyroid hormone receptor interactor 12|F-box protein 36
+2	117980001	118030000	365.58321800000004	FBXO36	617339	F-box protein 36
+2	118000001	118050000	365.58321800000004	FBXO36	617339	F-box protein 36
+2	118500001	118550000	407.332952	CAB39	511451	calcium binding protein 39%2C transcript variant X1
+2	119580001	119630000	374.26760299999995	NPPC	281356	natriuretic peptide C%2C transcript variant X1
+2	119600001	119650000	374.26760299999995	DIS3L2	519222	DIS3 like 3'-5' exoribonuclease 2
+2	119680001	119730000	392.256208	DIS3L2	519222	DIS3 like 3'-5' exoribonuclease 2
+2	119700001	119750000	392.256208	DIS3L2	519222	DIS3 like 3'-5' exoribonuclease 2
+2	120440001	120490000	289.093494	ZNF362	508065	zinc finger protein 362
+2	120480001	120530000	289.093494	TRIM62	516886	tripartite motif containing 62%2C transcript variant X2
+2	120760001	120810000	388.921598	TMEM54|FNDC5|HPCA	509773|538905|509772	transmembrane protein 54|fibronectin type III domain containing 5|hippocalcin%2C transcript variant X3
+2	120780001	120830000	388.921598	TMEM54|FNDC5|HPCA|S100PBP	509773|538905|509772|539983	transmembrane protein 54|fibronectin type III domain containing 5|hippocalcin%2C transcript variant X3|S100P binding protein%2C transcript variant X5
+2	122680001	122730000	234.55991699999998	SDC3	618198	syndecan 3
+2	122700001	122750000	234.55991699999998	SDC3	618198	syndecan 3
+2	122760001	122810000	396.15697400000005	LAPTM5	512361	lysosomal protein transmembrane 5
+2	124720001	124770000	262.782642	YTHDF2|GMEB1	541050|540374	YTH N6-methyladenosine RNA binding protein 2|glucocorticoid modulatory element binding protein 1
+2	124740001	124790000	262.782642	GMEB1	540374	glucocorticoid modulatory element binding protein 1
+2	124760001	124810000	262.782642	GMEB1	540374	glucocorticoid modulatory element binding protein 1
+2	134840001	134890000	292.28720899999996	ACTL8	528048	actin like 8
+2	135920001	135970000	387.026644	EPHA2	512798	EPH receptor A2
+2	135940001	135990000	387.026644	EPHA2	512798	EPH receptor A2
+2	135960001	136010000	520.3772349999999	EPHA2|LOC107131929	512798|107131929	EPH receptor A2|basic salivary proline-rich protein 1-like
+2	135980001	136030000	520.3772349999999	LOC107131929|FAM131C	107131929|618019	basic salivary proline-rich protein 1-like|family with sequence similarity 131 member C
+2	136000001	136050000	520.3772349999999	CLCNKA|LOC107131929|FAM131C	538145|107131929|618019	chloride channel Ka%2C transcript variant X1|basic salivary proline-rich protein 1-like|family with sequence similarity 131 member C
+3	1440001	1490000	273.334813	POU2F1	512840	POU class 2 homeobox 1
+3	1460001	1510000	305.62748700000003	POU2F1	512840	POU class 2 homeobox 1
+3	1480001	1530000	305.62748700000003	POU2F1	512840	POU class 2 homeobox 1
+3	14300001	14350000	243.460433	MEF2D	100336730	myocyte enhancer factor 2D
+3	14320001	14370000	304.597466	MEF2D	100336730	myocyte enhancer factor 2D
+3	14340001	14390000	304.597466	MEF2D	100336730	myocyte enhancer factor 2D
+3	16240001	16290000	243.601478	UBAP2L|HAX1	100125221|506895	ubiquitin associated protein 2 like|HCLS1 associated protein X-1%2C transcript variant X1
+3	16260001	16310000	276.278923	C3H1orf189|UBAP2L|C3H1orf43	504348|100125221|538459	chromosome 3 C1orf189 homolog|ubiquitin associated protein 2 like|chromosome 3 C1orf43 homolog
+3	16280001	16330000	320.891568	C3H1orf189|UBAP2L|C3H1orf43|TPM3	504348|100125221|538459|497019	chromosome 3 C1orf189 homolog|ubiquitin associated protein 2 like|chromosome 3 C1orf43 homolog|tropomyosin 3%2C transcript variant X18
+3	16300001	16350000	320.891568	C3H1orf189|UBAP2L|C3H1orf43|TPM3|NUP210L	504348|100125221|538459|497019|785834	chromosome 3 C1orf189 homolog|ubiquitin associated protein 2 like|chromosome 3 C1orf43 homolog|tropomyosin 3%2C transcript variant X18|nucleoporin 210 like
+3	24080001	24130000	264.732413	WARS2|TBX15	532903|521974	tryptophanyl tRNA synthetase 2%2C mitochondrial|T-box 15%2C transcript variant X3
+3	24100001	24150000	278.02418900000004	TBX15	521974	T-box 15%2C transcript variant X3
+3	24120001	24170000	278.02418900000004	TBX15	521974	T-box 15%2C transcript variant X3
+3	24140001	24190000	272.426215	TBX15	521974	T-box 15%2C transcript variant X3
+3	24160001	24210000	272.426215	TBX15	521974	T-box 15%2C transcript variant X3
+3	25060001	25110000	227.050863	SPAG17	535545	sperm associated antigen 17
+3	25080001	25130000	227.050863	SPAG17	535545	sperm associated antigen 17
+3	25100001	25150000	227.050863	SPAG17	535545	sperm associated antigen 17
+3	68920001	68970000	232.42777400000003	MSH4|ASB17	616664|616654	mutS homolog 4|ankyrin repeat and SOCS box containing 17
+3	68940001	68990000	285.758687	MSH4|ASB17	616664|616654	mutS homolog 4|ankyrin repeat and SOCS box containing 17
+3	68960001	69010000	285.758687	MSH4	616664	mutS homolog 4
+3	68980001	69030000	285.758687	MSH4	616664	mutS homolog 4
+3	69280001	69330000	269.834341	SLC44A5	530146	solute carrier family 44 member 5%2C transcript variant X2
+3	69300001	69350000	269.834341	SLC44A5	530146	solute carrier family 44 member 5%2C transcript variant X2
+3	69320001	69370000	269.834341	SLC44A5	530146	solute carrier family 44 member 5%2C transcript variant X2
+3	70520001	70570000	261.95903300000003	TNNI3K	535940	TNNI3 interacting kinase
+3	70540001	70590000	261.95903300000003	TNNI3K	535940	TNNI3 interacting kinase
+3	70560001	70610000	460.27280599999995	FPGT|LRRIQ3	100138313|523789	fucose-1-phosphate guanylyltransferase|leucine rich repeats and IQ motif containing 3%2C transcript variant X1
+3	70580001	70630000	683.352867	FPGT|LRRIQ3	100138313|523789	fucose-1-phosphate guanylyltransferase|leucine rich repeats and IQ motif containing 3%2C transcript variant X1
+3	70600001	70650000	683.352867	FPGT|LRRIQ3	100138313|523789	fucose-1-phosphate guanylyltransferase|leucine rich repeats and IQ motif containing 3%2C transcript variant X1
+3	70620001	70670000	683.352867	LRRIQ3	523789	leucine rich repeats and IQ motif containing 3%2C transcript variant X1
+3	70640001	70690000	843.402358	LRRIQ3	523789	leucine rich repeats and IQ motif containing 3%2C transcript variant X1
+3	70660001	70710000	843.402358	LRRIQ3	523789	leucine rich repeats and IQ motif containing 3%2C transcript variant X1
+3	70680001	70730000	843.402358	LRRIQ3	523789	leucine rich repeats and IQ motif containing 3%2C transcript variant X1
+3	70700001	70750000	839.94784	LRRIQ3	523789	leucine rich repeats and IQ motif containing 3%2C transcript variant X1
+3	70720001	70770000	779.179786	LRRIQ3	523789	leucine rich repeats and IQ motif containing 3%2C transcript variant X1
+3	70740001	70790000	498.28715	LRRIQ3	523789	leucine rich repeats and IQ motif containing 3%2C transcript variant X1
+3	70760001	70810000	498.28715	LRRIQ3	523789	leucine rich repeats and IQ motif containing 3%2C transcript variant X1
+3	70780001	70830000	257.344823	LRRIQ3	523789	leucine rich repeats and IQ motif containing 3%2C transcript variant X1
+3	77040001	77090000	294.425834	WLS	528123	wntless Wnt ligand secretion mediator
+3	77220001	77270000	249.568341	DIRAS3	504559	DIRAS family GTPase 3
+3	77240001	77290000	319.66132000000005	DIRAS3	504559	DIRAS family GTPase 3
+3	87960001	88010000	232.25847000000002	DAB1	538818	DAB1%2C reelin adaptor protein%2C transcript variant X7
+3	87980001	88030000	348.45814	DAB1	538818	DAB1%2C reelin adaptor protein%2C transcript variant X7
+3	88000001	88050000	348.45814	DAB1	538818	DAB1%2C reelin adaptor protein%2C transcript variant X7
+3	88020001	88070000	306.339017	DAB1	538818	DAB1%2C reelin adaptor protein%2C transcript variant X7
+3	97200001	97250000	236.88383599999997	AGBL4	615787	ATP/GTP binding protein like 4%2C transcript variant X3
+3	97220001	97270000	236.88383599999997	AGBL4	615787	ATP/GTP binding protein like 4%2C transcript variant X3
+3	97240001	97290000	236.88383599999997	AGBL4	615787	ATP/GTP binding protein like 4%2C transcript variant X3
+3	97280001	97330000	307.745924	AGBL4	615787	ATP/GTP binding protein like 4%2C transcript variant X3
+3	97300001	97350000	307.745924	AGBL4	615787	ATP/GTP binding protein like 4%2C transcript variant X3
+3	115100001	115150000	225.127381	AGAP1	522241	ArfGAP with GTPase domain%2C ankyrin repeat and PH domain 1%2C transcript variant X2
+3	115120001	115170000	225.127381	AGAP1	522241	ArfGAP with GTPase domain%2C ankyrin repeat and PH domain 1%2C transcript variant X2
+3	115140001	115190000	225.127381	AGAP1	522241	ArfGAP with GTPase domain%2C ankyrin repeat and PH domain 1%2C transcript variant X2
+3	115820001	115870000	314.769233	IQCA1	618101	IQ motif containing with AAA domain 1%2C transcript variant X1
+3	115840001	115890000	373.544877	IQCA1	618101	IQ motif containing with AAA domain 1%2C transcript variant X1
+3	115860001	115910000	373.544877	IQCA1	618101	IQ motif containing with AAA domain 1%2C transcript variant X1
+3	115880001	115930000	419.05186000000003	IQCA1	618101	IQ motif containing with AAA domain 1%2C transcript variant X1
+3	115900001	115950000	453.137412	IQCA1	618101	IQ motif containing with AAA domain 1%2C transcript variant X1
+3	115920001	115970000	453.137412	IQCA1	618101	IQ motif containing with AAA domain 1%2C transcript variant X1
+3	115940001	115990000	425.08452400000004	IQCA1	618101	IQ motif containing with AAA domain 1%2C transcript variant X1
+3	115960001	116010000	294.086575	IQCA1	618101	IQ motif containing with AAA domain 1%2C transcript variant X1
+3	117400001	117450000	253.526004	LOC101904947|ESPNL|SCLY	101904947|524380|790815	uncharacterized LOC101904947|espin like%2C transcript variant X6|selenocysteine lyase
+3	117420001	117470000	253.526004	ESPNL|SCLY	524380|790815	espin like%2C transcript variant X6|selenocysteine lyase
+3	117440001	117490000	253.526004	ESPNL|KLHL30|SCLY	524380|107131196|790815	espin like%2C transcript variant X6|kelch like family member 30|selenocysteine lyase
+3	120340001	120390000	229.46602400000003	PASK|PPP1R7	112441466|505297	PAS domain containing serine/threonine kinase%2C transcript variant X5|protein phosphatase 1 regulatory subunit 7
+3	120360001	120410000	229.46602400000003	ANO7|PASK|PPP1R7	104971910|112441466|505297	anoctamin 7|PAS domain containing serine/threonine kinase%2C transcript variant X5|protein phosphatase 1 regulatory subunit 7
+3	120380001	120430000	229.46602400000003	ANO7|PPP1R7|HDLBP	104971910|505297|767882	anoctamin 7|protein phosphatase 1 regulatory subunit 7|high density lipoprotein binding protein%2C transcript variant X2
+4	14520001	14570000	253.97564300000002	SDHAF3	783805	succinate dehydrogenase complex assembly factor 3
+4	14540001	14590000	253.97564300000002	SDHAF3	783805	succinate dehydrogenase complex assembly factor 3
+4	14560001	14610000	263.699327	SDHAF3	783805	succinate dehydrogenase complex assembly factor 3
+4	30980001	31030000	231.484185	RAPGEF5	519566	Rap guanine nucleotide exchange factor 5%2C transcript variant X2
+4	31000001	31050000	231.484185	RAPGEF5	519566	Rap guanine nucleotide exchange factor 5%2C transcript variant X2
+4	31020001	31070000	231.484185	RAPGEF5	519566	Rap guanine nucleotide exchange factor 5%2C transcript variant X2
+4	35540001	35590000	303.79501899999997	SEMA3D	536417	semaphorin 3D
+4	35560001	35610000	303.79501899999997	SEMA3D	536417	semaphorin 3D
+4	35580001	35630000	286.71225	SEMA3D	536417	semaphorin 3D
+4	35600001	35650000	340.939804	SEMA3D	536417	semaphorin 3D
+4	37480001	37530000	280.44032000000004	PCLO	517284	piccolo presynaptic cytomatrix protein
+4	37500001	37550000	280.44032000000004	PCLO	517284	piccolo presynaptic cytomatrix protein
+4	37520001	37570000	224.891118	PCLO	517284	piccolo presynaptic cytomatrix protein
+4	37600001	37650000	285.33012599999995	PCLO	517284	piccolo presynaptic cytomatrix protein
+4	37620001	37670000	285.33012599999995	PCLO	517284	piccolo presynaptic cytomatrix protein
+4	37640001	37690000	285.33012599999995	PCLO	517284	piccolo presynaptic cytomatrix protein
+4	37700001	37750000	323.646834	PCLO	517284	piccolo presynaptic cytomatrix protein
+4	37720001	37770000	538.858113	PCLO	517284	piccolo presynaptic cytomatrix protein
+4	37740001	37790000	538.858113	PCLO	517284	piccolo presynaptic cytomatrix protein
+4	37760001	37810000	538.858113	PCLO	517284	piccolo presynaptic cytomatrix protein
+4	42340001	42390000	281.076833	MAGI2	100298336	membrane associated guanylate kinase%2C WW and PDZ domain containing 2
+4	42360001	42410000	281.076833	MAGI2	100298336	membrane associated guanylate kinase%2C WW and PDZ domain containing 2
+4	42380001	42430000	281.076833	MAGI2	100298336	membrane associated guanylate kinase%2C WW and PDZ domain containing 2
+4	43560001	43610000	272.926335	PTPN12	531877	protein tyrosine phosphatase%2C non-receptor type 12%2C transcript variant X2
+4	43580001	43630000	272.926335	PTPN12	531877	protein tyrosine phosphatase%2C non-receptor type 12%2C transcript variant X2
+4	49940001	49990000	281.066062	STARD3NL	510042	STARD3 N-terminal like
+4	49960001	50010000	281.066062	STARD3NL	510042	STARD3 N-terminal like
+4	49980001	50030000	281.066062	STARD3NL	510042	STARD3 N-terminal like
+4	87740001	87790000	393.10363	IQUB	536449	IQ motif and ubiquitin domain containing
+4	87760001	87810000	393.10363	IQUB	536449	IQ motif and ubiquitin domain containing
+4	87780001	87830000	309.894631	IQUB	536449	IQ motif and ubiquitin domain containing
+4	94000001	94050000	270.394931	LOC101903427	101903427	carboxypeptidase A4-like
+4	94020001	94070000	270.394931	LOC101903427|CPA5	101903427|511416	carboxypeptidase A4-like|carboxypeptidase A5%2C transcript variant X3
+4	94040001	94090000	270.394931	LOC101903427|CPA5	101903427|511416	carboxypeptidase A4-like|carboxypeptidase A5%2C transcript variant X3
+4	96680001	96730000	250.554736	CHCHD3	616477	coiled-coil-helix-coiled-coil-helix domain containing 3%2C transcript variant X1
+4	96700001	96750000	250.554736	CHCHD3	616477	coiled-coil-helix-coiled-coil-helix domain containing 3%2C transcript variant X1
+4	96740001	96790000	229.52629700000003	CHCHD3	616477	coiled-coil-helix-coiled-coil-helix domain containing 3%2C transcript variant X1
+4	96760001	96810000	229.52629700000003	CHCHD3	616477	coiled-coil-helix-coiled-coil-helix domain containing 3%2C transcript variant X1
+4	99700001	99750000	307.731822	LUZP6	101903959	leucine zipper protein 6
+4	103900001	103950000	229.53644500000001	DENND2A	512632	DENN domain containing 2A%2C transcript variant X3
+4	103920001	103970000	229.53644500000001	DENND2A	512632	DENN domain containing 2A%2C transcript variant X3
+4	104000001	104050000	1048.9235449999999	NDUFB2|ADCK2|BRAF	327713|539345|536051	NADH:ubiquinone oxidoreductase subunit B2|aarF domain containing kinase 2|B-Raf proto-oncogene%2C serine/threonine kinase%2C transcript variant X13
+4	104020001	104070000	1095.849065	BRAF	536051	B-Raf proto-oncogene%2C serine/threonine kinase%2C transcript variant X13
+4	104040001	104090000	1095.849065	BRAF	536051	B-Raf proto-oncogene%2C serine/threonine kinase%2C transcript variant X13
+4	104060001	104110000	1095.849065	BRAF	536051	B-Raf proto-oncogene%2C serine/threonine kinase%2C transcript variant X13
+4	104080001	104130000	1100.999649	BRAF	536051	B-Raf proto-oncogene%2C serine/threonine kinase%2C transcript variant X13
+4	104100001	104150000	1100.999649	BRAF	536051	B-Raf proto-oncogene%2C serine/threonine kinase%2C transcript variant X13
+4	104120001	104170000	1100.999649	BRAF	536051	B-Raf proto-oncogene%2C serine/threonine kinase%2C transcript variant X13
+4	104140001	104190000	887.2993630000001	BRAF	536051	B-Raf proto-oncogene%2C serine/threonine kinase%2C transcript variant X13
+4	104160001	104210000	572.105459	BRAF	536051	B-Raf proto-oncogene%2C serine/threonine kinase%2C transcript variant X13
+4	104180001	104230000	303.57306800000003	BRAF	536051	B-Raf proto-oncogene%2C serine/threonine kinase%2C transcript variant X13
+4	104900001	104950000	340.602612	KIAA1147|AGK	506984|514693	KIAA1147%2C transcript variant X1|acylglycerol kinase%2C transcript variant X1
+4	104920001	104970000	340.602612	KIAA1147	506984	KIAA1147%2C transcript variant X1
+4	104940001	104990000	340.602612	KIAA1147|WEE2	506984|520049	KIAA1147%2C transcript variant X1|WEE1 homolog 2
+5	1440001	1490000	234.547008	TBC1D15	534252	TBC1 domain family member 15%2C transcript variant X3
+5	1460001	1510000	307.01092400000005	TBC1D15	534252	TBC1 domain family member 15%2C transcript variant X3
+5	1480001	1530000	307.01092400000005	TBC1D15	534252	TBC1 domain family member 15%2C transcript variant X3
+5	1500001	1550000	307.01092400000005	TBC1D15|TPH2	534252|100336620	TBC1 domain family member 15%2C transcript variant X3|tryptophan hydroxylase 2
+5	26020001	26070000	480.64405300000004	HOXC8|HOXC10|HOXC11|HOXC9	100295249|100847795|536141|100295214	homeobox C8|homeobox C10%2C transcript variant X2|homeobox C11|homeobox C9
+5	26040001	26090000	480.64405300000004	HOXC10|HOXC11|HOXC12|HOXC13	100847795|536141|613573|538716	homeobox C10%2C transcript variant X2|homeobox C11|homeobox C12|homeobox C13
+5	26060001	26110000	480.64405300000004	HOXC12|HOXC13	613573|538716	homeobox C12|homeobox C13
+5	30940001	30990000	419.490843	DDX23|CACNB3|ADCY6	537395|282160|509936	DEAD-box helicase 23|calcium voltage-gated channel auxiliary subunit beta 3|adenylate cyclase 6
+5	30960001	31010000	419.490843	CACNB3|ADCY6|TEX49	282160|509936|100335701	calcium voltage-gated channel auxiliary subunit beta 3|adenylate cyclase 6|testis expressed 49
+5	30980001	31030000	387.63419	ADCY6|TEX49	509936|100335701	adenylate cyclase 6|testis expressed 49
+5	31000001	31050000	387.63419	ADCY6|TEX49	509936|100335701	adenylate cyclase 6|testis expressed 49
+5	31020001	31070000	386.190104	TEX49|CCNT1	100335701|407194	testis expressed 49|cyclin T1
+5	31040001	31090000	302.456467	CCNT1	407194	cyclin T1
+5	31060001	31110000	336.04832000000005	KANSL2|CCNT1	540194|407194	KAT8 regulatory NSL complex subunit 2%2C transcript variant X2|cyclin T1
+5	31080001	31130000	336.04832000000005	KANSL2|CCNT1	540194|407194	KAT8 regulatory NSL complex subunit 2%2C transcript variant X2|cyclin T1
+5	31880001	31930000	1010.8378150000001	LOC100848234	100848234	olfactory receptor 8S1-like
+5	32100001	32150000	744.317179	CCDC184|ASB8|PFKM	617289|617269|506544	coiled-coil domain containing 184|ankyrin repeat and SOCS box containing 8%2C transcript variant X3|phosphofructokinase%2C muscle%2C transcript variant X3
+5	32120001	32170000	744.317179	ASB8|PFKM	617269|506544	ankyrin repeat and SOCS box containing 8%2C transcript variant X3|phosphofructokinase%2C muscle%2C transcript variant X3
+5	32140001	32190000	744.317179	ASB8|PFKM	617269|506544	ankyrin repeat and SOCS box containing 8%2C transcript variant X3|phosphofructokinase%2C muscle%2C transcript variant X3
+5	32160001	32210000	696.3880780000001	PFKM|SENP1	506544|538091	phosphofructokinase%2C muscle%2C transcript variant X3|SUMO specific peptidase 1
+5	32180001	32230000	352.2055	PFKM|SENP1	506544|538091	phosphofructokinase%2C muscle%2C transcript variant X3|SUMO specific peptidase 1
+5	32200001	32250000	352.2055	SENP1	538091	SUMO specific peptidase 1
+5	34180001	34230000	353.714681	SCAF11	538632	SR-related CTD associated factor 11%2C transcript variant X4
+5	34200001	34250000	386.12298	SCAF11	538632	SR-related CTD associated factor 11%2C transcript variant X4
+5	34220001	34270000	386.12298	SCAF11	538632	SR-related CTD associated factor 11%2C transcript variant X4
+5	34240001	34290000	351.69825699999996	SCAF11	538632	SR-related CTD associated factor 11%2C transcript variant X4
+5	34260001	34310000	366.203793	SCAF11|ARID2	538632|517876	SR-related CTD associated factor 11%2C transcript variant X4|AT-rich interaction domain 2
+5	34280001	34330000	701.494005	SCAF11|ARID2	538632|517876	SR-related CTD associated factor 11%2C transcript variant X4|AT-rich interaction domain 2
+5	34300001	34350000	762.129813	SCAF11|ARID2	538632|517876	SR-related CTD associated factor 11%2C transcript variant X4|AT-rich interaction domain 2
+5	34320001	34370000	933.0975109999999	ARID2	517876	AT-rich interaction domain 2
+5	34340001	34390000	955.897315	ARID2	517876	AT-rich interaction domain 2
+5	34360001	34410000	1006.1426550000001	ARID2	517876	AT-rich interaction domain 2
+5	34380001	34430000	1089.593181	ARID2	517876	AT-rich interaction domain 2
+5	34400001	34450000	1124.977939	ARID2	517876	AT-rich interaction domain 2
+5	34420001	34470000	1124.977939	ARID2	517876	AT-rich interaction domain 2
+5	34440001	34490000	1149.671867	ARID2	517876	AT-rich interaction domain 2
+5	34460001	34510000	1149.671867	ARID2	517876	AT-rich interaction domain 2
+5	34480001	34530000	1149.671867	ARID2	517876	AT-rich interaction domain 2
+5	34500001	34550000	1062.069582	ARID2	517876	AT-rich interaction domain 2
+5	36600001	36650000	389.809667	TMEM117	614719	transmembrane protein 117%2C transcript variant X1
+5	36620001	36670000	455.357309	TWF1|TMEM117	506683|614719	twinfilin actin binding protein 1|transmembrane protein 117%2C transcript variant X1
+5	36640001	36690000	455.357309	TWF1|IRAK4	506683|533692	twinfilin actin binding protein 1|interleukin 1 receptor associated kinase 4%2C transcript variant X5
+5	36660001	36710000	440.85063399999996	TWF1|PUS7L|IRAK4	506683|505464|533692	twinfilin actin binding protein 1|pseudouridylate synthase 7 like|interleukin 1 receptor associated kinase 4%2C transcript variant X5
+5	36680001	36730000	440.85063399999996	PUS7L|IRAK4	505464|533692	pseudouridylate synthase 7 like|interleukin 1 receptor associated kinase 4%2C transcript variant X5
+5	36700001	36750000	396.938908	PUS7L|IRAK4	505464|533692	pseudouridylate synthase 7 like|interleukin 1 receptor associated kinase 4%2C transcript variant X5
+5	36720001	36770000	239.783441	PUS7L	505464	pseudouridylate synthase 7 like
+5	40820001	40870000	444.56255899999996	SLC2A13	613556	solute carrier family 2 member 13
+5	40840001	40890000	444.56255899999996	SLC2A13	613556	solute carrier family 2 member 13
+5	40860001	40910000	444.56255899999996	SLC2A13	613556	solute carrier family 2 member 13
+5	40880001	40930000	426.027312	SLC2A13	613556	solute carrier family 2 member 13
+5	40900001	40950000	426.027312	SLC2A13	613556	solute carrier family 2 member 13
+5	40940001	40990000	346.758502	SLC2A13	613556	solute carrier family 2 member 13
+5	40960001	41010000	346.758502	SLC2A13	613556	solute carrier family 2 member 13
+5	40980001	41030000	346.758502	SLC2A13	613556	solute carrier family 2 member 13
+5	62720001	62770000	270.78081000000003	SLC25A3|IKBIP	282477|540640	solute carrier family 25 member 3|IKBKB interacting protein%2C transcript variant X1
+5	62740001	62790000	270.78081000000003	SLC25A3|IKBIP|APAF1	282477|540640|537782	solute carrier family 25 member 3|IKBKB interacting protein%2C transcript variant X1|apoptotic peptidase activating factor 1%2C transcript variant X4
+5	62760001	62810000	270.78081000000003	IKBIP|APAF1	540640|537782	IKBKB interacting protein%2C transcript variant X1|apoptotic peptidase activating factor 1%2C transcript variant X4
+5	67000001	67050000	490.922917	C5H12orf42	101906090	chromosome 5 C12orf42 homolog
+5	67020001	67070000	490.922917	C5H12orf42	101906090	chromosome 5 C12orf42 homolog
+5	74240001	74290000	334.714149	LOC521214|LOC786352	521214|786352	apolipoprotein L3|apolipoprotein L3%2C transcript variant X3
+5	74260001	74310000	334.714149	LOC521214|LOC786352|LOC515697	521214|786352|515697	apolipoprotein L3|apolipoprotein L3%2C transcript variant X3|apolipoprotein L%2C 3-like
+5	74320001	74370000	852.708688	LOC531557	531557	apolipoprotein L3%2C transcript variant X13
+5	74340001	74390000	852.708688	LOC531557	531557	apolipoprotein L3%2C transcript variant X13
+5	74380001	74430000	731.918555	LOC518495	518495	apolipoprotein L3-like%2C transcript variant X4
+5	74400001	74450000	731.918555	LOC518495	518495	apolipoprotein L3-like%2C transcript variant X4
+5	81260001	81310000	273.435155	CCDC91	530230	coiled-coil domain containing 91%2C transcript variant X7
+5	81280001	81330000	273.435155	CCDC91	530230	coiled-coil domain containing 91%2C transcript variant X7
+5	81300001	81350000	418.698664	CCDC91	530230	coiled-coil domain containing 91%2C transcript variant X7
+5	81320001	81370000	458.22952000000004	CCDC91	530230	coiled-coil domain containing 91%2C transcript variant X7
+5	81340001	81390000	491.20928200000003	CCDC91	530230	coiled-coil domain containing 91%2C transcript variant X7
+5	81360001	81410000	491.20928200000003	CCDC91	530230	coiled-coil domain containing 91%2C transcript variant X7
+5	81380001	81430000	491.20928200000003	CCDC91	530230	coiled-coil domain containing 91%2C transcript variant X7
+5	81440001	81490000	240.73202200000003	CCDC91	530230	coiled-coil domain containing 91%2C transcript variant X7
+5	81460001	81510000	240.73202200000003	CCDC91	530230	coiled-coil domain containing 91%2C transcript variant X7
+5	81480001	81530000	240.73202200000003	CCDC91	530230	coiled-coil domain containing 91%2C transcript variant X7
+5	108460001	108510000	318.159694	CACNA1C	408015	calcium voltage-gated channel subunit alpha1 C%2C transcript variant X16
+5	108480001	108530000	406.39525	CACNA1C	408015	calcium voltage-gated channel subunit alpha1 C%2C transcript variant X16
+5	108500001	108550000	406.39525	CACNA1C	408015	calcium voltage-gated channel subunit alpha1 C%2C transcript variant X16
+5	108520001	108570000	406.39525	CACNA1C	408015	calcium voltage-gated channel subunit alpha1 C%2C transcript variant X16
+5	108540001	108590000	386.552869	CACNA1C	408015	calcium voltage-gated channel subunit alpha1 C%2C transcript variant X16
+5	108560001	108610000	272.415821	CACNA1C	408015	calcium voltage-gated channel subunit alpha1 C%2C transcript variant X16
+5	117140001	117190000	261.632676	TBC1D22A	618784	TBC1 domain family member 22A
+5	117160001	117210000	261.632676	TBC1D22A	618784	TBC1 domain family member 22A
+5	117180001	117230000	237.19891600000003	TBC1D22A	618784	TBC1 domain family member 22A
+5	118360001	118410000	578.24553	FAM19A5	767927	family with sequence similarity 19 member A5%2C C-C motif chemokine like%2C transcript variant X1
+5	118380001	118430000	578.24553	FAM19A5	767927	family with sequence similarity 19 member A5%2C C-C motif chemokine like%2C transcript variant X1
+5	118400001	118450000	578.24553	FAM19A5	767927	family with sequence similarity 19 member A5%2C C-C motif chemokine like%2C transcript variant X1
+5	118420001	118470000	324.80575899999997	FAM19A5	767927	family with sequence similarity 19 member A5%2C C-C motif chemokine like%2C transcript variant X1
+5	118440001	118490000	324.80575899999997	FAM19A5	767927	family with sequence similarity 19 member A5%2C C-C motif chemokine like%2C transcript variant X1
+6	22940001	22990000	306.503478	BANK1	100299906	B cell scaffold protein with ankyrin repeats 1%2C transcript variant X1
+6	22960001	23010000	306.503478	BANK1	100299906	B cell scaffold protein with ankyrin repeats 1%2C transcript variant X1
+6	23400001	23450000	395.79206600000003	PPP3CA	286852	protein phosphatase 3 catalytic subunit alpha
+6	23720001	23770000	564.7248549999999	PPP3CA	286852	protein phosphatase 3 catalytic subunit alpha
+6	23740001	23790000	564.7248549999999	PPP3CA	286852	protein phosphatase 3 catalytic subunit alpha
+6	23760001	23810000	564.7248549999999	PPP3CA	286852	protein phosphatase 3 catalytic subunit alpha
+6	36180001	36230000	228.26383700000002	HERC3	510924	HECT and RLD domain containing E3 ubiquitin protein ligase 3%2C transcript variant X2
+6	36220001	36270000	228.26383700000002	PIGY|PYURF|HERC5	514374|100996942|514373	phosphatidylinositol glycan anchor biosynthesis class Y|PIGY upstream reading frame|HECT and RLD domain containing E3 ubiquitin protein ligase 5
+6	37460001	37510000	225.49225499999997	LCORL	540095	ligand dependent nuclear receptor corepressor like
+6	37480001	37530000	225.49225499999997	LCORL	540095	ligand dependent nuclear receptor corepressor like
+6	37500001	37550000	382.303727	LCORL	540095	ligand dependent nuclear receptor corepressor like
+6	37520001	37570000	393.1702	LCORL	540095	ligand dependent nuclear receptor corepressor like
+6	37540001	37590000	393.1702	LCORL	540095	ligand dependent nuclear receptor corepressor like
+6	41340001	41390000	344.391757	KCNIP4	614299	potassium voltage-gated channel interacting protein 4%2C transcript variant X1
+6	41360001	41410000	344.391757	KCNIP4	614299	potassium voltage-gated channel interacting protein 4%2C transcript variant X1
+6	41380001	41430000	344.391757	KCNIP4	614299	potassium voltage-gated channel interacting protein 4%2C transcript variant X1
+6	44400001	44450000	310.733083	CCDC149	613278	coiled-coil domain containing 149
+6	44420001	44470000	310.733083	CCDC149	613278	coiled-coil domain containing 149
+6	44440001	44490000	499.14239100000003	CCDC149	613278	coiled-coil domain containing 149
+6	44460001	44510000	499.14239100000003	CCDC149	613278	coiled-coil domain containing 149
+6	57420001	57470000	377.49023700000004	TBC1D1	282704	TBC1 domain family member 1%2C transcript variant X11
+6	59640001	59690000	323.239546	NSUN7|RBM47	533295|540831	NOP2/Sun RNA methyltransferase family member 7%2C transcript variant X4|RNA binding motif protein 47%2C transcript variant X22
+6	59660001	59710000	323.239546	NSUN7|RBM47	533295|540831	NOP2/Sun RNA methyltransferase family member 7%2C transcript variant X4|RNA binding motif protein 47%2C transcript variant X22
+6	59680001	59730000	261.632386	NSUN7|APBB2	533295|514013	NOP2/Sun RNA methyltransferase family member 7%2C transcript variant X4|amyloid beta precursor protein binding family B member 2
+6	59940001	59990000	229.359996	APBB2	514013	amyloid beta precursor protein binding family B member 2
+6	59960001	60010000	229.359996	APBB2	514013	amyloid beta precursor protein binding family B member 2
+6	59980001	60030000	229.359996	APBB2	514013	amyloid beta precursor protein binding family B member 2
+6	67240001	67290000	248.27967400000003	FRYL	511059	FRY like transcription coactivator%2C transcript variant X6
+6	67260001	67310000	248.27967400000003	FRYL	511059	FRY like transcription coactivator%2C transcript variant X6
+6	67280001	67330000	248.27967400000003	FRYL	511059	FRY like transcription coactivator%2C transcript variant X6
+6	67300001	67350000	240.315598	FRYL	511059	FRY like transcription coactivator%2C transcript variant X6
+6	70560001	70610000	231.768935	KDR	407170	kinase insert domain receptor%2C transcript variant X1
+6	70580001	70630000	231.768935	KDR	407170	kinase insert domain receptor%2C transcript variant X1
+6	70600001	70650000	260.88298599999996	KDR	407170	kinase insert domain receptor%2C transcript variant X1
+6	70820001	70870000	454.54990300000003	TMEM165|CLOCK	532600|100300400	transmembrane protein 165|clock circadian regulator
+6	70840001	70890000	614.647896	TMEM165|CLOCK	532600|100300400	transmembrane protein 165|clock circadian regulator
+6	70860001	70910000	711.35919	TMEM165|CLOCK	532600|100300400	transmembrane protein 165|clock circadian regulator
+6	70880001	70930000	711.35919	CLOCK	100300400	clock circadian regulator
+6	70900001	70950000	676.395969	CLOCK	100300400	clock circadian regulator
+6	70920001	70970000	680.4104179999999	CLOCK	100300400	clock circadian regulator
+6	70940001	70990000	680.4104179999999	PDCL2|CLOCK	531753|100300400	phosducin like 2|clock circadian regulator
+6	70960001	71010000	647.750895	PDCL2|CLOCK	531753|100300400	phosducin like 2|clock circadian regulator
+6	70980001	71030000	621.343082	PDCL2|NMU	531753|782109	phosducin like 2|neuromedin U
+6	71000001	71050000	621.343082	PDCL2|NMU	531753|782109	phosducin like 2|neuromedin U
+6	71020001	71070000	407.356361	PDCL2|NMU	531753|782109	phosducin like 2|neuromedin U
+6	71240001	71290000	271.17124900000005	EXOC1L|EXOC1	104968894|504440	exocyst complex component 1 like|exocyst complex component 1%2C transcript variant X3
+6	71260001	71310000	381.43465499999996	EXOC1	504440	exocyst complex component 1%2C transcript variant X3
+6	71280001	71330000	386.50699	EXOC1	504440	exocyst complex component 1%2C transcript variant X3
+6	71300001	71350000	386.50699	EXOC1	504440	exocyst complex component 1%2C transcript variant X3
+6	86000001	86050000	299.049292	JCHAIN|ENAM	280821|527075	joining chain of multimeric IgA and IgM|enamelin
+6	86020001	86070000	408.146069	JCHAIN|ENAM	280821|527075	joining chain of multimeric IgA and IgM|enamelin
+6	86040001	86090000	429.314618	JCHAIN|UTP3	280821|521106	joining chain of multimeric IgA and IgM|UTP3%2C small subunit processome component
+6	86060001	86110000	429.314618	UTP3|RUFY3	521106|514798	UTP3%2C small subunit processome component|RUN and FYVE domain containing 3%2C transcript variant X16
+6	86080001	86130000	402.432317	RUFY3	514798	RUN and FYVE domain containing 3%2C transcript variant X16
+6	86100001	86150000	366.61199999999997	RUFY3	514798	RUN and FYVE domain containing 3%2C transcript variant X16
+6	86140001	86190000	278.07459	RUFY3	514798	RUN and FYVE domain containing 3%2C transcript variant X16
+6	86160001	86210000	278.07459	GRSF1|RUFY3	527169|514798	G-rich RNA sequence binding factor 1%2C transcript variant X1|RUN and FYVE domain containing 3%2C transcript variant X16
+6	86180001	86230000	278.07459	GRSF1|RUFY3	527169|514798	G-rich RNA sequence binding factor 1%2C transcript variant X1|RUN and FYVE domain containing 3%2C transcript variant X16
+6	88240001	88290000	225.93611299999998	ANKRD17	508405	ankyrin repeat domain 17%2C transcript variant X2
+6	88260001	88310000	225.93611299999998	ANKRD17	508405	ankyrin repeat domain 17%2C transcript variant X2
+6	94540001	94590000	266.515298	ANTXR2	510080	anthrax toxin receptor 2%2C transcript variant X1
+6	94560001	94610000	266.515298	ANTXR2	510080	anthrax toxin receptor 2%2C transcript variant X1
+6	94580001	94630000	266.515298	ANTXR2	510080	anthrax toxin receptor 2%2C transcript variant X1
+6	96000001	96050000	259.635647	PRKG2	533330	protein kinase cGMP-dependent 2
+6	96720001	96770000	350.832533	RASGEF1B	506971	RasGEF domain family member 1B
+6	96740001	96790000	350.832533	RASGEF1B	506971	RasGEF domain family member 1B
+6	96760001	96810000	337.276297	RASGEF1B	506971	RasGEF domain family member 1B
+6	102280001	102330000	349.289369	NUDT9	517589	nudix hydrolase 9%2C transcript variant X2
+6	102300001	102350000	409.114582	NUDT9	517589	nudix hydrolase 9%2C transcript variant X2
+6	102320001	102370000	409.114582	NUDT9	517589	nudix hydrolase 9%2C transcript variant X2
+6	102340001	102390000	409.114582	NUDT9|SPARCL1	517589|507537	nudix hydrolase 9%2C transcript variant X2|SPARC like 1
+6	102460001	102510000	412.617831	DSPP	100337125	dentin sialophosphoprotein
+6	102480001	102530000	412.617831	DMP1|DSPP	281118|100337125	dentin matrix acidic phosphoprotein 1|dentin sialophosphoprotein
+6	102500001	102550000	412.617831	DMP1|DSPP	281118|100337125	dentin matrix acidic phosphoprotein 1|dentin sialophosphoprotein
+6	103360001	103410000	367.792261	CRMP1|EVC	504250|282874	collapsin response mediator protein 1|EvC ciliary complex subunit 1%2C transcript variant X5
+6	103380001	103430000	367.792261	CRMP1|EVC	504250|282874	collapsin response mediator protein 1|EvC ciliary complex subunit 1%2C transcript variant X5
+6	103400001	103450000	367.792261	EVC	282874	EvC ciliary complex subunit 1%2C transcript variant X5
+6	103420001	103470000	280.40182200000004	EVC	282874	EvC ciliary complex subunit 1%2C transcript variant X5
+6	103680001	103730000	269.653741	STK32B	529134	serine/threonine kinase 32B%2C transcript variant X1
+6	103700001	103750000	269.653741	STK32B	529134	serine/threonine kinase 32B%2C transcript variant X1
+6	108800001	108850000	240.97929700000003	BOD1L1	508527	biorientation of chromosomes in cell division 1 like 1%2C transcript variant X1
+6	108820001	108870000	240.97929700000003	BOD1L1	508527	biorientation of chromosomes in cell division 1 like 1%2C transcript variant X1
+6	110120001	110170000	236.49939300000003	CPEB2	538880	cytoplasmic polyadenylation element binding protein 2%2C transcript variant X2
+6	110140001	110190000	227.898217	CPEB2	538880	cytoplasmic polyadenylation element binding protein 2%2C transcript variant X2
+6	110160001	110210000	227.898217	CPEB2	538880	cytoplasmic polyadenylation element binding protein 2%2C transcript variant X2
+6	110180001	110230000	227.898217	CPEB2	538880	cytoplasmic polyadenylation element binding protein 2%2C transcript variant X2
+6	116700001	116750000	295.863205	LETM1|NSD2	513324|540769	leucine zipper and EF-hand containing transmembrane protein 1|nuclear receptor binding SET domain protein 2%2C transcript variant X6
+6	116720001	116770000	566.054852	LETM1|FGFR3	513324|281769	leucine zipper and EF-hand containing transmembrane protein 1|fibroblast growth factor receptor 3
+6	116740001	116790000	566.054852	LETM1|FGFR3	513324|281769	leucine zipper and EF-hand containing transmembrane protein 1|fibroblast growth factor receptor 3
+6	116760001	116810000	566.054852	LETM1|FGFR3	513324|281769	leucine zipper and EF-hand containing transmembrane protein 1|fibroblast growth factor receptor 3
+6	116780001	116830000	403.879173	FGFR3|LOC112447024|TACC3	281769|112447024|506194	fibroblast growth factor receptor 3|translation initiation factor IF-2-like|transforming acidic coiled-coil containing protein 3%2C transcript variant X3
+6	116800001	116850000	403.879173	TMEM129|LOC112447024|TACC3|SLBP	518991|112447024|506194|444868	transmembrane protein 129|translation initiation factor IF-2-like|transforming acidic coiled-coil containing protein 3%2C transcript variant X3|stem-loop binding protein
+6	116820001	116870000	318.310767	TMEM129|TACC3|SLBP	518991|506194|444868	transmembrane protein 129|transforming acidic coiled-coil containing protein 3%2C transcript variant X3|stem-loop binding protein
+6	117220001	117270000	311.520529	SPON2|CTBP1	513844|513131	spondin 2|C-terminal binding protein 1%2C transcript variant X4
+6	117240001	117290000	311.520529	SPON2	513844	spondin 2
+6	117260001	117310000	313.133465	RNF212	101903108	ring finger protein 212%2C transcript variant X4
+6	117280001	117330000	320.846144	RNF212	101903108	ring finger protein 212%2C transcript variant X4
+6	117300001	117350000	320.846144	FGFRL1|RNF212	532327|101903108	fibroblast growth factor receptor like 1|ring finger protein 212%2C transcript variant X4
+6	117320001	117370000	320.846144	FGFRL1|RNF212	532327|101903108	fibroblast growth factor receptor like 1|ring finger protein 212%2C transcript variant X4
+7	4640001	4690000	385.545613	FKBP8|ELL	512356|506578	FK506 binding protein 8|elongation factor for RNA polymerase II%2C transcript variant X2
+7	4660001	4710000	451.214124	ELL	506578	elongation factor for RNA polymerase II%2C transcript variant X2
+7	4680001	4730000	451.214124	ELL	506578	elongation factor for RNA polymerase II%2C transcript variant X2
+7	4700001	4750000	451.214124	ISYNA1|SSBP4|ELL	509394|508156|506578	inositol-3-phosphate synthase 1|single stranded DNA binding protein 4%2C transcript variant X6|elongation factor for RNA polymerase II%2C transcript variant X2
+7	4720001	4770000	329.126729	ISYNA1|SSBP4|ELL	509394|508156|506578	inositol-3-phosphate synthase 1|single stranded DNA binding protein 4%2C transcript variant X6|elongation factor for RNA polymerase II%2C transcript variant X2
+7	5400001	5450000	242.040887	MAP1S	527829	microtubule associated protein 1S
+7	5420001	5470000	242.040887	MAP1S|UNC13A	527829|526874	microtubule associated protein 1S|unc-13 homolog A%2C transcript variant X4
+7	18980001	19030000	426.10425999999995	PTPRS	537480	protein tyrosine phosphatase%2C receptor type S%2C transcript variant X20
+7	19000001	19050000	426.10425999999995	PTPRS	537480	protein tyrosine phosphatase%2C receptor type S%2C transcript variant X20
+7	19020001	19070000	426.10425999999995	PTPRS	537480	protein tyrosine phosphatase%2C receptor type S%2C transcript variant X20
+7	24200001	24250000	242.143067	CHSY3	528149	chondroitin sulfate synthase 3
+7	24220001	24270000	242.143067	CHSY3	528149	chondroitin sulfate synthase 3
+7	49440001	49490000	250.01382200000003	FAM13B	540987	family with sequence similarity 13 member B%2C transcript variant X4
+7	49460001	49510000	250.01382200000003	FAM13B	540987	family with sequence similarity 13 member B%2C transcript variant X4
+7	49480001	49530000	250.01382200000003	WNT8A|FAM13B	540199|540987	Wnt family member 8A|family with sequence similarity 13 member B%2C transcript variant X4
+7	73180001	73230000	752.025102	GABRB2	540657	gamma-aminobutyric acid type A receptor beta2 subunit%2C transcript variant X3
+7	73200001	73250000	752.025102	GABRB2	540657	gamma-aminobutyric acid type A receptor beta2 subunit%2C transcript variant X3
+7	73220001	73270000	752.025102	GABRB2	540657	gamma-aminobutyric acid type A receptor beta2 subunit%2C transcript variant X3
+7	73240001	73290000	551.67243	GABRB2	540657	gamma-aminobutyric acid type A receptor beta2 subunit%2C transcript variant X3
+8	23860001	23910000	223.87589599999998	MLLT3	521962	MLLT3%2C super elongation complex subunit%2C transcript variant X1
+8	23880001	23930000	223.87589599999998	MLLT3	521962	MLLT3%2C super elongation complex subunit%2C transcript variant X1
+8	43540001	43590000	312.14315	DMRT3	506833	doublesex and mab-3 related transcription factor 3
+8	43560001	43610000	312.14315	DMRT3|DMRT1	506833|616245	doublesex and mab-3 related transcription factor 3|doublesex and mab-3 related transcription factor 1
+8	43580001	43630000	312.14315	DMRT3|DMRT1	506833|616245	doublesex and mab-3 related transcription factor 3|doublesex and mab-3 related transcription factor 1
+8	43600001	43650000	875.3097019999999	DMRT1	616245	doublesex and mab-3 related transcription factor 1
+8	43620001	43670000	987.400474	DMRT1	616245	doublesex and mab-3 related transcription factor 1
+8	43640001	43690000	987.400474	DMRT1	616245	doublesex and mab-3 related transcription factor 1
+8	43660001	43710000	874.496182	DMRT1	616245	doublesex and mab-3 related transcription factor 1
+8	43680001	43730000	874.496182	DMRT1	616245	doublesex and mab-3 related transcription factor 1
+8	43740001	43790000	461.988784	KANK1	534869	KN motif and ankyrin repeat domains 1%2C transcript variant X15
+8	44240001	44290000	563.86604	DOCK8	100295817	dedicator of cytokinesis 8
+8	44260001	44310000	563.86604	CBWD2|DOCK8	100300568|100295817	COBW domain containing 5%2C transcript variant X13|dedicator of cytokinesis 8
+8	44280001	44330000	477.102858	CBWD2	100300568	COBW domain containing 5%2C transcript variant X13
+8	44300001	44350000	477.102858	CBWD2	100300568	COBW domain containing 5%2C transcript variant X13
+8	44320001	44370000	477.102858	LOC529657|CBWD2	529657|100300568	forkhead box protein D4-like 1%2C transcript variant X2|COBW domain containing 5%2C transcript variant X13
+8	44340001	44390000	475.967975	LOC529657|CBWD2	529657|100300568	forkhead box protein D4-like 1%2C transcript variant X2|COBW domain containing 5%2C transcript variant X13
+8	44360001	44410000	475.967975	PGM5	785045	phosphoglucomutase 5
+8	44380001	44430000	338.51507799999996	PGM5	785045	phosphoglucomutase 5
+8	44400001	44450000	321.37835099999995	PGM5	785045	phosphoglucomutase 5
+8	44420001	44470000	321.37835099999995	PGM5	785045	phosphoglucomutase 5
+8	44440001	44490000	321.37835099999995	PGM5	785045	phosphoglucomutase 5
+8	48220001	48270000	283.330756	C8H9orf85	614778	chromosome 8 C9orf85 homolog
+8	48240001	48290000	283.330756	C8H9orf57	112447749	chromosome 8 C9orf57 homolog
+8	48260001	48310000	560.0836009999999	C8H9orf57	112447749	chromosome 8 C9orf57 homolog
+8	48280001	48330000	603.419287	C8H9orf57	112447749	chromosome 8 C9orf57 homolog
+8	48300001	48350000	603.419287	C8H9orf57	112447749	chromosome 8 C9orf57 homolog
+8	63300001	63350000	282.925725	TBC1D2|CORO2A	513828|617620	TBC1 domain family member 2%2C transcript variant X3|coronin 2A
+8	63320001	63370000	282.925725	TBC1D2	513828	TBC1 domain family member 2%2C transcript variant X3
+8	63340001	63390000	229.365567	TBC1D2|GABBR2	513828|517040	TBC1 domain family member 2%2C transcript variant X3|gamma-aminobutyric acid type B receptor subunit 2
+8	64980001	65030000	521.0675610000001	STX17	534304	syntaxin 17%2C transcript variant X2
+8	65000001	65050000	521.0675610000001	ERP44|STX17	506157|534304	endoplasmic reticulum protein 44|syntaxin 17%2C transcript variant X2
+8	65020001	65070000	521.0675610000001	ERP44|STX17	506157|534304	endoplasmic reticulum protein 44|syntaxin 17%2C transcript variant X2
+8	65040001	65090000	443.655971	ERP44	506157	endoplasmic reticulum protein 44
+8	65060001	65110000	232.323531	ERP44	506157	endoplasmic reticulum protein 44
+8	69240001	69290000	360.855103	XPO7	100124498	exportin 7%2C transcript variant X3
+8	69260001	69310000	525.150188	XPO7	100124498	exportin 7%2C transcript variant X3
+8	69280001	69330000	525.150188	XPO7	100124498	exportin 7%2C transcript variant X3
+8	69300001	69350000	525.150188	XPO7|NPM2	100124498|100316905	exportin 7%2C transcript variant X3|nucleophosmin/nucleoplasmin 2
+8	69320001	69370000	507.808179	FGF17|XPO7|DMTN|NPM2	100300257|100124498|512981|100316905	fibroblast growth factor 17%2C transcript variant X2|exportin 7%2C transcript variant X3|dematin actin binding protein%2C transcript variant X4|nucleophosmin/nucleoplasmin 2
+8	69340001	69390000	490.796011	FGF17|DMTN|NPM2	100300257|512981|100316905	fibroblast growth factor 17%2C transcript variant X2|dematin actin binding protein%2C transcript variant X4|nucleophosmin/nucleoplasmin 2
+8	69360001	69410000	488.25136299999997	FGF17|DMTN|FAM160B2	100300257|512981|507256	fibroblast growth factor 17%2C transcript variant X2|dematin actin binding protein%2C transcript variant X4|family with sequence similarity 160 member B2%2C transcript variant X6
+8	72700001	72750000	378.676645	GNRH1|DOCK5|KCTD9	768325|505572|613717	gonadotropin releasing hormone 1|dedicator of cytokinesis 5%2C transcript variant X2|potassium channel tetramerization domain containing 9%2C transcript variant X1
+8	72720001	72770000	561.506038	GNRH1|DOCK5|KCTD9	768325|505572|613717	gonadotropin releasing hormone 1|dedicator of cytokinesis 5%2C transcript variant X2|potassium channel tetramerization domain containing 9%2C transcript variant X1
+8	72740001	72790000	561.506038	KCTD9	613717	potassium channel tetramerization domain containing 9%2C transcript variant X1
+8	72760001	72810000	470.380145	KCTD9	613717	potassium channel tetramerization domain containing 9%2C transcript variant X1
+8	75940001	75990000	314.119637	RPP25L|CNTFR|DCTN3	512203|539548|514327	ribonuclease P/MRP subunit p25 like|ciliary neurotrophic factor receptor%2C transcript variant X4|dynactin subunit 3
+8	75960001	76010000	346.86082000000005	RPP25L|ARID3C|SIGMAR1|DCTN3	512203|522142|538903|514327	ribonuclease P/MRP subunit p25 like|AT-rich interaction domain 3C|sigma non-opioid intracellular receptor 1|dynactin subunit 3
+8	75980001	76030000	346.86082000000005	RPP25L|ARID3C|SIGMAR1|GALT|CCL27|DCTN3|IL11RA	512203|522142|538903|506997|101902682|514327|508932	ribonuclease P/MRP subunit p25 like|AT-rich interaction domain 3C|sigma non-opioid intracellular receptor 1|galactose-1-phosphate uridylyltransferase|C-C motif chemokine ligand 27|dynactin subunit 3|interleukin 11 receptor subunit alpha
+8	76000001	76050000	343.409235	SIGMAR1|GALT|CCL27|LOC508933|LOC104969408|IL11RA	538903|506997|101902682|508933|104969408|508932	sigma non-opioid intracellular receptor 1|galactose-1-phosphate uridylyltransferase|C-C motif chemokine ligand 27|uncharacterized LOC508933%2C transcript variant X1|endogenous retrovirus group PABLB member 1 Env polyprotein%2C transcript variant X1|interleukin 11 receptor subunit alpha
+8	76020001	76070000	343.409235	CCL27|LOC508933|LOC104969408|CCL19|IL11RA	101902682|508933|104969408|509167|508932	C-C motif chemokine ligand 27|uncharacterized LOC508933%2C transcript variant X1|endogenous retrovirus group PABLB member 1 Env polyprotein%2C transcript variant X1|C-C motif chemokine ligand 19|interleukin 11 receptor subunit alpha
+8	76040001	76090000	343.409235	CCL21|LOC104969408|CCL19	511112|104969408|509167	C-C motif chemokine ligand 21|endogenous retrovirus group PABLB member 1 Env polyprotein%2C transcript variant X1|C-C motif chemokine ligand 19
+8	76880001	76930000	237.72274199999998	UBQLN1	282392	ubiquilin 1
+8	76900001	76950000	237.72274199999998	UBQLN1	282392	ubiquilin 1
+8	76920001	76970000	237.72274199999998	UBQLN1	282392	ubiquilin 1
+8	79120001	79170000	1008.760357	NAA35	506175	N(alpha)-acetyltransferase 35%2C NatC auxiliary subunit%2C transcript variant X5
+8	79140001	79190000	1121.397029	NAA35	506175	N(alpha)-acetyltransferase 35%2C NatC auxiliary subunit%2C transcript variant X5
+8	79160001	79210000	1299.887636	NAA35	506175	N(alpha)-acetyltransferase 35%2C NatC auxiliary subunit%2C transcript variant X5
+8	79180001	79230000	1362.274856	NAA35	506175	N(alpha)-acetyltransferase 35%2C NatC auxiliary subunit%2C transcript variant X5
+8	79200001	79250000	1362.274856	NAA35	506175	N(alpha)-acetyltransferase 35%2C NatC auxiliary subunit%2C transcript variant X5
+8	79220001	79270000	1362.274856	NAA35|GOLM1	506175|517052	N(alpha)-acetyltransferase 35%2C NatC auxiliary subunit%2C transcript variant X5|golgi membrane protein 1
+8	79240001	79290000	1084.358487	NAA35|GOLM1	506175|517052	N(alpha)-acetyltransferase 35%2C NatC auxiliary subunit%2C transcript variant X5|golgi membrane protein 1
+8	79260001	79310000	1004.725787	GOLM1	517052	golgi membrane protein 1
+8	79280001	79330000	1004.725787	GOLM1	517052	golgi membrane protein 1
+8	79300001	79350000	1004.725787	GOLM1	517052	golgi membrane protein 1
+8	79320001	79370000	976.325936	GOLM1	517052	golgi membrane protein 1
+8	79360001	79410000	976.325936	C8H9orf153	785863	chromosome 8 C9orf153 homolog
+8	80680001	80730000	270.602343	DAPK1	540873	death associated protein kinase 1%2C transcript variant X2
+8	80700001	80750000	270.602343	DAPK1	540873	death associated protein kinase 1%2C transcript variant X2
+8	80720001	80770000	270.602343	DAPK1	540873	death associated protein kinase 1%2C transcript variant X2
+8	81160001	81210000	434.26164500000004	C8H9orf3	531757	chromosome 8 C9orf3 homolog
+8	81180001	81230000	434.26164500000004	C8H9orf3	531757	chromosome 8 C9orf3 homolog
+8	81200001	81250000	434.26164500000004	C8H9orf3	531757	chromosome 8 C9orf3 homolog
+8	81220001	81270000	410.904037	C8H9orf3	531757	chromosome 8 C9orf3 homolog
+8	82160001	82210000	277.65552	PTCH1	520994	patched 1
+8	88680001	88730000	397.49970299999995	SEMA4D	785942	semaphorin 4D%2C transcript variant X3
+8	88700001	88750000	397.49970299999995	SEMA4D	785942	semaphorin 4D%2C transcript variant X3
+8	88720001	88770000	288.083011	SECISBP2|SEMA4D	511202|785942	SECIS binding protein 2%2C transcript variant X8|semaphorin 4D%2C transcript variant X3
+8	88740001	88790000	288.083011	SECISBP2|SEMA4D	511202|785942	SECIS binding protein 2%2C transcript variant X8|semaphorin 4D%2C transcript variant X3
+8	91060001	91110000	318.472686	LOC530653|BAAT	530653|786798	acyl-coenzyme A amino acid N-acyltransferase 2%2C transcript variant X2|bile acid-CoA:amino acid N-acyltransferase
+8	91080001	91130000	318.472686	MRPL50|ZNF189|BAAT	514753|540816|786798	mitochondrial ribosomal protein L50|zinc finger protein 189%2C transcript variant X6|bile acid-CoA:amino acid N-acyltransferase
+8	91100001	91150000	318.472686	MRPL50|ZNF189|ALDOB	514753|540816|515263	mitochondrial ribosomal protein L50|zinc finger protein 189%2C transcript variant X6|aldolase%2C fructose-bisphosphate B
+8	94220001	94270000	463.166833	OR13F1|LOC789943	788401|789943	olfactory receptor%2C family 13%2C subfamily F%2C member 1|olfactory receptor 13C2
+8	94240001	94290000	463.166833	OR13F1|LOC789943|LOC789812	788401|789943|789812	olfactory receptor%2C family 13%2C subfamily F%2C member 1|olfactory receptor 13C2|olfactory receptor 13D1
+8	96660001	96710000	255.388247	ZNF462	515561	zinc finger protein 462
+8	96680001	96730000	255.388247	ZNF462	515561	zinc finger protein 462
+8	96700001	96750000	254.08490899999998	ZNF462	515561	zinc finger protein 462
+8	96720001	96770000	254.08490899999998	ZNF462	515561	zinc finger protein 462
+8	98680001	98730000	409.133803	TMEM245|FRRS1L	521172|538492	transmembrane protein 245%2C transcript variant X1|ferric chelate reductase 1 like
+8	98700001	98750000	409.133803	FRRS1L|EPB41L4B	538492|519310	ferric chelate reductase 1 like|erythrocyte membrane protein band 4.1 like 4B%2C transcript variant X11
+8	98720001	98770000	409.133803	FRRS1L|EPB41L4B	538492|519310	ferric chelate reductase 1 like|erythrocyte membrane protein band 4.1 like 4B%2C transcript variant X11
+8	98760001	98810000	874.23289	EPB41L4B	519310	erythrocyte membrane protein band 4.1 like 4B%2C transcript variant X11
+8	98780001	98830000	882.049642	EPB41L4B	519310	erythrocyte membrane protein band 4.1 like 4B%2C transcript variant X11
+8	98800001	98850000	882.049642	EPB41L4B	519310	erythrocyte membrane protein band 4.1 like 4B%2C transcript variant X11
+8	98820001	98870000	623.3918480000001	EPB41L4B	519310	erythrocyte membrane protein band 4.1 like 4B%2C transcript variant X11
+8	98840001	98890000	228.211165	EPB41L4B	519310	erythrocyte membrane protein band 4.1 like 4B%2C transcript variant X11
+8	98860001	98910000	316.950558	EPB41L4B	519310	erythrocyte membrane protein band 4.1 like 4B%2C transcript variant X11
+8	98880001	98930000	316.950558	PTPN3	511010	protein tyrosine phosphatase%2C non-receptor type 3
+8	98900001	98950000	281.819625	PTPN3	511010	protein tyrosine phosphatase%2C non-receptor type 3
+8	99000001	99050000	372.22747999999996	PTPN3	511010	protein tyrosine phosphatase%2C non-receptor type 3
+8	99020001	99070000	372.22747999999996	PTPN3	511010	protein tyrosine phosphatase%2C non-receptor type 3
+8	99040001	99090000	272.320479	PTPN3	511010	protein tyrosine phosphatase%2C non-receptor type 3
+8	106660001	106710000	255.17754900000003	ASTN2	781555	astrotactin 2%2C transcript variant X5
+8	106680001	106730000	255.17754900000003	ASTN2	781555	astrotactin 2%2C transcript variant X5
+9	23200001	23250000	272.27851400000003	ME1	540985	malic enzyme 1
+9	23220001	23270000	272.27851400000003	ME1	540985	malic enzyme 1
+9	23240001	23290000	272.27851400000003	ME1	540985	malic enzyme 1
+9	48360001	48410000	261.38095	GRIK2	615226	glutamate ionotropic receptor kainate type subunit 2%2C transcript variant X6
+9	48380001	48430000	261.38095	GRIK2	615226	glutamate ionotropic receptor kainate type subunit 2%2C transcript variant X6
+9	48420001	48470000	525.948874	GRIK2	615226	glutamate ionotropic receptor kainate type subunit 2%2C transcript variant X6
+9	48440001	48490000	525.948874	GRIK2	615226	glutamate ionotropic receptor kainate type subunit 2%2C transcript variant X6
+9	48540001	48590000	606.957629	GRIK2	615226	glutamate ionotropic receptor kainate type subunit 2%2C transcript variant X6
+9	48560001	48610000	606.957629	GRIK2	615226	glutamate ionotropic receptor kainate type subunit 2%2C transcript variant X6
+9	48580001	48630000	606.957629	GRIK2	615226	glutamate ionotropic receptor kainate type subunit 2%2C transcript variant X6
+9	60840001	60890000	397.847363	GABRR2	522099	gamma-aminobutyric acid type A receptor rho2 subunit
+9	60860001	60910000	397.847363	GABRR2	522099	gamma-aminobutyric acid type A receptor rho2 subunit
+9	60880001	60930000	397.847363	GABRR2|GABRR1	522099|521180	gamma-aminobutyric acid type A receptor rho2 subunit|gamma-aminobutyric acid type A receptor rho1 subunit
+9	61060001	61110000	425.01865	RNGTT	511408	RNA guanylyltransferase and 5'-phosphatase
+9	61080001	61130000	425.01865	RNGTT	511408	RNA guanylyltransferase and 5'-phosphatase
+9	61100001	61150000	425.01865	RNGTT	511408	RNA guanylyltransferase and 5'-phosphatase
+9	65620001	65670000	241.86820299999997	LOC101907989	101907989	protein LEG1 homolog
+9	65640001	65690000	283.183153	LOC101907989	101907989	protein LEG1 homolog
+9	65660001	65710000	283.183153	LOC101907989	101907989	protein LEG1 homolog
+9	65680001	65730000	283.183153	THEMIS	540554	thymocyte selection associated
+9	67780001	67830000	374.464081	ARHGAP18	510743	Rho GTPase activating protein 18
+9	67800001	67850000	440.402027	ARHGAP18	510743	Rho GTPase activating protein 18
+9	67820001	67870000	548.311956	ARHGAP18	510743	Rho GTPase activating protein 18
+9	67840001	67890000	548.311956	ARHGAP18	510743	Rho GTPase activating protein 18
+9	67860001	67910000	548.311956	ARHGAP18	510743	Rho GTPase activating protein 18
+9	68420001	68470000	640.763696	TMEM200A	112448061	transmembrane protein 200A%2C transcript variant X1
+9	68440001	68490000	640.763696	TMEM200A	112448061	transmembrane protein 200A%2C transcript variant X1
+9	68460001	68510000	640.763696	TMEM200A	112448061	transmembrane protein 200A%2C transcript variant X1
+9	70040001	70090000	488.258629	LOC101904601	101904601	uncharacterized LOC101904601%2C transcript variant X1
+9	70060001	70110000	488.258629	LOC101904601	101904601	uncharacterized LOC101904601%2C transcript variant X1
+9	70080001	70130000	412.002821	LOC101904601	101904601	uncharacterized LOC101904601%2C transcript variant X1
+9	70600001	70650000	259.6234	LOC100297846|LOC511136	100297846|511136	trace amine-associated receptor 7a|trace amine-associated receptor 6
+9	70620001	70670000	259.6234	LOC100297846|LOC511136|LOC516101	100297846|511136|516101	trace amine-associated receptor 7a|trace amine-associated receptor 6|trace amine-associated receptor 8
+9	70640001	70690000	259.6234	LOC511136|LOC516101	511136|516101	trace amine-associated receptor 6|trace amine-associated receptor 8
+9	70960001	71010000	243.415565	RPS12|SLC18B1	326582|529052	ribosomal protein S12|solute carrier family 18 member B1%2C transcript variant X4
+9	70980001	71030000	268.592429	RPS12	326582	ribosomal protein S12
+9	72020001	72070000	225.183103	TCF21	510873	transcription factor 21
+9	72040001	72090000	225.183103	TCF21	510873	transcription factor 21
+9	72060001	72110000	428.15493	TCF21	510873	transcription factor 21
+9	72080001	72130000	428.15493	TBPL1	613818	TATA-box binding protein like 1
+9	72100001	72150000	428.15493	TBPL1|SLC2A12	613818|497031	TATA-box binding protein like 1|solute carrier family 2 member 12
+9	73440001	73490000	359.996157	AHI1	528398	Abelson helper integration site 1%2C transcript variant X8
+9	73460001	73510000	359.996157	AHI1	528398	Abelson helper integration site 1%2C transcript variant X8
+9	73480001	73530000	359.996157	AHI1	528398	Abelson helper integration site 1%2C transcript variant X8
+9	73900001	73950000	287.902912	PDE7B	522509	phosphodiesterase 7B
+9	73920001	73970000	287.902912	PDE7B	522509	phosphodiesterase 7B
+9	73940001	73990000	287.902912	PDE7B	522509	phosphodiesterase 7B
+9	74640001	74690000	301.505217	MAP3K5	537380	mitogen-activated protein kinase kinase kinase 5
+9	74660001	74710000	301.505217	MAP3K5	537380	mitogen-activated protein kinase kinase kinase 5
+9	74680001	74730000	288.778991	MAP3K5	537380	mitogen-activated protein kinase kinase kinase 5
+9	74700001	74750000	229.87368999999998	MAP3K5	537380	mitogen-activated protein kinase kinase kinase 5
+9	75880001	75930000	241.58090299999998	PERP	509485	PERP%2C TP53 apoptosis effector
+9	75900001	75950000	326.831064	PERP	509485	PERP%2C TP53 apoptosis effector
+9	75920001	75970000	326.831064	PERP|ARFGEF3	509485|522232	PERP%2C TP53 apoptosis effector|ARFGEF family member 3%2C transcript variant X1
+9	75940001	75990000	402.296789	ARFGEF3	522232	ARFGEF family member 3%2C transcript variant X1
+9	75960001	76010000	402.296789	ARFGEF3	522232	ARFGEF family member 3%2C transcript variant X1
+9	75980001	76030000	402.296789	ARFGEF3	522232	ARFGEF family member 3%2C transcript variant X1
+9	102680001	102730000	293.91238	SMOC2	615490	SPARC related modular calcium binding 2
+9	102700001	102750000	397.379004	SMOC2	615490	SPARC related modular calcium binding 2
+9	102720001	102770000	397.379004	SMOC2	615490	SPARC related modular calcium binding 2
+9	102800001	102850000	325.090187	SMOC2	615490	SPARC related modular calcium binding 2
+9	103460001	103510000	684.498121	C9H6orf120|PHF10|WDR27	100125289|507648|788957	chromosome 9 C6orf120 homolog|PHD finger protein 10|WD repeat domain 27%2C transcript variant X9
+9	103480001	103530000	813.291793	C9H6orf120|PHF10|WDR27|TCTE3	100125289|507648|788957|789619	chromosome 9 C6orf120 homolog|PHD finger protein 10|WD repeat domain 27%2C transcript variant X9|t-complex-associated-testis-expressed 3
+9	103500001	103550000	813.291793	LOC104969678|PHF10|ERMARD|TCTE3	104969678|507648|512804|789619	endogenous retrovirus group K member 7 Env polyprotein-like|PHD finger protein 10|ER membrane associated RNA degradation%2C transcript variant X7|t-complex-associated-testis-expressed 3
+9	103520001	103570000	813.291793	LOC104969678|ERMARD|TCTE3	104969678|512804|789619	endogenous retrovirus group K member 7 Env polyprotein-like|ER membrane associated RNA degradation%2C transcript variant X7|t-complex-associated-testis-expressed 3
+10	11880001	11930000	244.13848900000002	ANKDD1A|SPG21	112448539|404069	ankyrin repeat and death domain containing 1A|SPG21%2C maspardin%2C transcript variant X3
+10	11900001	11950000	244.13848900000002	SPG21|MTFMT	404069|286855	SPG21%2C maspardin%2C transcript variant X3|mitochondrial methionyl-tRNA formyltransferase
+10	13460001	13510000	384.858108	LOC112441475	112441475	uncharacterized LOC112441475%2C transcript variant X4
+10	13480001	13530000	415.11078100000003	LOC112441475	112441475	uncharacterized LOC112441475%2C transcript variant X4
+10	13500001	13550000	415.11078100000003	SMAD6	511279	SMAD family member 6
+10	13520001	13570000	407.436511	SMAD6	511279	SMAD family member 6
+10	43480001	43530000	315.31147599999997	SAV1|ATL1	516557|535424	salvador family WW domain containing protein 1|atlastin GTPase 1
+10	43500001	43550000	315.31147599999997	SAV1|ATL1	516557|535424	salvador family WW domain containing protein 1|atlastin GTPase 1
+10	43520001	43570000	315.31147599999997	SAV1|ATL1	516557|535424	salvador family WW domain containing protein 1|atlastin GTPase 1
+10	43540001	43590000	351.29244700000004	SAV1	516557	salvador family WW domain containing protein 1
+10	43560001	43610000	351.29244700000004	NIN	510366	ninein%2C transcript variant X7
+10	43660001	43710000	533.465709	NIN	510366	ninein%2C transcript variant X7
+10	43680001	43730000	533.465709	NIN	510366	ninein%2C transcript variant X7
+10	43700001	43750000	533.465709	ABHD12B|NIN|PYGL	100138482|510366|505472	abhydrolase domain containing 12B%2C transcript variant X3|ninein%2C transcript variant X7|glycogen phosphorylase L
+10	43760001	43810000	236.373113	LOC107132849|PYGL	107132849|505472	protein SPT2 homolog%2C transcript variant X1|glycogen phosphorylase L
+10	43780001	43830000	236.373113	LOC107132849|PYGL|TRIM9	107132849|505472|767615	protein SPT2 homolog%2C transcript variant X1|glycogen phosphorylase L|tripartite motif containing 9%2C transcript variant X5
+10	67740001	67790000	284.894927	FBXO34	539922	F-box protein 34
+10	67760001	67810000	385.74147999999997	FBXO34	539922	F-box protein 34
+10	67780001	67830000	417.378871	FBXO34	539922	F-box protein 34
+10	67800001	67850000	417.378871	ATG14|FBXO34	538831|539922	autophagy related 14|F-box protein 34
+11	9960001	10010000	462.093888	SEMA4F|M1AP	530018|541185	ssemaphorin 4F%2C transcript variant X2|meiosis 1 associated protein%2C transcript variant X2
+11	9980001	10030000	462.093888	SEMA4F|M1AP	530018|541185	ssemaphorin 4F%2C transcript variant X2|meiosis 1 associated protein%2C transcript variant X2
+11	10000001	10050000	469.366938	M1AP	541185	meiosis 1 associated protein%2C transcript variant X2
+11	10020001	10070000	477.56265	M1AP	541185	meiosis 1 associated protein%2C transcript variant X2
+11	10040001	10090000	477.56265	LOC107132904|DOK1|M1AP|LOXL3	107132904|514962|541185|613599	histone H2B type 1-H-like|docking protein 1|meiosis 1 associated protein%2C transcript variant X2|lysyl oxidase like 3%2C transcript variant X3
+11	10060001	10110000	477.56265	LOC107132904|DOK1|M1AP|HTRA2|LOXL3	107132904|514962|541185|523039|613599	histone H2B type 1-H-like|docking protein 1|meiosis 1 associated protein%2C transcript variant X2|HtrA serine peptidase 2|lysyl oxidase like 3%2C transcript variant X3
+11	10080001	10130000	558.1564490000001	DOK1|AUP1|DQX1|TLX2|M1AP|HTRA2|LOXL3	514962|509130|517947|539041|541185|523039|613599	docking protein 1|AUP1%2C lipid droplet regulating VLDL assembly factor|DEAQ-box RNA dependent ATPase 1|T cell leukemia homeobox 2|meiosis 1 associated protein%2C transcript variant X2|HtrA serine peptidase 2|lysyl oxidase like 3%2C transcript variant X3
+11	10100001	10150000	560.6154339999999	AUP1|DQX1|TLX2|PCGF1|LBX2|TTC31|HTRA2|LOXL3	509130|517947|539041|539040|538906|789027|523039|613599	AUP1%2C lipid droplet regulating VLDL assembly factor|DEAQ-box RNA dependent ATPase 1|T cell leukemia homeobox 2|polycomb group ring finger 1|ladybird homeobox 2|tetratricopeptide repeat domain 31|HtrA serine peptidase 2|lysyl oxidase like 3%2C transcript variant X3
+11	10120001	10170000	560.6154339999999	DQX1|TLX2|PCGF1|LBX2|TTC31|MRPL53|MOGS|WBP1|CCDC142	517947|539041|539040|538906|789027|505728|516155|509188|538907	DEAQ-box RNA dependent ATPase 1|T cell leukemia homeobox 2|polycomb group ring finger 1|ladybird homeobox 2|tetratricopeptide repeat domain 31|mitochondrial ribosomal protein L53|mannosyl-oligosaccharide glucosidase|WW domain binding protein 1|coiled-coil domain containing 142%2C transcript variant X2
+11	10140001	10190000	291.622068	LBX2|TTC31|MRPL53|MOGS|WBP1|INO80B|CCDC142|RTKN	538906|789027|505728|516155|509188|509187|538907|539691	ladybird homeobox 2|tetratricopeptide repeat domain 31|mitochondrial ribosomal protein L53|mannosyl-oligosaccharide glucosidase|WW domain binding protein 1|INO80 complex subunit B|coiled-coil domain containing 142%2C transcript variant X2|rhotekin%2C transcript variant X2
+11	10160001	10210000	291.622068	MRPL53|MOGS|WBP1|INO80B|WDR54|RTKN|C11H2orf81	505728|516155|509188|509187|511447|539691|789060	mitochondrial ribosomal protein L53|mannosyl-oligosaccharide glucosidase|WW domain binding protein 1|INO80 complex subunit B|WD repeat domain 54|rhotekin%2C transcript variant X2|chromosome 11 C2orf81 homolog
+11	10180001	10230000	291.622068	WDR54|MGC152281|RTKN|C11H2orf81	511447|507942|539691|789060	WD repeat domain 54|uncharacterized LOC507942|rhotekin%2C transcript variant X2|chromosome 11 C2orf81 homolog
+11	13860001	13910000	250.080096	TGFA	540388	transforming growth factor alpha%2C transcript variant X1
+11	13880001	13930000	364.597689	TGFA	540388	transforming growth factor alpha%2C transcript variant X1
+11	13900001	13950000	364.597689	TGFA	540388	transforming growth factor alpha%2C transcript variant X1
+11	13920001	13970000	396.556046	TGFA	540388	transforming growth factor alpha%2C transcript variant X1
+11	13940001	13990000	396.556046	TGFA	540388	transforming growth factor alpha%2C transcript variant X1
+11	20900001	20950000	422.62382699999995	HNRNPLL	534315	heterogeneous nuclear ribonucleoprotein L like
+11	20920001	20970000	422.62382699999995	HNRNPLL	534315	heterogeneous nuclear ribonucleoprotein L like
+11	20940001	20990000	318.483365	HNRNPLL	534315	heterogeneous nuclear ribonucleoprotein L like
+11	21280001	21330000	256.127144	ARHGEF33|SOS1	100335703|537682	Rho guanine nucleotide exchange factor 33%2C transcript variant X2|SOS Ras/Rac guanine nucleotide exchange factor 1%2C transcript variant X1
+11	21300001	21350000	279.295598	SOS1	537682	SOS Ras/Rac guanine nucleotide exchange factor 1%2C transcript variant X1
+11	21320001	21370000	279.295598	SOS1	537682	SOS Ras/Rac guanine nucleotide exchange factor 1%2C transcript variant X1
+11	25460001	25510000	421.78093099999995	ZFP36L2	767898	ZFP36 ring finger protein like 2
+11	25480001	25530000	421.78093099999995	ZFP36L2|THADA	767898|514187	ZFP36 ring finger protein like 2|THADA%2C armadillo repeat containing%2C transcript variant X9
+11	25580001	25630000	537.83158	THADA	514187	THADA%2C armadillo repeat containing%2C transcript variant X9
+11	25600001	25650000	877.5258130000001	THADA	514187	THADA%2C armadillo repeat containing%2C transcript variant X9
+11	25620001	25670000	1050.0782960000001	THADA	514187	THADA%2C armadillo repeat containing%2C transcript variant X9
+11	25640001	25690000	1198.320081	THADA	514187	THADA%2C armadillo repeat containing%2C transcript variant X9
+11	25660001	25710000	1293.230321	THADA	514187	THADA%2C armadillo repeat containing%2C transcript variant X9
+11	25680001	25730000	1463.764107	THADA	514187	THADA%2C armadillo repeat containing%2C transcript variant X9
+11	25700001	25750000	1617.139715	THADA	514187	THADA%2C armadillo repeat containing%2C transcript variant X9
+11	25720001	25770000	1617.139715	THADA	514187	THADA%2C armadillo repeat containing%2C transcript variant X9
+11	25740001	25790000	1617.139715	THADA	514187	THADA%2C armadillo repeat containing%2C transcript variant X9
+11	25760001	25810000	1526.3951769999999	THADA	514187	THADA%2C armadillo repeat containing%2C transcript variant X9
+11	25780001	25830000	1473.924654	THADA	514187	THADA%2C armadillo repeat containing%2C transcript variant X9
+11	25800001	25850000	1362.5489519999999	THADA	514187	THADA%2C armadillo repeat containing%2C transcript variant X9
+11	25820001	25870000	1198.153904	THADA	514187	THADA%2C armadillo repeat containing%2C transcript variant X9
+11	25840001	25890000	832.587641	THADA|PLEKHH2	514187|100299044	THADA%2C armadillo repeat containing%2C transcript variant X9|pleckstrin homology%2C MyTH4 and FERM domain containing H2%2C transcript variant X2
+11	25860001	25910000	574.0764740000001	PLEKHH2	100299044	pleckstrin homology%2C MyTH4 and FERM domain containing H2%2C transcript variant X2
+11	69900001	69950000	292.768616	ALK	536642	ALK receptor tyrosine kinase
+11	69920001	69970000	451.29086399999994	ALK	536642	ALK receptor tyrosine kinase
+11	69940001	69990000	451.29086399999994	ALK	536642	ALK receptor tyrosine kinase
+11	69960001	70010000	485.876999	ALK	536642	ALK receptor tyrosine kinase
+11	69980001	70030000	485.876999	ALK	536642	ALK receptor tyrosine kinase
+11	70000001	70050000	447.192095	ALK	536642	ALK receptor tyrosine kinase
+11	70020001	70070000	329.63516400000003	ALK	536642	ALK receptor tyrosine kinase
+11	70040001	70090000	329.63516400000003	ALK	536642	ALK receptor tyrosine kinase
+11	71340001	71390000	265.32459700000004	FOSL2	509889	FOS like 2%2C AP-1 transcription factor subunit
+11	71360001	71410000	265.32459700000004	FOSL2	509889	FOS like 2%2C AP-1 transcription factor subunit
+11	71380001	71430000	265.32459700000004	BABAM2	614152	BRISC and BRCA1 A complex member 2%2C transcript variant X4
+11	71560001	71610000	230.231921	BABAM2	614152	BRISC and BRCA1 A complex member 2%2C transcript variant X4
+11	71580001	71630000	396.313631	BABAM2	614152	BRISC and BRCA1 A complex member 2%2C transcript variant X4
+11	71600001	71650000	396.313631	BABAM2	614152	BRISC and BRCA1 A complex member 2%2C transcript variant X4
+11	71620001	71670000	491.91844100000003	BABAM2	614152	BRISC and BRCA1 A complex member 2%2C transcript variant X4
+11	71640001	71690000	491.91844100000003	BABAM2	614152	BRISC and BRCA1 A complex member 2%2C transcript variant X4
+11	71660001	71710000	491.91844100000003	BABAM2	614152	BRISC and BRCA1 A complex member 2%2C transcript variant X4
+11	71680001	71730000	421.40255599999995	BABAM2	614152	BRISC and BRCA1 A complex member 2%2C transcript variant X4
+11	71700001	71750000	287.341234	BABAM2	614152	BRISC and BRCA1 A complex member 2%2C transcript variant X4
+11	74620001	74670000	385.356945	NCOA1	525346	nuclear receptor coactivator 1%2C transcript variant X7
+11	74640001	74690000	385.356945	NCOA1	525346	nuclear receptor coactivator 1%2C transcript variant X7
+11	74660001	74710000	385.356945	NCOA1	525346	nuclear receptor coactivator 1%2C transcript variant X7
+11	74760001	74810000	231.103891	ITSN2	521706	intersectin 2%2C transcript variant X4
+11	74780001	74830000	519.879738	ITSN2	521706	intersectin 2%2C transcript variant X4
+11	74800001	74850000	559.643998	ITSN2	521706	intersectin 2%2C transcript variant X4
+11	74820001	74870000	581.48615	ITSN2	521706	intersectin 2%2C transcript variant X4
+11	74840001	74890000	581.48615	ITSN2	521706	intersectin 2%2C transcript variant X4
+11	74860001	74910000	581.48615	ITSN2	521706	intersectin 2%2C transcript variant X4
+11	74880001	74930000	527.6126929999999	ITSN2	521706	intersectin 2%2C transcript variant X4
+11	74900001	74950000	507.94691500000005	FAM228A|ITSN2|FAM228B	768001|521706|100125925	family with sequence similarity 228 member A|intersectin 2%2C transcript variant X4|family with sequence similarity 228 member B
+11	74920001	74970000	430.393948	FAM228A|ITSN2|FAM228B	768001|521706|100125925	family with sequence similarity 228 member A|intersectin 2%2C transcript variant X4|family with sequence similarity 228 member B
+11	74940001	74990000	224.078075	PFN4|FAM228A|TP53I3|FAM228B	508874|768001|508875|100125925	profilin family member 4|family with sequence similarity 228 member A|tumor protein p53 inducible protein 3|family with sequence similarity 228 member B
+11	96560001	96610000	281.08442	PBX3	539222	PBX homeobox 3%2C transcript variant X4
+11	96580001	96630000	384.135344	PBX3	539222	PBX homeobox 3%2C transcript variant X4
+11	96600001	96650000	384.135344	PBX3	539222	PBX homeobox 3%2C transcript variant X4
+11	96620001	96670000	384.135344	PBX3	539222	PBX homeobox 3%2C transcript variant X4
+11	96640001	96690000	283.602192	PBX3	539222	PBX homeobox 3%2C transcript variant X4
+12	15140001	15190000	251.435542	NUFIP1|GPALPP1	509599|532698	NUFIP1%2C FMR1 interacting protein 1|GPALPP motifs containing 1%2C transcript variant X4
+12	15160001	15210000	251.435542	GPALPP1	532698	GPALPP motifs containing 1%2C transcript variant X4
+12	31420001	31470000	271.698734	SLC46A3	781117	solute carrier family 46 member 3
+12	31440001	31490000	271.698734	POMP|SLC46A3	510314|781117	proteasome maturation protein|solute carrier family 46 member 3
+12	31460001	31510000	271.698734	POMP	510314	proteasome maturation protein
+12	51960001	52010000	472.79249000000004	KCTD12	616416	potassium channel tetramerization domain containing 12
+12	51980001	52030000	525.247434	KCTD12	616416	potassium channel tetramerization domain containing 12
+12	52000001	52050000	525.247434	KCTD12	616416	potassium channel tetramerization domain containing 12
+12	52020001	52070000	374.103698	ACOD1	107131195	aconitate decarboxylase 1%2C transcript variant X1
+12	52040001	52090000	270.63771299999996	ACOD1	107131195	aconitate decarboxylase 1%2C transcript variant X1
+12	52120001	52170000	762.05261	FBXL3|MYCBP2	540712|534496	F-box and leucine rich repeat protein 3|MYC binding protein 2%2C E3 ubiquitin protein ligase
+12	52140001	52190000	762.05261	MYCBP2	534496	MYC binding protein 2%2C E3 ubiquitin protein ligase
+12	52160001	52210000	762.05261	MYCBP2	534496	MYC binding protein 2%2C E3 ubiquitin protein ligase
+12	52180001	52230000	244.83784599999998	MYCBP2	534496	MYC binding protein 2%2C E3 ubiquitin protein ligase
+12	52200001	52250000	244.83784599999998	MYCBP2	534496	MYC binding protein 2%2C E3 ubiquitin protein ligase
+12	66000001	66050000	240.91034399999998	GPC5	522828	glypican 5%2C transcript variant X3
+12	66020001	66070000	240.91034399999998	GPC5	522828	glypican 5%2C transcript variant X3
+12	66040001	66090000	240.91034399999998	GPC5	522828	glypican 5%2C transcript variant X3
+12	66320001	66370000	441.63382199999995	GPC5	522828	glypican 5%2C transcript variant X3
+12	66340001	66390000	491.873594	GPC5	522828	glypican 5%2C transcript variant X3
+12	66360001	66410000	657.009682	GPC5	522828	glypican 5%2C transcript variant X3
+12	66380001	66430000	657.009682	GPC5	522828	glypican 5%2C transcript variant X3
+12	66400001	66450000	657.009682	GPC5	522828	glypican 5%2C transcript variant X3
+12	66420001	66470000	271.159184	GPC5	522828	glypican 5%2C transcript variant X3
+12	66440001	66490000	271.159184	GPC5	522828	glypican 5%2C transcript variant X3
+12	67180001	67230000	640.524679	GPC5	522828	glypican 5%2C transcript variant X3
+12	67200001	67250000	640.524679	GPC5	522828	glypican 5%2C transcript variant X3
+12	67220001	67270000	374.641127	GPC5	522828	glypican 5%2C transcript variant X3
+12	67240001	67290000	374.641127	GPC5	522828	glypican 5%2C transcript variant X3
+12	68980001	69030000	380.24143599999996	DCT	280761	dopachrome tautomerase
+12	69000001	69050000	641.545773	LOC107131398|DCT	107131398|280761	heat shock protein HSP 90-alpha A2|dopachrome tautomerase
+12	69020001	69070000	651.782552	LOC107131398	107131398	heat shock protein HSP 90-alpha A2
+12	69040001	69090000	651.782552	TGDS	534594	TDP-glucose 4%2C6-dehydratase
+12	84060001	84110000	254.581537	MYO16	617611	myosin XVI
+12	84080001	84130000	254.581537	MYO16	617611	myosin XVI
+12	84100001	84150000	254.581537	MYO16	617611	myosin XVI
+13	7920001	7970000	277.465156	MACROD2	100125389	MACRO domain containing 2
+13	7940001	7990000	344.817018	MACROD2	100125389	MACRO domain containing 2
+13	7960001	8010000	344.817018	MACROD2	100125389	MACRO domain containing 2
+13	7980001	8030000	344.817018	MACROD2	100125389	MACRO domain containing 2
+13	8000001	8050000	246.93084	MACROD2	100125389	MACRO domain containing 2
+13	36000001	36050000	346.68746600000003	BAMBI	530147	BMP and activin membrane bound inhibitor
+13	36020001	36070000	417.921306	BAMBI|WAC	530147|532597	BMP and activin membrane bound inhibitor|WW domain containing adaptor with coiled-coil%2C transcript variant X5
+13	36040001	36090000	440.931675	WAC	532597	WW domain containing adaptor with coiled-coil%2C transcript variant X5
+13	36060001	36110000	440.931675	WAC	532597	WW domain containing adaptor with coiled-coil%2C transcript variant X5
+13	36080001	36130000	440.931675	WAC	532597	WW domain containing adaptor with coiled-coil%2C transcript variant X5
+13	36100001	36150000	356.752192	WAC	532597	WW domain containing adaptor with coiled-coil%2C transcript variant X5
+13	36120001	36170000	330.905036	WAC	532597	WW domain containing adaptor with coiled-coil%2C transcript variant X5
+13	36140001	36190000	330.905036	WAC	532597	WW domain containing adaptor with coiled-coil%2C transcript variant X5
+13	56620001	56670000	236.833394	SYCP2	784000	synaptonemal complex protein 2%2C transcript variant X5
+13	56640001	56690000	262.008666	SYCP2	784000	synaptonemal complex protein 2%2C transcript variant X5
+13	56660001	56710000	262.008666	PHACTR3|SYCP2	515071|784000	phosphatase and actin regulator 3|synaptonemal complex protein 2%2C transcript variant X5
+13	64080001	64130000	358.364847	NCOA6	508899	nuclear receptor coactivator 6%2C transcript variant X9
+13	64100001	64150000	358.364847	NCOA6	508899	nuclear receptor coactivator 6%2C transcript variant X9
+13	64120001	64170000	352.210192	GGT7|NCOA6	615929|508899	gamma-glutamyltransferase 7%2C transcript variant X4|nuclear receptor coactivator 6%2C transcript variant X9
+13	64140001	64190000	352.210192	GGT7|NCOA6|ACSS2	615929|508899|506459	gamma-glutamyltransferase 7%2C transcript variant X4|nuclear receptor coactivator 6%2C transcript variant X9|acyl-CoA synthetase short chain family member 2
+13	64180001	64230000	381.733612	GGT7|ACSS2	615929|506459	gamma-glutamyltransferase 7%2C transcript variant X4|acyl-CoA synthetase short chain family member 2
+13	64200001	64250000	381.733612	GSS|ACSS2	525059|506459	glutathione synthetase|acyl-CoA synthetase short chain family member 2
+13	64220001	64270000	263.476561	GSS|ACSS2	525059|506459	glutathione synthetase|acyl-CoA synthetase short chain family member 2
+13	64260001	64310000	320.614052	MYH7B|TRPC4AP	521764|532834	myosin heavy chain 7B|transient receptor potential cation channel subfamily C member 4 associated protein
+13	64280001	64330000	320.614052	MYH7B|TRPC4AP	521764|532834	myosin heavy chain 7B|transient receptor potential cation channel subfamily C member 4 associated protein
+13	64860001	64910000	518.8860490000001	ROMO1|NFS1|RBM39|CPNE1|RBM12	618530|517656|508722|615677|100138139	reactive oxygen species modulator 1|NFS1%2C cysteine desulfurase|RNA binding motif protein 39%2C transcript variant X6|copine 1|RNA binding motif protein 12
+13	64880001	64930000	631.785291	ROMO1|NFS1|RBM39|CPNE1|RBM12	618530|517656|508722|615677|100138139	reactive oxygen species modulator 1|NFS1%2C cysteine desulfurase|RNA binding motif protein 39%2C transcript variant X6|copine 1|RNA binding motif protein 12
+13	64900001	64950000	813.4758889999999	ROMO1|NFS1|RBM39	618530|517656|508722	reactive oxygen species modulator 1|NFS1%2C cysteine desulfurase|RNA binding motif protein 39%2C transcript variant X6
+13	64920001	64970000	1124.921951	RBM39|PHF20	508722|529591	RNA binding motif protein 39%2C transcript variant X6|PHD finger protein 20%2C transcript variant X6
+13	64940001	64990000	1124.921951	PHF20	529591	PHD finger protein 20%2C transcript variant X6
+13	64960001	65010000	1002.959751	PHF20	529591	PHD finger protein 20%2C transcript variant X6
+13	64980001	65030000	1002.959751	PHF20	529591	PHD finger protein 20%2C transcript variant X6
+13	65000001	65050000	1002.959751	PHF20	529591	PHD finger protein 20%2C transcript variant X6
+13	65540001	65590000	1470.024703	DLGAP4	520521	DLG associated protein 4
+13	65560001	65610000	1655.401131	DLGAP4	520521	DLG associated protein 4
+13	65580001	65630000	1655.401131	DLGAP4	520521	DLG associated protein 4
+13	65600001	65650000	1655.401131	MYL9|DLGAP4	505964|520521	myosin light chain 9|DLG associated protein 4
+13	65620001	65670000	1789.19398	MYL9|DLGAP4	505964|520521	myosin light chain 9|DLG associated protein 4
+13	65640001	65690000	1789.19398	MYL9|TGIF2	505964|535632	myosin light chain 9|TGFB induced factor homeobox 2
+13	65660001	65710000	1789.19398	RAB5IF|TGIF2	512377|535632	RAB5 interacting factor|TGFB induced factor homeobox 2
+13	65680001	65730000	1697.301964	RAB5IF|TGIF2|SLA2	512377|535632|514398	RAB5 interacting factor|TGFB induced factor homeobox 2|Src like adaptor 2
+13	65700001	65750000	1570.3745470000001	RAB5IF|SLA2|NDRG3	512377|514398|514399	RAB5 interacting factor|Src like adaptor 2|NDRG family member 3%2C transcript variant X1
+13	65720001	65770000	1570.3745470000001	SLA2|NDRG3	514398|514399	Src like adaptor 2|NDRG family member 3%2C transcript variant X1
+13	65740001	65790000	1570.3745470000001	NDRG3	514399	NDRG family member 3%2C transcript variant X1
+13	65760001	65810000	1514.647107	NDRG3	514399	NDRG family member 3%2C transcript variant X1
+13	65780001	65830000	1015.338649	DSN1|NDRG3	508271|514399	DSN1 homolog%2C MIS12 kinetochore complex component|NDRG family member 3%2C transcript variant X1
+13	65800001	65850000	1015.338649	DSN1|SOGA1|NDRG3	508271|508997|514399	DSN1 homolog%2C MIS12 kinetochore complex component|suppressor of glucose%2C autophagy associated 1|NDRG family member 3%2C transcript variant X1
+13	65860001	65910000	1324.979182	SOGA1	508997	suppressor of glucose%2C autophagy associated 1
+13	65880001	65930000	1324.979182	TLDC2|SOGA1|SAMHD1	512927|508997|524683	TBC/LysM-associated domain containing 2|suppressor of glucose%2C autophagy associated 1|SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1%2C transcript variant X3
+13	65980001	66030000	1787.5826579999998	SAMHD1|RBL1	524683|524870	SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1%2C transcript variant X3|RB transcriptional corepressor like 1
+13	66000001	66050000	1787.5826579999998	RBL1	524870	RB transcriptional corepressor like 1
+13	66020001	66070000	1471.5054599999999	RBL1	524870	RB transcriptional corepressor like 1
+13	66040001	66090000	1471.5054599999999	MROH8|RBL1	788470|524870	maestro heat like repeat family member 8|RB transcriptional corepressor like 1
+13	66060001	66110000	1169.716328	MROH8|RBL1	788470|524870	maestro heat like repeat family member 8|RB transcriptional corepressor like 1
+13	66080001	66130000	1038.433919	MROH8	788470	maestro heat like repeat family member 8
+13	66220001	66270000	319.600177	MANBAL	787482	mannosidase beta like%2C transcript variant X11
+13	66240001	66290000	657.001916	MANBAL	787482	mannosidase beta like%2C transcript variant X11
+13	66260001	66310000	865.459825	MANBAL|SRC	787482|535742	mannosidase beta like%2C transcript variant X11|SRC proto-oncogene%2C non-receptor tyrosine kinase
+13	66280001	66330000	969.18568	SRC	535742	SRC proto-oncogene%2C non-receptor tyrosine kinase
+13	66300001	66350000	969.18568	SRC	535742	SRC proto-oncogene%2C non-receptor tyrosine kinase
+13	66320001	66370000	969.18568	SRC	535742	SRC proto-oncogene%2C non-receptor tyrosine kinase
+13	66340001	66390000	792.260267	SRC	535742	SRC proto-oncogene%2C non-receptor tyrosine kinase
+13	66720001	66770000	317.053245	CTNNBL1	282421	catenin beta like 1
+13	66740001	66790000	342.257482	CTNNBL1	282421	catenin beta like 1
+13	66760001	66810000	342.257482	VSTM2L|CTNNBL1	527903|282421	V-set and transmembrane domain containing 2 like|catenin beta like 1
+13	66780001	66830000	288.966899	VSTM2L	527903	V-set and transmembrane domain containing 2 like
+13	72100001	72150000	278.15777	SRSF6|L3MBTL1	507828|529298	serine and arginine rich splicing factor 6|L3MBTL1%2C histone methyl-lysine binding protein
+13	72120001	72170000	298.896154	L3MBTL1|SGK2	529298|517909	L3MBTL1%2C histone methyl-lysine binding protein|SGK2%2C serine/threonine kinase 2%2C transcript variant X3
+13	72140001	72190000	298.896154	L3MBTL1|SGK2|IFT52	529298|517909|513908	L3MBTL1%2C histone methyl-lysine binding protein|SGK2%2C serine/threonine kinase 2%2C transcript variant X3|intraflagellar transport 52%2C transcript variant X6
+14	420001	470000	388.157484	LRRC24|RECQL4|MFSD3|GPT|FOXH1|LRRC14|PPP1R16A	512879|515472|508702|539188|493733|539952|508701	leucine rich repeat containing 24%2C transcript variant X1|RecQ like helicase 4%2C transcript variant X1|major facilitator superfamily domain containing 3|glutamic--pyruvic transaminase|forkhead box H1|leucine rich repeat containing 14|protein phosphatase 1 regulatory subunit 16A
+14	440001	490000	388.157484	GPT|FOXH1|PPP1R16A|KIFC2|CYHR1	539188|493733|508701|789523|282612	glutamic--pyruvic transaminase|forkhead box H1|protein phosphatase 1 regulatory subunit 16A|kinesin family member C2|cysteine and histidine rich 1%2C transcript variant X1
+14	460001	510000	388.157484	FOXH1|TONSL|VPS28|PPP1R16A|KIFC2|CYHR1	493733|505102|618785|508701|789523|282612	forkhead box H1|tonsoku like%2C DNA repair protein|VPS28%2C ESCRT-I subunit%2C transcript variant X5|protein phosphatase 1 regulatory subunit 16A|kinesin family member C2|cysteine and histidine rich 1%2C transcript variant X1
+14	480001	530000	234.73680299999998	TONSL|VPS28|CYHR1	505102|618785|282612	tonsoku like%2C DNA repair protein|VPS28%2C ESCRT-I subunit%2C transcript variant X5|cysteine and histidine rich 1%2C transcript variant X1
+14	500001	550000	326.055302	TONSL|VPS28|SLC39A4|CPSF1	505102|618785|510951|282703	tonsoku like%2C DNA repair protein|VPS28%2C ESCRT-I subunit%2C transcript variant X5|solute carrier family 39 member 4|cleavage and polyadenylation specific factor 1
+14	520001	570000	326.055302	SLC39A4|CPSF1|ADCK5	510951|282703|522614	solute carrier family 39 member 4|cleavage and polyadenylation specific factor 1|aarF domain containing kinase 5%2C transcript variant X2
+14	600001	650000	723.422006	SCX|DGAT1|HSF1|BOP1	615157|282609|506235|515056	scleraxis bHLH transcription factor%2C transcript variant X2|diacylglycerol O-acyltransferase 1|heat shock transcription factor 1%2C transcript variant X4|block of proliferation 1%2C transcript variant X2
+14	620001	670000	723.422006	SCX|HSF1|BOP1|MROH1	615157|506235|515056|515055	scleraxis bHLH transcription factor%2C transcript variant X2|heat shock transcription factor 1%2C transcript variant X4|block of proliferation 1%2C transcript variant X2|maestro heat like repeat family member 1%2C transcript variant X21
+14	640001	690000	723.422006	SCX|BOP1|MROH1	615157|515056|515055	scleraxis bHLH transcription factor%2C transcript variant X2|block of proliferation 1%2C transcript variant X2|maestro heat like repeat family member 1%2C transcript variant X21
+14	16500001	16550000	309.473792	ZHX1	782847	zinc fingers and homeoboxes 1
+14	16520001	16570000	309.473792	ZHX1|C14H8orf76	782847|539014	zinc fingers and homeoboxes 1|chromosome 14 C8orf76 homolog
+14	16540001	16590000	309.473792	ZHX1|C14H8orf76|FAM83A	782847|539014|521399	zinc fingers and homeoboxes 1|chromosome 14 C8orf76 homolog|family with sequence similarity 83 member A
+14	16680001	16730000	246.604942	DERL1|TBC1D31	404121|511062	derlin 1%2C transcript variant X2|TBC1 domain family member 31
+14	16700001	16750000	246.604942	DERL1	404121	derlin 1%2C transcript variant X2
+14	18180001	18230000	258.901721	LOC515601	515601	hyaluronan synthase 2-like
+14	21820001	21870000	813.6492860000001	ATP6V1H	282657	ATPase H+ transporting V1 subunit H
+14	21840001	21890000	633.654036	ATP6V1H	282657	ATPase H+ transporting V1 subunit H
+14	21860001	21910000	645.587372	ATP6V1H	282657	ATPase H+ transporting V1 subunit H
+14	21880001	21930000	690.992008	RGS20|ATP6V1H	614441|282657	regulator of G protein signaling 20%2C transcript variant X4|ATPase H+ transporting V1 subunit H
+14	21900001	21950000	690.992008	RGS20|ATP6V1H	614441|282657	regulator of G protein signaling 20%2C transcript variant X4|ATPase H+ transporting V1 subunit H
+14	21920001	21970000	601.159173	RGS20|TCEA1|ATP6V1H	614441|505722|282657	regulator of G protein signaling 20%2C transcript variant X4|transcription elongation factor A1%2C transcript variant X2|ATPase H+ transporting V1 subunit H
+14	21940001	21990000	601.159173	RGS20|TCEA1	614441|505722	regulator of G protein signaling 20%2C transcript variant X4|transcription elongation factor A1%2C transcript variant X2
+14	21960001	22010000	381.26779700000003	TCEA1|LYPLA1	505722|539992	transcription elongation factor A1%2C transcript variant X2|lysophospholipase I
+14	21980001	22030000	381.26779700000003	TCEA1|LYPLA1|MRPL15	505722|539992|510347	transcription elongation factor A1%2C transcript variant X2|lysophospholipase I|mitochondrial ribosomal protein L15
+14	22000001	22050000	272.594313	LYPLA1|MRPL15	539992|510347	lysophospholipase I|mitochondrial ribosomal protein L15
+14	39880001	39930000	239.60878300000002	ZFHX4	539762	zinc finger homeobox 4
+14	39900001	39950000	344.292885	ZFHX4	539762	zinc finger homeobox 4
+14	39920001	39970000	427.447414	ZFHX4	539762	zinc finger homeobox 4
+14	39940001	39990000	524.229571	ZFHX4	539762	zinc finger homeobox 4
+14	39960001	40010000	575.388521	ZFHX4	539762	zinc finger homeobox 4
+14	39980001	40030000	623.045895	ZFHX4	539762	zinc finger homeobox 4
+14	40000001	40050000	623.045895	ZFHX4	539762	zinc finger homeobox 4
+14	40020001	40070000	616.898451	ZFHX4	539762	zinc finger homeobox 4
+14	40040001	40090000	589.817911	ZFHX4	539762	zinc finger homeobox 4
+14	48900001	48950000	302.42373100000003	TRPS1	537652	transcriptional repressor GATA binding 1
+14	54880001	54930000	284.718385	PKHD1L1	100336824	PKHD1 like 1
+14	54900001	54950000	284.718385	PKHD1L1	100336824	PKHD1 like 1
+14	54920001	54970000	284.718385	PKHD1L1	100336824	PKHD1 like 1
+14	56200001	56250000	478.671149	EIF3E	534165	eukaryotic translation initiation factor 3 subunit E
+14	56220001	56270000	480.78543899999994	EIF3E	534165	eukaryotic translation initiation factor 3 subunit E
+14	56240001	56290000	480.78543899999994	EIF3E	534165	eukaryotic translation initiation factor 3 subunit E
+14	56260001	56310000	480.78543899999994	EIF3E	534165	eukaryotic translation initiation factor 3 subunit E
+14	56280001	56330000	290.478586	EIF3E	534165	eukaryotic translation initiation factor 3 subunit E
+14	57000001	57050000	747.5530160000001	ANGPT1	282140	angiopoietin 1
+14	57020001	57070000	1165.143624	ANGPT1	282140	angiopoietin 1
+14	57040001	57090000	1165.143624	ANGPT1	282140	angiopoietin 1
+14	57060001	57110000	1165.143624	ANGPT1	282140	angiopoietin 1
+14	57080001	57130000	1032.457026	ANGPT1	282140	angiopoietin 1
+14	57100001	57150000	949.1788710000001	ANGPT1	282140	angiopoietin 1
+14	57120001	57170000	676.209574	ANGPT1	282140	angiopoietin 1
+14	57140001	57190000	355.33977200000004	ANGPT1	282140	angiopoietin 1
+14	60640001	60690000	266.477891	RIMS2	535674	regulating synaptic membrane exocytosis 2%2C transcript variant X20
+14	60660001	60710000	266.477891	RIMS2	535674	regulating synaptic membrane exocytosis 2%2C transcript variant X20
+14	60680001	60730000	249.700791	RIMS2	535674	regulating synaptic membrane exocytosis 2%2C transcript variant X20
+14	60700001	60750000	241.646167	RIMS2	535674	regulating synaptic membrane exocytosis 2%2C transcript variant X20
+14	67860001	67910000	1390.875104	PTDSS1	509819	phosphatidylserine synthase 1
+14	67880001	67930000	1390.875104	PTDSS1	509819	phosphatidylserine synthase 1
+14	67900001	67950000	908.114847	PTDSS1	509819	phosphatidylserine synthase 1
+14	67920001	67970000	908.114847	MTERF3|PTDSS1	526138|509819	mitochondrial transcription termination factor 3|phosphatidylserine synthase 1
+14	68040001	68090000	256.16116800000003	GDF6	407175	growth differentiation factor 6
+14	68060001	68110000	349.139019	GDF6	407175	growth differentiation factor 6
+15	400001	450000	379.577548	LOC781447	781447	olfactory receptor 4A15-like
+15	420001	470000	379.577548	LOC781447	781447	olfactory receptor 4A15-like
+15	440001	490000	379.577548	LOC781447	781447	olfactory receptor 4A15-like
+15	1300001	1350000	393.94433599999996	IZUMO1R	100300332	IZUMO1 receptor%2C JUNO%2C transcript variant X2
+15	1360001	1410000	350.662042	GPR83	104968467	G protein-coupled receptor 83%2C transcript variant X1
+15	1380001	1430000	350.662042	GPR83	104968467	G protein-coupled receptor 83%2C transcript variant X1
+15	1920001	1970000	436.917344	GRIA4	529904	glutamate ionotropic receptor AMPA type subunit 4
+15	1940001	1990000	436.917344	GRIA4	529904	glutamate ionotropic receptor AMPA type subunit 4
+15	1960001	2010000	436.917344	GRIA4	529904	glutamate ionotropic receptor AMPA type subunit 4
+15	1980001	2030000	275.58349100000004	GRIA4	529904	glutamate ionotropic receptor AMPA type subunit 4
+15	5200001	5250000	226.448083	DYNC2H1	512287	dynein cytoplasmic 2 heavy chain 1%2C transcript variant X2
+15	5220001	5270000	226.448083	DYNC2H1	512287	dynein cytoplasmic 2 heavy chain 1%2C transcript variant X2
+15	5240001	5290000	226.448083	DYNC2H1	512287	dynein cytoplasmic 2 heavy chain 1%2C transcript variant X2
+15	14340001	14390000	279.40227400000003	MTMR2	536810	myotubularin related protein 2%2C transcript variant X3
+15	14360001	14410000	279.40227400000003	MTMR2	536810	myotubularin related protein 2%2C transcript variant X3
+15	14380001	14430000	279.40227400000003	MTMR2	536810	myotubularin related protein 2%2C transcript variant X3
+15	77240001	77290000	226.230543	SLC39A13|LOC107133473|PSMC3|RAPSN|CELF1	614946|107133473|508448|541061|540475	solute carrier family 39 member 13|proline-rich protein HaeIII subfamily 1-like|proteasome 26S subunit%2C ATPase 3|receptor associated protein of the synapse|CUGBP Elav-like family member 1
+15	77260001	77310000	226.230543	RAPSN|CELF1	541061|540475	receptor associated protein of the synapse|CUGBP Elav-like family member 1
+15	84120001	84170000	228.461648	OR4A15	511653	olfactory receptor%2C family 4%2C subfamily A%2C member 15
+15	84140001	84190000	258.937898	OR4A15	511653	olfactory receptor%2C family 4%2C subfamily A%2C member 15
+15	84660001	84710000	269.44036800000003	LOC617614|LOC509025	617614|509025	olfactory receptor 4C46|olfactory receptor 4C13
+15	84680001	84730000	269.44036800000003	LOC617614|LOC509025	617614|509025	olfactory receptor 4C46|olfactory receptor 4C13
+15	84700001	84750000	269.44036800000003	LOC509025|LOC112441561	509025|112441561	olfactory receptor 4C13|olfactory receptor 5D18-like
+15	84720001	84770000	230.73219100000003	LOC112441561	112441561	olfactory receptor 5D18-like
+15	84740001	84790000	249.196575	LOC112441561	112441561	olfactory receptor 5D18-like
+16	1000001	1050000	235.814644	CHIT1	789394	chitinase 1
+16	1020001	1070000	235.814644	CHIT1	789394	chitinase 1
+16	1040001	1090000	235.814644	BTG2	539364	BTG anti-proliferation factor 2
+16	26740001	26790000	257.40067400000004	SUSD4	508637	sushi domain containing 4
+16	26760001	26810000	257.40067400000004	SUSD4	508637	sushi domain containing 4
+16	26780001	26830000	251.30043999999998	SUSD4	508637	sushi domain containing 4
+16	36840001	36890000	238.60617000000002	NME7	534611	NME/NM23 family member 7%2C transcript variant X4
+16	36860001	36910000	255.76180899999997	NME7	534611	NME/NM23 family member 7%2C transcript variant X4
+16	36880001	36930000	255.76180899999997	NME7	534611	NME/NM23 family member 7%2C transcript variant X4
+16	36900001	36950000	243.993241	NME7	534611	NME/NM23 family member 7%2C transcript variant X4
+16	42380001	42430000	1688.288185	UBIAD1|MTOR	508501|100139219	UbiA prenyltransferase domain containing 1|mechanistic target of rapamycin kinase
+16	42400001	42450000	1688.288185	ANGPTL7|MTOR	512698|100139219	angiopoietin like 7|mechanistic target of rapamycin kinase
+16	42520001	42570000	1024.258489	EXOSC10|SRM	535340|505916	exosome component 10%2C transcript variant X2|spermidine synthase
+16	42540001	42590000	1024.258489	EXOSC10|SRM|MASP2	535340|505916|505819	exosome component 10%2C transcript variant X2|spermidine synthase|mannan binding lectin serine peptidase 2
+16	42560001	42610000	1412.266982	SRM|MASP2|TARDBP	505916|505819|540632	spermidine synthase|mannan binding lectin serine peptidase 2|TAR DNA binding protein
+16	42580001	42630000	1531.107337	MASP2|TARDBP	505819|540632	mannan binding lectin serine peptidase 2|TAR DNA binding protein
+16	42600001	42650000	1531.107337	TARDBP	540632	TAR DNA binding protein
+16	42900001	42950000	518.732178	CASZ1	536765	castor zinc finger 1%2C transcript variant X1
+16	42920001	42970000	867.906743	CASZ1|PEX14	536765|507393	castor zinc finger 1%2C transcript variant X1|peroxisomal biogenesis factor 14
+16	42940001	42990000	934.353768	CASZ1|PEX14	536765|507393	castor zinc finger 1%2C transcript variant X1|peroxisomal biogenesis factor 14
+16	42960001	43010000	934.353768	CASZ1|PEX14	536765|507393	castor zinc finger 1%2C transcript variant X1|peroxisomal biogenesis factor 14
+16	43720001	43770000	603.568546	CLSTN1	514447	calsyntenin 1%2C transcript variant X3
+16	43740001	43790000	603.568546	PIK3CD|CLSTN1	504531|514447	phosphatidylinositol-4%2C5-bisphosphate 3-kinase catalytic subunit delta%2C transcript variant X7|calsyntenin 1%2C transcript variant X3
+16	43760001	43810000	603.568546	PIK3CD|CLSTN1	504531|514447	phosphatidylinositol-4%2C5-bisphosphate 3-kinase catalytic subunit delta%2C transcript variant X7|calsyntenin 1%2C transcript variant X3
+16	43780001	43830000	238.47578900000002	PIK3CD|CLSTN1	504531|514447	phosphatidylinositol-4%2C5-bisphosphate 3-kinase catalytic subunit delta%2C transcript variant X7|calsyntenin 1%2C transcript variant X3
+16	44760001	44810000	228.091562	RERE	535394	arginine-glutamic acid dipeptide repeats%2C transcript variant X8
+16	44780001	44830000	228.091562	RERE	535394	arginine-glutamic acid dipeptide repeats%2C transcript variant X8
+16	44800001	44850000	344.06787	RERE	535394	arginine-glutamic acid dipeptide repeats%2C transcript variant X8
+16	44820001	44870000	344.06787	RERE	535394	arginine-glutamic acid dipeptide repeats%2C transcript variant X8
+16	51040001	51090000	259.56446	FNDC10|TMEM240|SSU72|ATAD3A	100847392|617545|614837|784353	fibronectin type III domain containing 10%2C transcript variant X2|transmembrane protein 240|SSU72 homolog%2C RNA polymerase II CTD phosphatase|ATPase family%2C AAA domain containing 3A
+16	51060001	51110000	259.56446	TMEM240|VWA1|SSU72|ATAD3A	617545|505917|614837|784353	transmembrane protein 240|von Willebrand factor A domain containing 1|SSU72 homolog%2C RNA polymerase II CTD phosphatase|ATPase family%2C AAA domain containing 3A
+16	51080001	51130000	259.56446	TMEM240|VWA1|TMEM88B|ANKRD65|ATAD3A	617545|505917|767837|788407|784353	transmembrane protein 240|von Willebrand factor A domain containing 1|transmembrane protein 88B|ankyrin repeat domain 65|ATPase family%2C AAA domain containing 3A
+16	51380001	51430000	429.987572	RNF223|LOC526769|AGRN|C16H1orf159	100301430|526769|525795|509263	ring finger protein 223|tyrosine-protein phosphatase non-receptor type 11%2C transcript variant X9|agrin%2C transcript variant X3|chromosome 16 C1orf159 homolog
+16	51400001	51450000	429.987572	RNF223|LOC526769|AGRN|C16H1orf159	100301430|526769|525795|509263	ring finger protein 223|tyrosine-protein phosphatase non-receptor type 11%2C transcript variant X9|agrin%2C transcript variant X3|chromosome 16 C1orf159 homolog
+16	51420001	51470000	429.987572	ISG15|LOC526769|AGRN	281871|526769|525795	ISG15 ubiquitin-like modifier|tyrosine-protein phosphatase non-receptor type 11%2C transcript variant X9|agrin%2C transcript variant X3
+16	51440001	51490000	406.627095	ISG15|AGRN|HES4	281871|525795|507480	ISG15 ubiquitin-like modifier|agrin%2C transcript variant X3|hes family bHLH transcription factor 4%2C transcript variant X2
+16	51480001	51530000	831.87835	NOC2L|HES4|PERM1|SAMD11|KLHL17	508638|507480|520080|100140500|615476	NOC2 like nucleolar associated transcriptional repressor|hes family bHLH transcription factor 4%2C transcript variant X2|PPARGC1 and ESRR induced regulator%2C muscle 1|sterile alpha motif domain containing 11|kelch like family member 17%2C transcript variant X3
+16	51500001	51550000	831.87835	NOC2L|SAMD11|KLHL17	508638|100140500|615476	NOC2 like nucleolar associated transcriptional repressor|sterile alpha motif domain containing 11|kelch like family member 17%2C transcript variant X3
+16	51520001	51570000	831.87835	NOC2L|SAMD11	508638|100140500	NOC2 like nucleolar associated transcriptional repressor|sterile alpha motif domain containing 11
+16	51540001	51590000	647.52105	SAMD11	100140500	sterile alpha motif domain containing 11
+16	51560001	51610000	647.52105	ZBTB17	512915	zinc finger and BTB domain containing 17%2C transcript variant X2
+16	51580001	51630000	266.003554	ZBTB17	512915	zinc finger and BTB domain containing 17%2C transcript variant X2
+16	51600001	51650000	266.003554	ZBTB17|SPEN	512915|513692	zinc finger and BTB domain containing 17%2C transcript variant X2|spen family transcriptional repressor
+16	54320001	54370000	335.02412400000003	LOC530668	530668	PRAME family member 8-like
+16	54340001	54390000	335.02412400000003	LOC789138|LOC530668	789138|530668	PRAME family member 8-like|PRAME family member 8-like
+16	60340001	60390000	297.111001	FAM20B	539755	FAM20B%2C glycosaminoglycan xylosylkinase%2C transcript variant X2
+16	60360001	60410000	507.25483899999995	FAM20B	539755	FAM20B%2C glycosaminoglycan xylosylkinase%2C transcript variant X2
+16	60380001	60430000	507.25483899999995	FAM20B|TOR3A	539755|789634	FAM20B%2C glycosaminoglycan xylosylkinase%2C transcript variant X2|torsin family 3 member A
+16	60400001	60450000	339.49633900000003	FAM20B|TOR3A	539755|789634	FAM20B%2C glycosaminoglycan xylosylkinase%2C transcript variant X2|torsin family 3 member A
+16	60420001	60470000	339.49633900000003	FAM20B|TOR3A|ABL2	539755|789634|511845	FAM20B%2C glycosaminoglycan xylosylkinase%2C transcript variant X2|torsin family 3 member A|ABL proto-oncogene 2%2C non-receptor tyrosine kinase
+16	60440001	60490000	247.239348	TOR3A|ABL2	789634|511845	torsin family 3 member A|ABL proto-oncogene 2%2C non-receptor tyrosine kinase
+16	60460001	60510000	247.239348	ABL2	511845	ABL proto-oncogene 2%2C non-receptor tyrosine kinase
+16	60500001	60550000	290.034866	ABL2	511845	ABL proto-oncogene 2%2C non-receptor tyrosine kinase
+16	60520001	60570000	290.034866	ABL2	511845	ABL proto-oncogene 2%2C non-receptor tyrosine kinase
+16	71520001	71570000	253.98378799999998	INTS7	534964	integrator complex subunit 7
+16	71540001	71590000	428.071351	INTS7	534964	integrator complex subunit 7
+16	71560001	71610000	428.071351	LPGAT1	541208	lysophosphatidylglycerol acyltransferase 1%2C transcript variant X6
+16	71580001	71630000	428.071351	LPGAT1	541208	lysophosphatidylglycerol acyltransferase 1%2C transcript variant X6
+16	71600001	71650000	356.632778	LPGAT1	541208	lysophosphatidylglycerol acyltransferase 1%2C transcript variant X6
+16	71620001	71670000	425.90986399999997	LPGAT1	541208	lysophosphatidylglycerol acyltransferase 1%2C transcript variant X6
+16	71640001	71690000	427.384464	LPGAT1	541208	lysophosphatidylglycerol acyltransferase 1%2C transcript variant X6
+16	71660001	71710000	427.384464	LPGAT1	541208	lysophosphatidylglycerol acyltransferase 1%2C transcript variant X6
+16	71680001	71730000	392.147708	LPGAT1	541208	lysophosphatidylglycerol acyltransferase 1%2C transcript variant X6
+16	80880001	80930000	297.56599700000004	TNNI1|LAD1	100301375|505686	troponin I1%2C slow skeletal type|ladinin 1%2C transcript variant X2
+16	80900001	80950000	297.56599700000004	TNNI1|LAD1|TNNT2	100301375|505686|286816	troponin I1%2C slow skeletal type|ladinin 1%2C transcript variant X2|troponin T2%2C cardiac type
+17	9860001	9910000	250.408567	NR3C2	537614	nuclear receptor subfamily 3 group C member 2
+17	9880001	9930000	250.408567	NR3C2	537614	nuclear receptor subfamily 3 group C member 2
+17	9900001	9950000	250.408567	NR3C2	537614	nuclear receptor subfamily 3 group C member 2
+17	12500001	12550000	230.19124900000003	ZNF827	104974573	zinc finger protein 827%2C transcript variant X3
+17	12520001	12570000	260.595821	ZNF827	104974573	zinc finger protein 827%2C transcript variant X3
+17	12540001	12590000	470.614314	C17H4orf51|ZNF827	100847786|104974573	chromosome 17 C4orf51 homolog%2C transcript variant X1|zinc finger protein 827%2C transcript variant X3
+17	12560001	12610000	576.241765	C17H4orf51|ZNF827	100847786|104974573	chromosome 17 C4orf51 homolog%2C transcript variant X1|zinc finger protein 827%2C transcript variant X3
+17	12580001	12630000	576.241765	C17H4orf51|ZNF827	100847786|104974573	chromosome 17 C4orf51 homolog%2C transcript variant X1|zinc finger protein 827%2C transcript variant X3
+17	12600001	12650000	576.241765	C17H4orf51	100847786	chromosome 17 C4orf51 homolog%2C transcript variant X1
+17	12620001	12670000	541.142874	C17H4orf51|MMAA	100847786|511673	chromosome 17 C4orf51 homolog%2C transcript variant X1|methylmalonic aciduria (cobalamin deficiency) cblA type
+17	12640001	12690000	423.74800199999993	MMAA	511673	methylmalonic aciduria (cobalamin deficiency) cblA type
+17	12660001	12710000	423.74800199999993	MMAA	511673	methylmalonic aciduria (cobalamin deficiency) cblA type
+17	12680001	12730000	293.247194	MMAA	511673	methylmalonic aciduria (cobalamin deficiency) cblA type
+17	12700001	12750000	293.247194	SMAD1	540488	SMAD family member 1
+17	14040001	14090000	348.93802200000005	GYPA	617836	glycophorin A (MNS blood group)
+17	14060001	14110000	355.724936	GYPA	617836	glycophorin A (MNS blood group)
+17	14080001	14130000	355.724936	GYPB	100462649	glycophorin B%2C transcript variant X1
+17	14100001	14150000	239.738534	GYPB	100462649	glycophorin B%2C transcript variant X1
+17	16140001	16190000	224.42485699999997	IL15	281248	interleukin 15
+17	16600001	16650000	343.420923	RNF150	615111	ring finger protein 150%2C transcript variant X4
+17	16620001	16670000	343.420923	RNF150	615111	ring finger protein 150%2C transcript variant X4
+17	16860001	16910000	348.062902	RNF150	615111	ring finger protein 150%2C transcript variant X4
+17	16880001	16930000	348.062902	RNF150	615111	ring finger protein 150%2C transcript variant X4
+17	16900001	16950000	348.062902	RNF150	615111	ring finger protein 150%2C transcript variant X4
+17	17780001	17830000	1237.505311	MAML3	540588	mastermind like transcriptional coactivator 3%2C transcript variant X3
+17	17800001	17850000	1237.505311	MAML3	540588	mastermind like transcriptional coactivator 3%2C transcript variant X3
+17	17820001	17870000	1237.505311	MAML3	540588	mastermind like transcriptional coactivator 3%2C transcript variant X3
+17	17840001	17890000	803.3602070000001	MAML3	540588	mastermind like transcriptional coactivator 3%2C transcript variant X3
+17	20260001	20310000	395.054329	PCDH18	539464	protocadherin 18
+17	20280001	20330000	710.680243	PCDH18	539464	protocadherin 18
+17	20300001	20350000	710.680243	PCDH18	539464	protocadherin 18
+17	28820001	28870000	420.97076699999997	SCLT1	534830	sodium channel and clathrin linker 1%2C transcript variant X1
+17	28840001	28890000	420.97076699999997	SCLT1	534830	sodium channel and clathrin linker 1%2C transcript variant X1
+17	28860001	28910000	420.97076699999997	SCLT1	534830	sodium channel and clathrin linker 1%2C transcript variant X1
+17	28880001	28930000	374.78468300000003	SCLT1	534830	sodium channel and clathrin linker 1%2C transcript variant X1
+17	28900001	28950000	265.16749100000004	SCLT1|JADE1	534830|509264	sodium channel and clathrin linker 1%2C transcript variant X1|jade family PHD finger 1
+17	28920001	28970000	301.8464	SCLT1|JADE1	534830|509264	sodium channel and clathrin linker 1%2C transcript variant X1|jade family PHD finger 1
+17	28940001	28990000	450.568073	JADE1	509264	jade family PHD finger 1
+17	28960001	29010000	491.484862	JADE1	509264	jade family PHD finger 1
+17	28980001	29030000	491.484862	JADE1	509264	jade family PHD finger 1
+17	29000001	29050000	321.72747999999996	JADE1	509264	jade family PHD finger 1
+17	29700001	29750000	262.9134	ABHD18|MFSD8	530484|515944	abhydrolase domain containing 18|major facilitator superfamily domain containing 8
+17	29720001	29770000	311.37642	ABHD18|MFSD8	530484|515944	abhydrolase domain containing 18|major facilitator superfamily domain containing 8
+17	29740001	29790000	311.37642	PLK4|MFSD8	514405|515944	polo like kinase 4|major facilitator superfamily domain containing 8
+17	29760001	29810000	304.47140299999995	PLK4|MFSD8	514405|515944	polo like kinase 4|major facilitator superfamily domain containing 8
+17	29780001	29830000	304.47140299999995	PLK4|HSPA4L	514405|506096	polo like kinase 4|heat shock protein family A (Hsp70) member 4 like%2C transcript variant X2
+17	35020001	35070000	906.5926029999999	IL21	378475	interleukin 21
+17	35040001	35090000	926.9217970000001	IL21	378475	interleukin 21
+17	35060001	35110000	926.9217970000001	IL21	378475	interleukin 21
+17	35180001	35230000	1751.645173	IL2|ADAD1	280822|537320	interleukin 2|adenosine deaminase domain containing 1%2C transcript variant X2
+17	35200001	35250000	2024.537753	IL2|ADAD1	280822|537320	interleukin 2|adenosine deaminase domain containing 1%2C transcript variant X2
+17	35220001	35270000	2224.6671739999997	IL2|ADAD1	280822|537320	interleukin 2|adenosine deaminase domain containing 1%2C transcript variant X2
+17	35240001	35290000	2224.6671739999997	ADAD1	537320	adenosine deaminase domain containing 1%2C transcript variant X2
+17	35260001	35310000	2224.6671739999997	ADAD1	537320	adenosine deaminase domain containing 1%2C transcript variant X2
+17	35280001	35330000	2039.325741	ADAD1|KIAA1109	537320|100297914	adenosine deaminase domain containing 1%2C transcript variant X2|KIAA1109 ortholog%2C transcript variant X2
+17	35300001	35350000	2006.316316	ADAD1|KIAA1109	537320|100297914	adenosine deaminase domain containing 1%2C transcript variant X2|KIAA1109 ortholog%2C transcript variant X2
+17	35320001	35370000	2006.316316	KIAA1109	100297914	KIAA1109 ortholog%2C transcript variant X2
+17	35340001	35390000	1818.991509	KIAA1109	100297914	KIAA1109 ortholog%2C transcript variant X2
+17	35360001	35410000	1727.9652629999998	KIAA1109	100297914	KIAA1109 ortholog%2C transcript variant X2
+17	35380001	35430000	1165.7804609999998	KIAA1109	100297914	KIAA1109 ortholog%2C transcript variant X2
+17	35400001	35450000	1255.3731089999999	KIAA1109	100297914	KIAA1109 ortholog%2C transcript variant X2
+17	35420001	35470000	1255.3731089999999	KIAA1109	100297914	KIAA1109 ortholog%2C transcript variant X2
+17	35440001	35490000	1255.3731089999999	KIAA1109	100297914	KIAA1109 ortholog%2C transcript variant X2
+17	35460001	35510000	1145.7601	KIAA1109	100297914	KIAA1109 ortholog%2C transcript variant X2
+17	35480001	35530000	1084.081282	KIAA1109	100297914	KIAA1109 ortholog%2C transcript variant X2
+17	35500001	35550000	976.1387810000001	KIAA1109	100297914	KIAA1109 ortholog%2C transcript variant X2
+17	35520001	35570000	465.034349	KIAA1109	100297914	KIAA1109 ortholog%2C transcript variant X2
+17	36860001	36910000	376.80098599999997	FSTL5	782831	follistatin like 5
+17	36880001	36930000	476.85802800000005	FSTL5	782831	follistatin like 5
+17	36900001	36950000	476.85802800000005	FSTL5	782831	follistatin like 5
+17	36920001	36970000	304.009478	FSTL5	782831	follistatin like 5
+17	41740001	41790000	370.666672	GRIA2	614283	glutamate ionotropic receptor AMPA type subunit 2%2C transcript variant X2
+17	41760001	41810000	370.666672	GRIA2	614283	glutamate ionotropic receptor AMPA type subunit 2%2C transcript variant X2
+17	41780001	41830000	336.800674	GRIA2	614283	glutamate ionotropic receptor AMPA type subunit 2%2C transcript variant X2
+17	41900001	41950000	342.02086	GRIA2	614283	glutamate ionotropic receptor AMPA type subunit 2%2C transcript variant X2
+17	41920001	41970000	413.489331	GRIA2	614283	glutamate ionotropic receptor AMPA type subunit 2%2C transcript variant X2
+17	41940001	41990000	413.489331	GRIA2	614283	glutamate ionotropic receptor AMPA type subunit 2%2C transcript variant X2
+17	41960001	42010000	413.489331	GRIA2	614283	glutamate ionotropic receptor AMPA type subunit 2%2C transcript variant X2
+17	41980001	42030000	418.061208	GLRB	281198	glycine receptor beta
+17	42000001	42050000	418.061208	GLRB	281198	glycine receptor beta
+17	42020001	42070000	418.061208	GLRB	281198	glycine receptor beta
+17	42220001	42270000	293.346513	PDGFC	613787	platelet derived growth factor C%2C transcript variant X1
+17	42240001	42290000	328.213673	PDGFC	613787	platelet derived growth factor C%2C transcript variant X1
+17	42260001	42310000	328.213673	PDGFC	613787	platelet derived growth factor C%2C transcript variant X1
+17	42280001	42330000	328.213673	PDGFC	613787	platelet derived growth factor C%2C transcript variant X1
+17	42300001	42350000	297.921577	PDGFC	613787	platelet derived growth factor C%2C transcript variant X1
+17	46300001	46350000	273.453408	STX2	519148	syntaxin 2%2C transcript variant X2
+17	46320001	46370000	273.453408	STX2	519148	syntaxin 2%2C transcript variant X2
+17	47160001	47210000	416.596317	TMEM132D	100297935	transmembrane protein 132D
+17	47180001	47230000	416.596317	TMEM132D	100297935	transmembrane protein 132D
+17	47200001	47250000	310.899287	TMEM132D	100297935	transmembrane protein 132D
+17	47280001	47330000	463.003796	TMEM132D	100297935	transmembrane protein 132D
+17	47300001	47350000	463.003796	TMEM132D	100297935	transmembrane protein 132D
+17	47320001	47370000	436.411341	TMEM132D	100297935	transmembrane protein 132D
+17	47580001	47630000	427.052083	TMEM132D	100297935	transmembrane protein 132D
+17	47600001	47650000	427.052083	TMEM132D	100297935	transmembrane protein 132D
+17	47620001	47670000	976.704468	TMEM132D	100297935	transmembrane protein 132D
+17	47640001	47690000	976.704468	TMEM132D	100297935	transmembrane protein 132D
+17	47660001	47710000	739.971962	TMEM132D	100297935	transmembrane protein 132D
+17	47680001	47730000	361.40286299999997	TMEM132D	100297935	transmembrane protein 132D
+17	48420001	48470000	439.377035	TMEM132C	512602	transmembrane protein 132C
+17	48440001	48490000	439.377035	TMEM132C	512602	transmembrane protein 132C
+17	48460001	48510000	353.575203	TMEM132C	512602	transmembrane protein 132C
+17	53560001	53610000	231.212271	MORN3|LOC101905029|TMEM120B	531482|101905029|508790	MORN repeat containing 3|6-pyruvoyl tetrahydrobiopterin synthase-like|transmembrane protein 120B%2C transcript variant X3
+17	53580001	53630000	292.250079	MORN3|LOC101905029|ORAI1	531482|101905029|517688	MORN repeat containing 3|6-pyruvoyl tetrahydrobiopterin synthase-like|ORAI calcium release-activated calcium modulator 1
+17	53600001	53650000	292.250079	MORN3|LOC101905029|ORAI1	531482|101905029|517688	MORN repeat containing 3|6-pyruvoyl tetrahydrobiopterin synthase-like|ORAI calcium release-activated calcium modulator 1
+17	53620001	53670000	269.28202999999996	ORAI1|KDM2B	517688|614487	ORAI calcium release-activated calcium modulator 1|lysine demethylase 2B%2C transcript variant X12
+17	53660001	53710000	453.59513	KDM2B	614487	lysine demethylase 2B%2C transcript variant X12
+17	53680001	53730000	453.59513	KDM2B	614487	lysine demethylase 2B%2C transcript variant X12
+17	53700001	53750000	453.59513	KDM2B	614487	lysine demethylase 2B%2C transcript variant X12
+17	53720001	53770000	343.861668	KDM2B	614487	lysine demethylase 2B%2C transcript variant X12
+17	53740001	53790000	343.861668	RNF34|KDM2B	506764|614487	ring finger protein 34|lysine demethylase 2B%2C transcript variant X12
+17	53760001	53810000	343.861668	RNF34|KDM2B	506764|614487	ring finger protein 34|lysine demethylase 2B%2C transcript variant X12
+17	53780001	53830000	463.449311	RNF34|ANAPC5	506764|540537	ring finger protein 34|anaphase promoting complex subunit 5%2C transcript variant X2
+17	53800001	53850000	463.449311	ANAPC5	540537	anaphase promoting complex subunit 5%2C transcript variant X2
+17	53820001	53870000	463.449311	ANAPC5	540537	anaphase promoting complex subunit 5%2C transcript variant X2
+17	53840001	53890000	402.30908700000003	ANAPC5|CAMKK2	540537|509084	anaphase promoting complex subunit 5%2C transcript variant X2|calcium/calmodulin dependent protein kinase kinase 2
+17	54320001	54370000	893.7481119999999	ARPC3|GPN3|FAM216A	506596|506597|616613	actin related protein 2/3 complex subunit 3|GPN-loop GTPase 3|family with sequence similarity 216 member A
+17	54340001	54390000	893.7481119999999	VPS29|GPN3|FAM216A|RAD9B	513840|506597|616613|616597	VPS29%2C retromer complex component|GPN-loop GTPase 3|family with sequence similarity 216 member A|RAD9 checkpoint clamp component B
+17	54360001	54410000	893.7481119999999	VPS29|FAM216A|RAD9B	513840|616613|616597	VPS29%2C retromer complex component|family with sequence similarity 216 member A|RAD9 checkpoint clamp component B
+17	54520001	54570000	327.85092099999997	PPP1CC|HVCN1	282318|616570	protein phosphatase 1 catalytic subunit gamma|hydrogen voltage gated channel 1
+17	54540001	54590000	327.85092099999997	PPP1CC	282318	protein phosphatase 1 catalytic subunit gamma
+17	54560001	54610000	327.85092099999997	PPP1CC	282318	protein phosphatase 1 catalytic subunit gamma
+17	54580001	54630000	234.73286800000002	PPP1CC	282318	protein phosphatase 1 catalytic subunit gamma
+17	55120001	55170000	838.246914	SH2B3	614726	SH2B adaptor protein 3
+17	55140001	55190000	838.246914	SH2B3|ATXN2	614726|532649	SH2B adaptor protein 3|ataxin 2%2C transcript variant X13
+17	55200001	55250000	1408.332065	ATXN2	532649	ataxin 2%2C transcript variant X13
+17	55220001	55270000	1408.332065	ATXN2	532649	ataxin 2%2C transcript variant X13
+17	55280001	55330000	528.0752190000001	BRAP|ATXN2	518844|532649	BRCA1 associated protein|ataxin 2%2C transcript variant X13
+17	55300001	55350000	528.0752190000001	BRAP|LOC513508	518844|513508	BRCA1 associated protein|acyl-CoA dehydrogenase family member 10%2C transcript variant X8
+17	55520001	55570000	267.537606	CIT	786852	citron rho-interacting serine/threonine kinase%2C transcript variant X12
+17	55600001	55650000	978.675634	CIT	786852	citron rho-interacting serine/threonine kinase%2C transcript variant X12
+17	55620001	55670000	978.675634	CIT	786852	citron rho-interacting serine/threonine kinase%2C transcript variant X12
+17	55680001	55730000	594.359145	CIT	786852	citron rho-interacting serine/threonine kinase%2C transcript variant X12
+17	55700001	55750000	594.359145	CIT	786852	citron rho-interacting serine/threonine kinase%2C transcript variant X12
+17	55760001	55810000	443.297258	TMEM233	100297703	transmembrane protein 233%2C transcript variant X2
+17	55780001	55830000	443.297258	TMEM233	100297703	transmembrane protein 233%2C transcript variant X2
+17	56120001	56170000	383.09319300000004	HSPB8	539524	heat shock protein family B (small) member 8
+17	56140001	56190000	497.093853	HSPB8|SRRM4	539524|614115	heat shock protein family B (small) member 8|serine/arginine repetitive matrix 4
+17	56160001	56210000	497.093853	HSPB8|SRRM4	539524|614115	heat shock protein family B (small) member 8|serine/arginine repetitive matrix 4
+17	56180001	56230000	497.093853	SRRM4	614115	serine/arginine repetitive matrix 4
+17	56200001	56250000	372.751428	SRRM4	614115	serine/arginine repetitive matrix 4
+17	56860001	56910000	356.849342	SUDS3|TAOK3	506646|534620	SDS3 homolog%2C SIN3A corepressor complex component|TAO kinase 3
+17	56880001	56930000	507.26333200000005	TAOK3	534620	TAO kinase 3
+17	56900001	56950000	646.439293	TAOK3	534620	TAO kinase 3
+17	56920001	56970000	660.558589	TAOK3	534620	TAO kinase 3
+17	56940001	56990000	707.7583559999999	TAOK3	534620	TAO kinase 3
+17	56960001	57010000	707.7583559999999	TAOK3	534620	TAO kinase 3
+17	56980001	57030000	707.7583559999999	TAOK3	534620	TAO kinase 3
+17	57020001	57070000	449.443539	TAOK3	534620	TAO kinase 3
+17	57040001	57090000	449.443539	PEBP1|TAOK3	431786|534620	phosphatidylethanolamine binding protein 1|TAO kinase 3
+17	57060001	57110000	363.862728	PEBP1|TAOK3	431786|534620	phosphatidylethanolamine binding protein 1|TAO kinase 3
+17	57080001	57130000	564.044336	PEBP1|VSIG10	431786|523257	phosphatidylethanolamine binding protein 1|V-set and immunoglobulin domain containing 10
+17	57100001	57150000	564.044336	VSIG10	523257	V-set and immunoglobulin domain containing 10
+17	57120001	57170000	562.014333	WSB2|VSIG10	508388|523257	WD repeat and SOCS box containing 2|V-set and immunoglobulin domain containing 10
+17	57140001	57190000	541.917807	RFC5|WSB2|VSIG10	508389|508388|523257	replication factor C subunit 5|WD repeat and SOCS box containing 2|V-set and immunoglobulin domain containing 10
+17	57160001	57210000	541.917807	RFC5|WSB2	508389|508388	replication factor C subunit 5|WD repeat and SOCS box containing 2
+17	57180001	57230000	477.55921500000005	RFC5|WSB2	508389|508388	replication factor C subunit 5|WD repeat and SOCS box containing 2
+17	57200001	57250000	477.55921500000005	KSR2	617325	kinase suppressor of ras 2
+17	58220001	58270000	272.242392	C17H12orf49|RNFT2	534423|787155	chromosome 17 C12orf49 homolog|ring finger protein%2C transmembrane 2
+17	58240001	58290000	272.242392	C17H12orf49|RNFT2	534423|787155	chromosome 17 C12orf49 homolog|ring finger protein%2C transmembrane 2
+17	58260001	58310000	272.242392	C17H12orf49	534423	chromosome 17 C12orf49 homolog
+18	14600001	14650000	229.39963799999998	ZNF276|FANCA	513761|618375	zinc finger protein 276%2C transcript variant X1|Fanconi anemia complementation group A%2C transcript variant X7
+18	14620001	14670000	229.39963799999998	FANCA|SPIRE2	618375|518761	Fanconi anemia complementation group A%2C transcript variant X7|spire type actin nucleation factor 2%2C transcript variant X9
+18	14640001	14690000	229.39963799999998	FANCA|SPIRE2|TCF25	618375|518761|100848970	Fanconi anemia complementation group A%2C transcript variant X7|spire type actin nucleation factor 2%2C transcript variant X9|transcription factor 25
+18	14660001	14710000	450.44916500000005	MC1R|SPIRE2|TCF25|TUBB3	281298|518761|100848970|768070	melanocortin 1 receptor|spire type actin nucleation factor 2%2C transcript variant X9|transcription factor 25|tubulin beta 3 class III
+18	14680001	14730000	450.44916500000005	MC1R|TCF25|TUBB3|DEF8	281298|100848970|768070|513349	melanocortin 1 receptor|transcription factor 25|tubulin beta 3 class III|differentially expressed in FDCP 8 homolog%2C transcript variant X2
+18	14700001	14750000	450.44916500000005	MC1R|CENPBD1|TCF25|TUBB3|DEF8|LOC532875	281298|101904456|100848970|768070|513349|532875	melanocortin 1 receptor|CENPB DNA-binding domain containing 1|transcription factor 25|tubulin beta 3 class III|differentially expressed in FDCP 8 homolog%2C transcript variant X2|AFG3-like protein 1%2C transcript variant X3
+18	14720001	14770000	317.553876	CENPBD1|DBNDD1|DEF8|LOC532875	101904456|518157|513349|532875	CENPB DNA-binding domain containing 1|dysbindin domain containing 1%2C transcript variant X5|differentially expressed in FDCP 8 homolog%2C transcript variant X2|AFG3-like protein 1%2C transcript variant X3
+18	40380001	40430000	289.989832	CCNE1	533526	cyclin E1
+18	40400001	40450000	294.692285	CCNE1	533526	cyclin E1
+18	40420001	40470000	294.692285	CCNE1	533526	cyclin E1
+19	80001	130000	2772.058098	LOC531039	531039	olfactory receptor 140
+19	100001	150000	2772.058098	LOC531039	531039	olfactory receptor 140
+19	120001	170000	2565.155757	LOC531039	531039	olfactory receptor 140
+19	140001	190000	2565.155757	LOC524702	524702	olfactory receptor 140
+19	540001	590000	1120.170087	CA10	535917	carbonic anhydrase 10
+19	560001	610000	1120.170087	CA10	535917	carbonic anhydrase 10
+19	580001	630000	1025.3507730000001	CA10	535917	carbonic anhydrase 10
+19	600001	650000	1025.3507730000001	CA10	535917	carbonic anhydrase 10
+19	620001	670000	1389.608894	CA10	535917	carbonic anhydrase 10
+19	640001	690000	1389.608894	CA10	535917	carbonic anhydrase 10
+19	660001	710000	1389.608894	CA10	535917	carbonic anhydrase 10
+19	680001	730000	1248.9137660000001	CA10	535917	carbonic anhydrase 10
+19	700001	750000	795.6921629999999	CA10	535917	carbonic anhydrase 10
+19	720001	770000	1113.882941	CA10	535917	carbonic anhydrase 10
+19	740001	790000	1113.882941	CA10	535917	carbonic anhydrase 10
+19	760001	810000	1113.882941	CA10	535917	carbonic anhydrase 10
+19	780001	830000	866.2733300000001	CA10	535917	carbonic anhydrase 10
+19	800001	850000	866.2733300000001	CA10	535917	carbonic anhydrase 10
+19	820001	870000	535.69296	CA10	535917	carbonic anhydrase 10
+19	1180001	1230000	290.046264	CA10	535917	carbonic anhydrase 10
+19	1200001	1250000	290.046264	CA10	535917	carbonic anhydrase 10
+19	1260001	1310000	243.90903799999998	CA10	535917	carbonic anhydrase 10
+19	1280001	1330000	276.668577	CA10	535917	carbonic anhydrase 10
+19	1300001	1350000	276.668577	CA10	535917	carbonic anhydrase 10
+19	1320001	1370000	275.36794	CA10	535917	carbonic anhydrase 10
+19	51860001	51910000	226.441075	RPTOR	507056	regulatory associated protein of MTOR complex 1
+19	51880001	51930000	365.629759	RPTOR	507056	regulatory associated protein of MTOR complex 1
+19	51900001	51950000	365.629759	RPTOR	507056	regulatory associated protein of MTOR complex 1
+19	51920001	51970000	365.629759	RPTOR	507056	regulatory associated protein of MTOR complex 1
+19	52000001	52050000	881.467402	ENDOV|RPTOR	526597|507056	endonuclease V%2C transcript variant X8|regulatory associated protein of MTOR complex 1
+19	52020001	52070000	936.529185	NPTX1|ENDOV	513538|526597	neuronal pentraxin 1|endonuclease V%2C transcript variant X8
+19	52040001	52090000	936.529185	NPTX1|ENDOV	513538|526597	neuronal pentraxin 1|endonuclease V%2C transcript variant X8
+19	52060001	52110000	821.0961940000001	NPTX1|ENDOV	513538|526597	neuronal pentraxin 1|endonuclease V%2C transcript variant X8
+19	52080001	52130000	821.0961940000001	ENDOV|LOC509283	526597|509283	endonuclease V%2C transcript variant X8|E3 ubiquitin-protein ligase RNF213%2C transcript variant X2
+19	52920001	52970000	305.602369	RBFOX3	511773	RNA binding fox-1 homolog 3%2C transcript variant X5
+19	52940001	52990000	305.602369	RBFOX3	511773	RNA binding fox-1 homolog 3%2C transcript variant X5
+19	52960001	53010000	305.602369	RBFOX3	511773	RNA binding fox-1 homolog 3%2C transcript variant X5
+19	52980001	53030000	255.543697	RBFOX3	511773	RNA binding fox-1 homolog 3%2C transcript variant X5
+19	53200001	53250000	310.024381	RBFOX3	511773	RNA binding fox-1 homolog 3%2C transcript variant X5
+19	53220001	53270000	310.024381	RBFOX3	511773	RNA binding fox-1 homolog 3%2C transcript variant X5
+19	53240001	53290000	310.024381	RBFOX3	511773	RNA binding fox-1 homolog 3%2C transcript variant X5
+19	53260001	53310000	386.074015	RBFOX3	511773	RNA binding fox-1 homolog 3%2C transcript variant X5
+19	53280001	53330000	418.00775	RBFOX3	511773	RNA binding fox-1 homolog 3%2C transcript variant X5
+19	53300001	53350000	418.00775	RBFOX3|ENGASE	511773|100847654	RNA binding fox-1 homolog 3%2C transcript variant X5|endo-beta-N-acetylglucosaminidase%2C transcript variant X4
+19	53320001	53370000	418.00775	C1QTNF1|RBFOX3|ENGASE	511774|511773|100847654	C1q and TNF related 1|RNA binding fox-1 homolog 3%2C transcript variant X5|endo-beta-N-acetylglucosaminidase%2C transcript variant X4
+19	53340001	53390000	285.564121	C1QTNF1|ENGASE	511774|100847654	C1q and TNF related 1|endo-beta-N-acetylglucosaminidase%2C transcript variant X4
+19	53460001	53510000	238.39496200000002	TIMP2|CEP295NL	282093|100125412	TIMP metallopeptidase inhibitor 2|CEP295 N-terminal like
+19	53480001	53530000	238.39496200000002	USP36|TIMP2|CEP295NL	504581|282093|100125412	ubiquitin specific peptidase 36%2C transcript variant X2|TIMP metallopeptidase inhibitor 2|CEP295 N-terminal like
+19	53500001	53550000	238.39496200000002	USP36|TIMP2	504581|282093	ubiquitin specific peptidase 36%2C transcript variant X2|TIMP metallopeptidase inhibitor 2
+19	62280001	62330000	259.330531	CEP112	617266	centrosomal protein 112%2C transcript variant X9
+19	62300001	62350000	370.042385	CEP112	617266	centrosomal protein 112%2C transcript variant X9
+19	62320001	62370000	370.042385	CEP112	617266	centrosomal protein 112%2C transcript variant X9
+19	62360001	62410000	344.096249	CEP112	617266	centrosomal protein 112%2C transcript variant X9
+19	62380001	62430000	344.096249	CEP112	617266	centrosomal protein 112%2C transcript variant X9
+20	14280001	14330000	304.201004	ADAMTS6	540722	ADAM metallopeptidase with thrombospondin type 1 motif 6
+20	14300001	14350000	304.201004	ADAMTS6	540722	ADAM metallopeptidase with thrombospondin type 1 motif 6
+20	14320001	14370000	503.228847	ADAMTS6	540722	ADAM metallopeptidase with thrombospondin type 1 motif 6
+20	14700001	14750000	389.742613	SREK1IP1|CWC27	614029|504397	SREK1 interacting protein 1%2C transcript variant X1|CWC27 spliceosome associated protein homolog%2C transcript variant X4
+20	14720001	14770000	389.742613	SREK1IP1|SHISAL2B|CWC27	614029|515994|504397	SREK1 interacting protein 1%2C transcript variant X1|shisa like 2B|CWC27 spliceosome associated protein homolog%2C transcript variant X4
+20	14740001	14790000	389.742613	SREK1IP1|SHISAL2B	614029|515994	SREK1 interacting protein 1%2C transcript variant X1|shisa like 2B
+20	14780001	14830000	938.811848	SHISAL2B	515994	shisa like 2B
+20	14800001	14850000	938.811848	RGS7BP	613327	regulator of G protein signaling 7 binding protein
+20	14820001	14870000	938.811848	RGS7BP	613327	regulator of G protein signaling 7 binding protein
+20	14900001	14950000	916.6608859999999	RGS7BP	613327	regulator of G protein signaling 7 binding protein
+20	14920001	14970000	916.6608859999999	RGS7BP	613327	regulator of G protein signaling 7 binding protein
+20	18620001	18670000	253.328885	DEPDC1B	540874	DEP domain containing 1B
+20	18640001	18690000	253.328885	DEPDC1B	540874	DEP domain containing 1B
+20	19440001	19490000	254.867415	PDE4D	539556	phosphodiesterase 4D%2C transcript variant X7
+20	19460001	19510000	254.867415	PDE4D	539556	phosphodiesterase 4D%2C transcript variant X7
+20	26100001	26150000	223.537948	ITGA1	535951	integrin subunit alpha 1%2C transcript variant X2
+20	26120001	26170000	247.899419	ITGA1	535951	integrin subunit alpha 1%2C transcript variant X2
+20	26140001	26190000	368.695523	ITGA1	535951	integrin subunit alpha 1%2C transcript variant X2
+20	26160001	26210000	368.695523	ITGA1	535951	integrin subunit alpha 1%2C transcript variant X2
+20	26180001	26230000	368.695523	ITGA1	535951	integrin subunit alpha 1%2C transcript variant X2
+20	26200001	26250000	317.739201	ITGA1	535951	integrin subunit alpha 1%2C transcript variant X2
+20	32620001	32670000	270.735361	C20H5orf51|OXCT1	112443003|535804	chromosome 20 C5orf51 homolog%2C transcript variant X1|3-oxoacid CoA-transferase 1
+20	32640001	32690000	320.195138	OXCT1	535804	3-oxoacid CoA-transferase 1
+20	32660001	32710000	320.195138	OXCT1	535804	3-oxoacid CoA-transferase 1
+20	32680001	32730000	300.442463	OXCT1	535804	3-oxoacid CoA-transferase 1
+20	32700001	32750000	280.08727000000005	OXCT1	535804	3-oxoacid CoA-transferase 1
+20	32720001	32770000	223.465613	OXCT1	535804	3-oxoacid CoA-transferase 1
+20	32740001	32790000	223.465613	OXCT1	535804	3-oxoacid CoA-transferase 1
+20	32760001	32810000	223.465613	OXCT1	535804	3-oxoacid CoA-transferase 1
+20	40300001	40350000	252.746227	TARS	510075	threonyl-tRNA synthetase
+20	40320001	40370000	252.746227	TARS	510075	threonyl-tRNA synthetase
+21	4260001	4310000	744.2237150000001	GABRA5	523515	gamma-aminobutyric acid type A receptor alpha5 subunit
+21	4280001	4330000	744.2237150000001	GABRA5	523515	gamma-aminobutyric acid type A receptor alpha5 subunit
+21	4300001	4350000	744.2237150000001	GABRA5	523515	gamma-aminobutyric acid type A receptor alpha5 subunit
+21	4340001	4390000	626.792185	GABRA5	523515	gamma-aminobutyric acid type A receptor alpha5 subunit
+21	4360001	4410000	626.792185	GABRG3	613670	gamma-aminobutyric acid type A receptor gamma3 subunit
+21	4380001	4430000	626.792185	GABRG3	613670	gamma-aminobutyric acid type A receptor gamma3 subunit
+21	7500001	7550000	280.64144100000004	TTC23	529791	tetratricopeptide repeat domain 23%2C transcript variant X4
+21	7520001	7570000	280.64144100000004	TTC23	529791	tetratricopeptide repeat domain 23%2C transcript variant X4
+21	7540001	7590000	280.64144100000004	TTC23|SYNM	529791|514186	tetratricopeptide repeat domain 23%2C transcript variant X4|synemin
+21	15880001	15930000	250.08733199999998	SV2B	527014	synaptic vesicle glycoprotein 2B%2C transcript variant X3
+21	15900001	15950000	250.08733199999998	SV2B	527014	synaptic vesicle glycoprotein 2B%2C transcript variant X3
+21	15940001	15990000	1331.689336	SV2B	527014	synaptic vesicle glycoprotein 2B%2C transcript variant X3
+21	15960001	16010000	1331.689336	SV2B	527014	synaptic vesicle glycoprotein 2B%2C transcript variant X3
+21	15980001	16030000	1331.689336	SV2B	527014	synaptic vesicle glycoprotein 2B%2C transcript variant X3
+21	16100001	16150000	265.182156	SV2B	527014	synaptic vesicle glycoprotein 2B%2C transcript variant X3
+21	16120001	16170000	265.182156	SV2B	527014	synaptic vesicle glycoprotein 2B%2C transcript variant X3
+21	16140001	16190000	265.182156	SV2B	527014	synaptic vesicle glycoprotein 2B%2C transcript variant X3
+21	17300001	17350000	382.277369	AGBL1	100300175	ATP/GTP binding protein like 1
+21	17320001	17370000	382.277369	AGBL1	100300175	ATP/GTP binding protein like 1
+21	17540001	17590000	226.10639500000002	AGBL1	100300175	ATP/GTP binding protein like 1
+21	17560001	17610000	226.10639500000002	AGBL1	100300175	ATP/GTP binding protein like 1
+21	17580001	17630000	226.10639500000002	AGBL1	100300175	ATP/GTP binding protein like 1
+21	19120001	19170000	379.04522099999997	NTRK3	539126	neurotrophic receptor tyrosine kinase 3%2C transcript variant X6
+21	19140001	19190000	449.212625	NTRK3	539126	neurotrophic receptor tyrosine kinase 3%2C transcript variant X6
+21	19160001	19210000	449.212625	NTRK3	539126	neurotrophic receptor tyrosine kinase 3%2C transcript variant X6
+21	19180001	19230000	420.327179	NTRK3	539126	neurotrophic receptor tyrosine kinase 3%2C transcript variant X6
+21	31120001	31170000	247.818661	UBE2Q2	511631	ubiquitin conjugating enzyme E2 Q2
+21	31140001	31190000	258.613597	UBE2Q2	511631	ubiquitin conjugating enzyme E2 Q2
+21	31160001	31210000	258.613597	UBE2Q2|FBXO22	511631|536605	ubiquitin conjugating enzyme E2 Q2|F-box protein 22
+21	31180001	31230000	258.613597	UBE2Q2|FBXO22	511631|536605	ubiquitin conjugating enzyme E2 Q2|F-box protein 22
+21	31620001	31670000	2289.838177	SCAPER	100140107	S-phase cyclin A associated protein in the ER%2C transcript variant X4
+21	31640001	31690000	2289.838177	SCAPER	100140107	S-phase cyclin A associated protein in the ER%2C transcript variant X4
+21	31740001	31790000	899.123601	SCAPER	100140107	S-phase cyclin A associated protein in the ER%2C transcript variant X4
+21	31760001	31810000	899.123601	SCAPER	100140107	S-phase cyclin A associated protein in the ER%2C transcript variant X4
+21	31780001	31830000	899.123601	SCAPER	100140107	S-phase cyclin A associated protein in the ER%2C transcript variant X4
+21	32020001	32070000	790.310809	RCN2|SCAPER	512717|100140107	reticulocalbin 2%2C transcript variant X1|S-phase cyclin A associated protein in the ER%2C transcript variant X4
+21	32040001	32090000	901.070049	RCN2	512717	reticulocalbin 2%2C transcript variant X1
+21	32060001	32110000	901.070049	RCN2	512717	reticulocalbin 2%2C transcript variant X1
+21	32080001	32130000	901.070049	PSTPIP1	513924	proline-serine-threonine phosphatase interacting protein 1%2C transcript variant X5
+21	32100001	32150000	627.072176	PSTPIP1	513924	proline-serine-threonine phosphatase interacting protein 1%2C transcript variant X5
+21	32120001	32170000	327.993769	PSTPIP1	513924	proline-serine-threonine phosphatase interacting protein 1%2C transcript variant X5
+21	32140001	32190000	327.993769	PSTPIP1|TSPAN3	513924|616881	proline-serine-threonine phosphatase interacting protein 1%2C transcript variant X5|tetraspanin 3
+21	32160001	32210000	240.737275	PSTPIP1|TSPAN3	513924|616881	proline-serine-threonine phosphatase interacting protein 1%2C transcript variant X5|tetraspanin 3
+21	32180001	32230000	240.737275	TSPAN3	616881	tetraspanin 3
+21	49300001	49350000	230.566509	FBXO33	539998	F-box protein 33
+21	61140001	61190000	293.438277	BDKRB1|ATG2B	532119|519961	bradykinin receptor B1|autophagy related 2B
+21	61160001	61210000	293.438277	ATG2B	519961	autophagy related 2B
+21	61180001	61230000	352.47610499999996	ATG2B	519961	autophagy related 2B
+21	61200001	61250000	352.47610499999996	GSKIP|ATG2B	616052|519961	GSK3B interacting protein%2C transcript variant X2|autophagy related 2B
+21	61220001	61270000	341.189121	GSKIP|ATG2B	616052|519961	GSK3B interacting protein%2C transcript variant X2|autophagy related 2B
+22	10700001	10750000	319.686085	DCLK3	507205	doublecortin like kinase 3
+22	10720001	10770000	319.686085	DCLK3	507205	doublecortin like kinase 3
+22	10740001	10790000	319.686085	DCLK3|GOLGA4	507205|538893	doublecortin like kinase 3|golgin A4%2C transcript variant X18
+22	17160001	17210000	501.286128	SETD5	532578	SET domain containing 5%2C transcript variant X15
+22	17180001	17230000	552.774641	THUMPD3|SETD5	508940|532578	THUMP domain containing 3|SET domain containing 5%2C transcript variant X15
+22	17200001	17250000	552.774641	THUMPD3|SETD5	508940|532578	THUMP domain containing 3|SET domain containing 5%2C transcript variant X15
+22	17220001	17270000	459.911455	THUMPD3	508940	THUMP domain containing 3
+22	17340001	17390000	394.515336	SRGAP3	512892	SLIT-ROBO Rho GTPase activating protein 3
+22	17360001	17410000	413.54602	SRGAP3	512892	SLIT-ROBO Rho GTPase activating protein 3
+22	17380001	17430000	413.54602	SRGAP3	512892	SLIT-ROBO Rho GTPase activating protein 3
+22	17400001	17450000	413.54602	SRGAP3	512892	SLIT-ROBO Rho GTPase activating protein 3
+22	17620001	17670000	424.186063	RAD18	514440	RAD18%2C E3 ubiquitin protein ligase%2C transcript variant X6
+22	17640001	17690000	424.186063	RAD18	514440	RAD18%2C E3 ubiquitin protein ligase%2C transcript variant X6
+22	17660001	17710000	424.186063	RAD18	514440	RAD18%2C E3 ubiquitin protein ligase%2C transcript variant X6
+22	17680001	17730000	227.597106	RAD18	514440	RAD18%2C E3 ubiquitin protein ligase%2C transcript variant X6
+22	17720001	17770000	280.323937	OXTR	281371	oxytocin receptor
+23	13160001	13210000	363.741542	KCNK16|KCNK17|KIF6	615960|282264|104968668	potassium two pore domain channel subfamily K member 16|potassium two pore domain channel subfamily K member 17%2C transcript variant X2|kinesin family member 6%2C transcript variant X4
+23	13180001	13230000	363.741542	KCNK16|KIF6	615960|104968668	potassium two pore domain channel subfamily K member 16|kinesin family member 6%2C transcript variant X4
+23	13200001	13250000	363.741542	KIF6	104968668	kinesin family member 6%2C transcript variant X4
+23	13540001	13590000	269.946732	KIF6	104968668	kinesin family member 6%2C transcript variant X4
+23	13560001	13610000	269.946732	KIF6	104968668	kinesin family member 6%2C transcript variant X4
+23	13800001	13850000	391.282825	MOCS1|DAAM2	281917|783665	molybdenum cofactor synthesis 1%2C transcript variant b|dishevelled associated activator of morphogenesis 2%2C transcript variant X4
+23	13820001	13870000	403.867669	MOCS1|DAAM2	281917|783665	molybdenum cofactor synthesis 1%2C transcript variant b|dishevelled associated activator of morphogenesis 2%2C transcript variant X4
+23	13840001	13890000	403.867669	MOCS1	281917	molybdenum cofactor synthesis 1%2C transcript variant b
+23	13860001	13910000	403.867669	MOCS1	281917	molybdenum cofactor synthesis 1%2C transcript variant b
+23	18620001	18670000	259.128369	SUPT3H|RUNX2	618133|536911	SPT3 homolog%2C SAGA and STAGA complex component%2C transcript variant X2|runt related transcription factor 2%2C transcript variant X6
+23	18640001	18690000	259.128369	SUPT3H|RUNX2	618133|536911	SPT3 homolog%2C SAGA and STAGA complex component%2C transcript variant X2|runt related transcription factor 2%2C transcript variant X6
+23	18660001	18710000	259.128369	RUNX2	536911	runt related transcription factor 2%2C transcript variant X6
+23	37040001	37090000	344.061093	CDKAL1	530159	CDK5 regulatory subunit associated protein 1 like 1%2C transcript variant X7
+23	37060001	37110000	378.3977	CDKAL1	530159	CDK5 regulatory subunit associated protein 1 like 1%2C transcript variant X7
+23	37080001	37130000	412.849739	CDKAL1	530159	CDK5 regulatory subunit associated protein 1 like 1%2C transcript variant X7
+23	37100001	37150000	412.849739	CDKAL1	530159	CDK5 regulatory subunit associated protein 1 like 1%2C transcript variant X7
+23	37240001	37290000	363.41652400000004	CDKAL1	530159	CDK5 regulatory subunit associated protein 1 like 1%2C transcript variant X7
+23	37260001	37310000	363.41652400000004	CDKAL1	530159	CDK5 regulatory subunit associated protein 1 like 1%2C transcript variant X7
+23	37280001	37330000	466.839077	CDKAL1	530159	CDK5 regulatory subunit associated protein 1 like 1%2C transcript variant X7
+23	37300001	37350000	466.839077	CDKAL1	530159	CDK5 regulatory subunit associated protein 1 like 1%2C transcript variant X7
+23	37320001	37370000	466.839077	CDKAL1	530159	CDK5 regulatory subunit associated protein 1 like 1%2C transcript variant X7
+23	37340001	37390000	255.974302	CDKAL1	530159	CDK5 regulatory subunit associated protein 1 like 1%2C transcript variant X7
+23	37400001	37450000	299.249465	CDKAL1	530159	CDK5 regulatory subunit associated protein 1 like 1%2C transcript variant X7
+23	37420001	37470000	299.249465	CDKAL1	530159	CDK5 regulatory subunit associated protein 1 like 1%2C transcript variant X7
+23	41360001	41410000	310.263653	DTNBP1	506612	dystrobrevin binding protein 1
+23	41380001	41430000	364.268273	DTNBP1	506612	dystrobrevin binding protein 1
+23	41400001	41450000	364.268273	DTNBP1	506612	dystrobrevin binding protein 1
+23	44400001	44450000	225.73315699999998	HIVEP1	529115	human immunodeficiency virus type I enhancer binding protein 1%2C transcript variant X5
+23	50280001	50330000	290.49709900000005	SLC22A23	614701	solute carrier family 22 member 23
+24	300001	350000	274.094775	PARD6G	539292	par-6 family cell polarity regulator gamma
+24	320001	370000	274.094775	PARD6G	539292	par-6 family cell polarity regulator gamma
+24	520001	570000	385.209824	TXNL4A|HSBP1L1|PQLC1|LOC515578	535457|100335435|533304|515578	thioredoxin like 4A|heat shock factor binding protein 1 like 1%2C transcript variant X3|PQ loop repeat containing 1%2C transcript variant X2|uncharacterized LOC515578%2C transcript variant X3
+24	540001	590000	385.209824	TXNL4A|HSBP1L1|PQLC1	535457|100335435|533304	thioredoxin like 4A|heat shock factor binding protein 1 like 1%2C transcript variant X3|PQ loop repeat containing 1%2C transcript variant X2
+24	560001	610000	385.209824	HSBP1L1|PQLC1	100335435|533304	heat shock factor binding protein 1 like 1%2C transcript variant X3|PQ loop repeat containing 1%2C transcript variant X2
+24	600001	650000	471.757879	PQLC1|KCNG2	533304|506324	PQ loop repeat containing 1%2C transcript variant X2|potassium voltage-gated channel modifier subfamily G member 2
+24	620001	670000	471.757879	KCNG2	506324	potassium voltage-gated channel modifier subfamily G member 2
+24	640001	690000	471.757879	CTDP1	100336537	CTD phosphatase subunit 1%2C transcript variant X2
+24	740001	790000	438.341383	NFATC1	511224	nuclear factor of activated T cells 1
+24	760001	810000	863.6523300000001	NFATC1	511224	nuclear factor of activated T cells 1
+24	780001	830000	863.6523300000001	NFATC1	511224	nuclear factor of activated T cells 1
+24	820001	870000	1029.837107	NFATC1	511224	nuclear factor of activated T cells 1
+24	840001	890000	1029.837107	NFATC1|ATP9B	511224|510301	nuclear factor of activated T cells 1|ATPase phospholipid transporting 9B (putative)%2C transcript variant X1
+24	860001	910000	1029.837107	NFATC1|ATP9B	511224|510301	nuclear factor of activated T cells 1|ATPase phospholipid transporting 9B (putative)%2C transcript variant X1
+24	900001	950000	270.331887	ATP9B	510301	ATPase phospholipid transporting 9B (putative)%2C transcript variant X1
+24	920001	970000	270.331887	ATP9B	510301	ATPase phospholipid transporting 9B (putative)%2C transcript variant X1
+24	2360001	2410000	489.768604	ZNF236	535214	zinc finger protein 236%2C transcript variant X6
+24	2380001	2430000	489.768604	ZNF236	535214	zinc finger protein 236%2C transcript variant X6
+24	3540001	3590000	855.34795	ZNF407	530360	zinc finger protein 407%2C transcript variant X2
+24	3560001	3610000	855.34795	ZNF407	530360	zinc finger protein 407%2C transcript variant X2
+24	3580001	3630000	793.10422	ZNF407	530360	zinc finger protein 407%2C transcript variant X2
+24	3600001	3650000	733.212147	ZNF407	530360	zinc finger protein 407%2C transcript variant X2
+24	3620001	3670000	587.085397	ZNF407	530360	zinc finger protein 407%2C transcript variant X2
+24	3640001	3690000	269.478499	ZNF407	530360	zinc finger protein 407%2C transcript variant X2
+24	5180001	5230000	260.670739	NETO1	530407	neuropilin and tolloid like 1
+24	5320001	5370000	698.226894	CBLN2	509847	cerebellin 2 precursor%2C transcript variant X1
+24	8520001	8570000	275.011743	LOC100337355	100337355	HIG1 domain family member 1A%2C mitochondrial
+24	8540001	8590000	321.103486	LOC100337355	100337355	HIG1 domain family member 1A%2C mitochondrial
+24	21580001	21630000	224.93958500000002	INO80C	533426	INO80 complex subunit C
+24	21600001	21650000	224.93958500000002	INO80C	533426	INO80 complex subunit C
+25	9400001	9450000	259.87198	TEKT5|NUBP1	521940|507007	tektin 5|nucleotide binding protein 1
+25	9420001	9470000	259.87198	NUBP1|TVP23A	507007|100139027	nucleotide binding protein 1|trans-golgi network vesicle protein 23 homolog A%2C transcript variant X1
+25	9440001	9490000	332.392069	NUBP1|TVP23A	507007|100139027	nucleotide binding protein 1|trans-golgi network vesicle protein 23 homolog A%2C transcript variant X1
+25	9460001	9510000	343.66365099999996	TVP23A	100139027	trans-golgi network vesicle protein 23 homolog A%2C transcript variant X1
+25	9480001	9530000	343.66365099999996	TVP23A	100139027	trans-golgi network vesicle protein 23 homolog A%2C transcript variant X1
+25	9500001	9550000	335.741323	TVP23A|CIITA	100139027|508720	trans-golgi network vesicle protein 23 homolog A%2C transcript variant X1|class II major histocompatibility complex transactivator%2C transcript variant X5
+25	9680001	9730000	238.105034	CLEC16A	615054	C-type lectin domain containing 16A%2C transcript variant X5
+25	9700001	9750000	238.105034	CLEC16A	615054	C-type lectin domain containing 16A%2C transcript variant X5
+25	9720001	9770000	238.105034	CLEC16A	615054	C-type lectin domain containing 16A%2C transcript variant X5
+25	17940001	17990000	255.867085	GP2	531420	glycoprotein 2
+25	17960001	18010000	255.867085	GP2|UMOD	531420|281567	glycoprotein 2|uromodulin
+25	18020001	18070000	371.359014	UMOD|PDILT	281567|518716	uromodulin|protein disulfide isomerase like%2C testis expressed
+25	18040001	18090000	371.359014	PDILT	518716	protein disulfide isomerase like%2C testis expressed
+25	18060001	18110000	371.359014	PDILT|ACSM5	518716|100298888	protein disulfide isomerase like%2C testis expressed|acyl-CoA synthetase medium chain family member 5%2C transcript variant X2
+25	30200001	30250000	258.232293	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30220001	30270000	316.595548	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30240001	30290000	316.595548	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30260001	30310000	275.997857	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30380001	30430000	539.253004	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30400001	30450000	778.430588	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30420001	30470000	778.430588	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30440001	30490000	778.430588	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30480001	30530000	509.926328	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30500001	30550000	509.926328	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30520001	30570000	892.706616	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30540001	30590000	903.819677	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30560001	30610000	903.819677	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30580001	30630000	903.819677	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30600001	30650000	816.35338	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30620001	30670000	766.7184980000001	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30640001	30690000	755.108404	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30660001	30710000	621.078204	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30680001	30730000	304.04359700000003	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30700001	30750000	304.04359700000003	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	30720001	30770000	304.04359700000003	AUTS2	615936	AUTS2%2C activator of transcription and developmental regulator
+25	41760001	41810000	253.680525	COX19|ADAP1|GET4	100126182|282176|618954	COX19%2C cytochrome c oxidase assembly factor|ArfGAP with dual PH domains 1%2C transcript variant X3|golgi to ER traffic protein 4
+25	41780001	41830000	253.680525	ADAP1|SUN1|GET4	282176|100847692|618954	ArfGAP with dual PH domains 1%2C transcript variant X3|Sad1 and UNC84 domain containing 1%2C transcript variant X19|golgi to ER traffic protein 4
+26	37220001	37270000	247.18850600000002	ENO4|HSPA12A	767880|540050	enolase 4|heat shock protein family A (Hsp70) member 12A%2C transcript variant X2
+26	37240001	37290000	247.18850600000002	ENO4|HSPA12A|SHTN1	767880|540050|532603	enolase 4|heat shock protein family A (Hsp70) member 12A%2C transcript variant X2|shootin 1%2C transcript variant X4
+26	38240001	38290000	353.034254	RAB11FIP2	540709	RAB11 family interacting protein 2%2C transcript variant X1
+26	38260001	38310000	353.034254	RAB11FIP2	540709	RAB11 family interacting protein 2%2C transcript variant X1
+26	38280001	38330000	276.908498	RAB11FIP2	540709	RAB11 family interacting protein 2%2C transcript variant X1
+26	38900001	38950000	266.353339	CACUL1	100337346	CDK2 associated cullin domain 1%2C transcript variant X2
+26	38920001	38970000	266.353339	CACUL1	100337346	CDK2 associated cullin domain 1%2C transcript variant X2
+26	38940001	38990000	266.353339	CACUL1	100337346	CDK2 associated cullin domain 1%2C transcript variant X2
+26	39200001	39250000	275.802894	NANOS1|EIF3A	786356|506564	nanos C2HC-type zinc finger 1|eukaryotic translation initiation factor 3 subunit A
+26	39220001	39270000	275.802894	NANOS1|EIF3A	786356|506564	nanos C2HC-type zinc finger 1|eukaryotic translation initiation factor 3 subunit A
+26	39240001	39290000	258.26892000000004	NANOS1|EIF3A	786356|506564	nanos C2HC-type zinc finger 1|eukaryotic translation initiation factor 3 subunit A
+26	39260001	39310000	258.26892000000004	EIF3A|FAM45A	506564|534370	eukaryotic translation initiation factor 3 subunit A|family with sequence similarity 45 member A%2C transcript variant X4
+26	44600001	44650000	266.404988	CTBP2	281730	C-terminal binding protein 2
+26	44620001	44670000	266.404988	CTBP2	281730	C-terminal binding protein 2
+26	48860001	48910000	733.241281	MGMT	616091	O-6-methylguanine-DNA methyltransferase%2C transcript variant X4
+26	48880001	48930000	733.241281	MGMT	616091	O-6-methylguanine-DNA methyltransferase%2C transcript variant X4
+26	48900001	48950000	733.241281	MGMT	616091	O-6-methylguanine-DNA methyltransferase%2C transcript variant X4
+26	48920001	48970000	291.286968	MGMT	616091	O-6-methylguanine-DNA methyltransferase%2C transcript variant X4
+26	48940001	48990000	291.286968	MGMT	616091	O-6-methylguanine-DNA methyltransferase%2C transcript variant X4
+26	48960001	49010000	291.286968	MGMT	616091	O-6-methylguanine-DNA methyltransferase%2C transcript variant X4
+26	49000001	49050000	484.19193499999994	MGMT	616091	O-6-methylguanine-DNA methyltransferase%2C transcript variant X4
+26	49020001	49070000	484.19193499999994	MGMT	616091	O-6-methylguanine-DNA methyltransferase%2C transcript variant X4
+26	49040001	49090000	475.42948499999994	MGMT	616091	O-6-methylguanine-DNA methyltransferase%2C transcript variant X4
+26	49060001	49110000	344.815912	MGMT	616091	O-6-methylguanine-DNA methyltransferase%2C transcript variant X4
+27	19260001	19310000	307.197438	PCM1	525337	pericentriolar material 1%2C transcript variant X14
+27	19280001	19330000	307.197438	PCM1	525337	pericentriolar material 1%2C transcript variant X14
+27	37880001	37930000	265.091469	CSGALNACT1	528057	chondroitin sulfate N-acetylgalactosaminyltransferase 1%2C transcript variant X4
+27	37900001	37950000	265.091469	CSGALNACT1	528057	chondroitin sulfate N-acetylgalactosaminyltransferase 1%2C transcript variant X4
+27	37980001	38030000	495.14426299999997	CSGALNACT1	528057	chondroitin sulfate N-acetylgalactosaminyltransferase 1%2C transcript variant X4
+27	38000001	38050000	495.14426299999997	CSGALNACT1	528057	chondroitin sulfate N-acetylgalactosaminyltransferase 1%2C transcript variant X4
+27	42460001	42510000	582.009319	UBE2E2	784326	ubiquitin conjugating enzyme E2 E2
+27	42480001	42530000	582.009319	UBE2E2	784326	ubiquitin conjugating enzyme E2 E2
+27	42500001	42550000	593.992757	UBE2E2	784326	ubiquitin conjugating enzyme E2 E2
+27	42520001	42570000	593.992757	UBE2E2	784326	ubiquitin conjugating enzyme E2 E2
+27	42580001	42630000	562.33821	UBE2E2	784326	ubiquitin conjugating enzyme E2 E2
+27	42600001	42650000	562.33821	UBE2E2	784326	ubiquitin conjugating enzyme E2 E2
+27	42620001	42670000	1036.566052	UBE2E2	784326	ubiquitin conjugating enzyme E2 E2
+27	42640001	42690000	1036.566052	LOC112444598|UBE2E2	112444598|784326	uncharacterized LOC112444598|ubiquitin conjugating enzyme E2 E2
+27	42660001	42710000	920.537589	LOC112444598|UBE2E2	112444598|784326	uncharacterized LOC112444598|ubiquitin conjugating enzyme E2 E2
+27	42680001	42730000	920.537589	LOC112444598|UBE2E2	112444598|784326	uncharacterized LOC112444598|ubiquitin conjugating enzyme E2 E2
+28	15000001	15050000	288.834066	FAM13C	540918	family with sequence similarity 13 member C
+28	15020001	15070000	369.124398	FAM13C	540918	family with sequence similarity 13 member C
+28	15260001	15310000	452.17762999999997	SLC16A9	539514	solute carrier family 16 member 9%2C transcript variant X2
+28	15280001	15330000	452.17762999999997	SLC16A9	539514	solute carrier family 16 member 9%2C transcript variant X2
+29	260001	310000	811.346438	LOC104970173|LOC789688	104970173|789688	tropomyosin alpha-3 chain-like%2C transcript variant X2|ankyrin repeat domain-containing protein 26-like
+29	280001	330000	811.346438	LOC104970173|LOC789688	104970173|789688	tropomyosin alpha-3 chain-like%2C transcript variant X2|ankyrin repeat domain-containing protein 26-like
+29	17820001	17870000	292.71333	LOC782057|KCTD21|USP35	782057|539645|525702	phosphomannomutase 2-like|potassium channel tetramerization domain containing 21%2C transcript variant X3|ubiquitin specific peptidase 35
+29	17840001	17890000	434.196488	KCTD21|USP35	539645|525702	potassium channel tetramerization domain containing 21%2C transcript variant X3|ubiquitin specific peptidase 35
+29	17860001	17910000	452.379494	KCTD21|USP35	539645|525702	potassium channel tetramerization domain containing 21%2C transcript variant X3|ubiquitin specific peptidase 35
+29	17880001	17930000	477.07874699999996	KCTD21	539645	potassium channel tetramerization domain containing 21%2C transcript variant X3
+29	17900001	17950000	477.07874699999996	ALG8	538731	ALG8%2C alpha-1%2C3-glucosyltransferase
+29	17920001	17970000	477.07874699999996	ALG8	538731	ALG8%2C alpha-1%2C3-glucosyltransferase
+29	18340001	18390000	285.46544500000005	AQP11|CLNS1A	510038|613968	aquaporin 11|chloride nucleotide-sensitive channel 1A%2C transcript variant X1
+29	18360001	18410000	285.46544500000005	AQP11|CLNS1A	510038|613968	aquaporin 11|chloride nucleotide-sensitive channel 1A%2C transcript variant X1
+29	18700001	18750000	312.160721	GDPD4	784501	glycerophosphodiester phosphodiesterase domain containing 4%2C transcript variant X2
+29	18720001	18770000	427.35750099999996	GDPD4	784501	glycerophosphodiester phosphodiesterase domain containing 4%2C transcript variant X2
+29	18740001	18790000	604.538195	GDPD4	784501	glycerophosphodiester phosphodiesterase domain containing 4%2C transcript variant X2
+29	18760001	18810000	604.538195	GDPD4	784501	glycerophosphodiester phosphodiesterase domain containing 4%2C transcript variant X2
+29	18780001	18830000	604.538195	GDPD4	784501	glycerophosphodiester phosphodiesterase domain containing 4%2C transcript variant X2
+29	18800001	18850000	568.603163	GDPD4	784501	glycerophosphodiester phosphodiesterase domain containing 4%2C transcript variant X2
+29	18820001	18870000	286.14333500000004	GDPD4	784501	glycerophosphodiester phosphodiesterase domain containing 4%2C transcript variant X2
+29	23840001	23890000	235.512767	NELL1	100336918	neural EGFL like 1%2C transcript variant X2
+29	23860001	23910000	235.512767	NELL1	100336918	neural EGFL like 1%2C transcript variant X2
+29	23880001	23930000	235.512767	NELL1	100336918	neural EGFL like 1%2C transcript variant X2
+29	24460001	24510000	475.30107000000004	PRMT3	523174	protein arginine methyltransferase 3
+29	24480001	24530000	645.5127610000001	PRMT3	523174	protein arginine methyltransferase 3
+29	24500001	24550000	645.5127610000001	PRMT3	523174	protein arginine methyltransferase 3
+29	24520001	24570000	645.5127610000001	HTATIP2|PRMT3	539276|523174	HIV-1 Tat interactive protein 2|protein arginine methyltransferase 3
+29	24540001	24590000	538.22739	LOC518027|HTATIP2|PRMT3	518027|539276|523174	RING finger protein 113A|HIV-1 Tat interactive protein 2|protein arginine methyltransferase 3
+29	24560001	24610000	505.253012	LOC518027|HTATIP2|PRMT3	518027|539276|523174	RING finger protein 113A|HIV-1 Tat interactive protein 2|protein arginine methyltransferase 3
+29	25760001	25810000	236.203298	CSRP3|ZDHHC13	540407|514176	cysteine and glycine rich protein 3|zinc finger DHHC-type containing 13
+29	25780001	25830000	236.203298	ZDHHC13	514176	zinc finger DHHC-type containing 13
+29	34920001	34970000	246.73231299999998	NTM	534414	neurotrimin%2C transcript variant X5
+29	34940001	34990000	246.73231299999998	NTM	534414	neurotrimin%2C transcript variant X5
+29	35000001	35050000	345.29432099999997	NTM	534414	neurotrimin%2C transcript variant X5
+29	35020001	35070000	345.29432099999997	NTM	534414	neurotrimin%2C transcript variant X5

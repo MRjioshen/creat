@@ -1,0 +1,35 @@
+Sender: jhscheduler System <jhadmin@node82>
+Subject: Job 5499900: <pi> Done
+
+Job <pi> was submitted from host <node119> by user <2015010869>.
+Job was executed on host(s) <6*node82>, in queue <jynodequeue>, as user <2015010869>.
+</stor9000/apps/users/NWSUAF/2015010869> was used as the home directory.
+</stor9000/apps/users/NWSUAF/2015010869/zhaojiahao/analyze/3.sel/pi> was used as the working directory.
+Started at Tue Dec 12 23:07:32 2023
+Results reported at Tue Dec 12 23:07:35 2023
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+bash 1.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      1.01 sec.
+    Max Memory :         2 MB
+    Max Swap   :        33 MB
+
+    Max Processes  :         1
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <1.e> for stderr output of this job.
+

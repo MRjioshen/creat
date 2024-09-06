@@ -1,0 +1,48 @@
+Sender: jhscheduler System <jhadmin@node82>
+Subject: Job 5499902: <PI> Done
+
+Job <PI> was submitted from host <node119> by user <2015010869>.
+Job was executed on host(s) <4*node82>, in queue <jynodequeue>, as user <2015010869>.
+</stor9000/apps/users/NWSUAF/2015010869> was used as the home directory.
+</stor9000/apps/users/NWSUAF/2015010869/zhaojiahao/analyze/3.sel/pi> was used as the working directory.
+Started at Tue Dec 12 23:13:54 2023
+Results reported at Tue Dec 12 23:14:22 2023
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+bash 2.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :     20.02 sec.
+    Max Memory :         2 MB
+    Max Swap   :        33 MB
+
+    Max Processes  :         1
+
+The output (if any) follows:
+
+
+Created on Mon Jan 15 09:59:34 2018
+
+@author: YudongCai
+
+@Email: yudongcai216@gmail.com
+
+
+    apply Inverse survival function to normally distributed variables
+    inverse of (1 - cdf)
+    
+raw: (124289, 6)
+filter NA, (124289, 6)
+
+
+PS:
+
+Read file <2.e> for stderr output of this job.
+

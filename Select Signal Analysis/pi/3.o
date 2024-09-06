@@ -1,0 +1,46 @@
+Sender: jhscheduler System <jhadmin@node82>
+Subject: Job 5499903: <PI> Done
+
+Job <PI> was submitted from host <node119> by user <2015010869>.
+Job was executed on host(s) <6*node82>, in queue <jynodequeue>, as user <2015010869>.
+</stor9000/apps/users/NWSUAF/2015010869> was used as the home directory.
+</stor9000/apps/users/NWSUAF/2015010869/zhaojiahao/analyze/3.sel/pi> was used as the working directory.
+Started at Tue Dec 12 23:19:58 2023
+Results reported at Tue Dec 12 23:20:13 2023
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+bash 3.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      9.53 sec.
+    Max Memory :         5 MB
+    Max Swap   :       372 MB
+
+    Max Processes  :         4
+
+The output (if any) follows:
+
+
+Created on Mon Jan 15 20:28:05 2018
+
+@author: Caiyd
+
+
+    
+    曼哈顿图
+    使用infile中的chr_col和loc_col列作为x轴, 对应的val_col值画在y轴
+    输出outfile, 根据outfile指定的拓展名输出相应的格式
+    
+
+
+PS:
+
+Read file <3.e> for stderr output of this job.
+
