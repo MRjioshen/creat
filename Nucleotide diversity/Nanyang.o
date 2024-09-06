@@ -1,0 +1,35 @@
+Sender: jhscheduler System <jhadmin@node43>
+Subject: Job 5331634: <PI.Nanyang> Done
+
+Job <PI.Nanyang> was submitted from host <node119> by user <2015010869>.
+Job was executed on host(s) <8*node43>, in queue <jynodequeue>, as user <2015010869>.
+</stor9000/apps/users/NWSUAF/2015010869> was used as the home directory.
+</stor9000/apps/users/NWSUAF/2015010869/zhaojiahao/analyze/1.SNP/5.PI> was used as the working directory.
+Started at Tue Oct  3 13:33:06 2023
+Results reported at Tue Oct  3 13:38:42 2023
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+bash Nanyang.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    334.84 sec.
+    Max Memory :        11 MB
+    Max Swap   :       372 MB
+
+    Max Processes  :         4
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <Nanyang.e> for stderr output of this job.
+

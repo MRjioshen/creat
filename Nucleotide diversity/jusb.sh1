@@ -1,0 +1,4 @@
+for i in `cat allbreed.list`
+do
+    jsub -R "rusage[res=1]span[hosts=1]" -q jynodequeue -J PI.${i} -e ${i}.e -o ${i}.o -n 8 -M 20000000 bash ${i}.sh
+done

@@ -1,0 +1,16 @@
+Angus_LDdecay.stat.gz	Angus
+Hereford_LDdecay.stat.gz	Hereford
+RedAngus_LDdecay.stat.gz	RedAngus
+Gelbvieh_LDdecay.stat.gz	Gelbvieh
+Jersey_LDdecay.stat.gz	Jersey
+Simmental_LDdecay.stat.gz	Simmental
+Piedmontese_LDdecay.stat.gz	Piedmontese
+Hanwoo_LDdecay.stat.gz	Hanwoo
+Tibetan_LDdecay.stat.gz	Tibetan
+Mongolia_LDdecay.stat.gz	Mongolia
+Indiandicine_LDdecay.stat.gz	Indiandicine
+Chinese_LDdecay.stat.gz	Chinese
+Jiaxian_LDdecay.stat.gz	Jiaxian
+Qinchuan_LDdecay.stat.gz	Qinchuan
+Nanyang_LDdecay.stat.gz	Nanyang
+DN_LDdecay.stat.gz	DN

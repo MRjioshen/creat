@@ -1,0 +1,38 @@
+Sender: jhscheduler System <jhadmin@node116>
+Subject: Job 5331601: <LD.Qinchuan> Done
+
+Job <LD.Qinchuan> was submitted from host <node119> by user <2015010869>.
+Job was executed on host(s) <8*node116>, in queue <jynodequeue>, as user <2015010869>.
+</stor9000/apps/users/NWSUAF/2015010869> was used as the home directory.
+</stor9000/apps/users/NWSUAF/2015010869/zhaojiahao/analyze/1.SNP/4.LD> was used as the working directory.
+Started at Tue Oct  3 13:29:53 2023
+Results reported at Tue Oct  3 18:24:40 2023
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+bash Qinchuan.LD.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :  17686.75 sec.
+    Max Memory :      5631 MB
+    Max Swap   :      5875 MB
+
+    Max Processes  :         4
+
+The output (if any) follows:
+
+the Number of subPop samples[found in VCF] is 30
+Warning skip non bi-allelic(Singleton/ThreeMulti allelic) site, and total skip allelic sites number is :124156
+Used [perl  ../bin/Plot_XX.pl ] to Plot the LDdecay
+
+
+PS:
+
+Read file <Qinchuan.e> for stderr output of this job.
+
